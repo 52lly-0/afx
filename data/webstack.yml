@@ -1,8 +1,8 @@
 ---
-- taxonomy: 别瞎点（私人使用））
+- taxonomy: 日常（开机）
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 日常操作（开机）
+    - term: 别瞎点（私人使用）
       links:
         - title: 局域网共享平台
           logo: https://www.google.com/s2/favicons?sz=64&domain=baidu.com
