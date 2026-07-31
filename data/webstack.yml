@@ -12,6 +12,21 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
           url: https://aws.amazon.com/cn/
           description: 2027年1月25前（关闭并且注销账单）
+
+# 新增：费用 常规类别
+- taxonomy: 费用（常规）
+  icon: fa-solid fa-wallet
+  list:
+    - term: 云服务 & 域名账单
+      links:
+        - title: Spaceship域名
+          logo: https://www.google.com/s2/favicons?sz=64&domain=spaceship.com
+          url: https://www.spaceship.com
+          description: 域名续费管理
+        - title: AWS控制台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
+          url: https://aws.amazon.com/cn/
+          description: 云资源账单监控
           
 - taxonomy: 常用推荐
   icon: fa-star
