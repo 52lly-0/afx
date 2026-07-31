@@ -235,15 +235,15 @@
           description: A library of screenshots and examples of really good UX. Brought to you by
 
       
-- taxonomy: 素材资源
+- taxonomy: 各类部署
   icon: fa-thumbs-up
   list: 
-    - term: 图标素材
+    - term: 影视类
       links:
-        - title: Iconfinder
-          logo: images/logos/Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
+        - title: 壳儿影视
+          logo: https://www.google.com/s2/favicons?sz=64&domain=unilei.github.io
+          url: https://unilei.github.io/kerkerker-config-manager/data/config.enc.json
+          description: 视频源地址
         - title: iconfont
           logo: images/logos/iconfont.png
           url: http://www.iconfont.cn/
