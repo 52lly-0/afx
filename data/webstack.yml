@@ -1,5 +1,7 @@
 ---
-
+- taxonomy: 日用
+  icon: fa-regular fa-lightbulb
+  list: 
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
