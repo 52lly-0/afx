@@ -7,6 +7,15 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
       url: https://www.youtube.com
       description: 一个专注于软件安装，科学上网教学的频道！
+    - title: UUID生成
+      url: https://99688988.xyz/uuid-generator/
+      logo:https://www.google.com/s2/favicons?sz=64&domain=99688988.xyz
+      description: UUID在线生成
+    - title: 轻抖
+      qrcode: 
+      logo: images/logos/qingdou.jpg
+      url: https://share.qingdouyin.com/app/sub-commission-download/1652420599279?type=&code=EWDJXS/
+      description: 涨粉、引流、工具、选品、自购等一站式服务，总有一款适合你！全网达人都在用。
     - title: 资源博客
       qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
@@ -59,14 +68,6 @@
       logo: 
       url: https://clipboard.168668520.xyz/
       description: 提供数据暂存和传送服务
-    - title: UUID生成
-      url: https://99688988.xyz/uuid-generator/
-      description: UUID在线生成
-    - title: 轻抖
-      qrcode: 
-      logo: images/logos/qingdou.jpg
-      url: https://share.qingdouyin.com/app/sub-commission-download/1652420599279?type=&code=EWDJXS/
-      description: 涨粉、引流、工具、选品、自购等一站式服务，总有一款适合你！全网达人都在用。
     - title: 流量变现
       logo:  images/logos/rengtuiban.png
       url: https://dt.bd.cn/#/pages/login/register?invite_code=516557
