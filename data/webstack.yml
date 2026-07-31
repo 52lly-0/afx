@@ -84,10 +84,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=wifilu.com
       url: https://www.wifilu.com/4683.html
       description: strm部署方式
-    - title: 数英网
-      logo: images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
+    - title: 飞牛刷armbian
+      logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+      url: https://github.com/ophub/amlogic-s9xxx-armbian/releases
+      description: armbian系统
     - title: 猎云网
       logo: images/logos/lieyunwang.png
       url: https://www.lieyunwang.com/
@@ -244,11 +244,11 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=unilei.github.io
           url: https://unilei.github.io/kerkerker-config-manager/data/config.enc.json
           description: 视频源地址
-        - title: iconfont
-          logo: images/logos/iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库
-        - title: iconmonstr
+        - title: 飞鲸影视
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/FNOSP/FlyNarwhal/releases
+          description: 飞牛的飞鲸
+        - title: 1
           logo: images/logos/iconmonstr.png
           url: https://iconmonstr.com/
           description: Free simple icons for your next project
@@ -293,7 +293,7 @@
           url: http://simplelineicons.com/
           description: Simple line Icons pack
       
-    - term: LOGO设计
+    - term: 镜像仓库
       links:
         - title: Iconsfeed
           logo: images/logos/iconsfeed.png
@@ -312,12 +312,12 @@
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly
 
-    - term: 平面素材
+    - term: 节点
       links:
-        - title: freepik
-          logo: images/logos/freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
+        - title: 后台转换地址
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/cmliu
+          description: 第三方后台转换部署(注意节点暴露)
         - title: wallhalla
           logo: images/logos/wallhalla.png
           url: https://wallhalla.com/
