@@ -418,12 +418,12 @@
           logo: images/logos/sketchcasts.png
           description: Learn Sketch Train your design skills with a weekly video tutorial
       
-    - term: 字体资源
+    - term: Ai资源
       links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: images/logos/googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography
+        - title: agentscope机器人，带节点
+          url: https://platform.agentscope.io/deploy
+          logo: https://www.google.com/s2/favicons?sz=64&domain=platform.agentscope.io
+          description: 机器人1号（telegram）
         - title: Typekit
           url: https://typekit.com/
           logo: images/logos/typekit.png
