@@ -674,10 +674,10 @@
           description: 中国领先的PPT模板共享平台
       
 
-- taxonomy: 常用工具
+- taxonomy: 真4K专区
   icon: fa-palette
   list: 
-    - term: 图形创意
+    - term: 在线影视
       links:
         - title: photoshop
           url: https://www.adobe.com/cn/products/photoshop.html
@@ -708,7 +708,7 @@
           logo: images/logos/blender.png
           description: Blender is the free and open source 3D creation suite.
       
-    - term: 界面设计
+    - term: 七大官网影视区
       links:
         - title: Sketch
           url: https://sketchapp.com/
@@ -734,12 +734,12 @@
           url: https://www.figma.com/
           logo: images/logos/figma.png
           description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 交互动效
+    - term: 4K
       links:
-        - title: Adobe After Effects CC
-          url: https://www.adobe.com/cn/products/aftereffects/
-          logo: images/logos/AdobeAfterEffectsCC.png
-          description: 电影般的视觉效果和动态图形。
+        - title: 教父  
+          url: 教父.com
+          logo: https://www.google.com/s2/favicons?sz=64&domain=教父.com
+          description: 及时更新
         - title: principle
           url: http://principleformac.com/
           logo: images/logos/principle.png
