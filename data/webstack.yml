@@ -1,10 +1,13 @@
 ---
 - taxonomy: 日用
-  icon: fa-regular fa-lightbulb
+  icon: fa-thumbs-up
   list: 
-- taxonomy: 常用推荐
-  icon: fa-star
-  links: 
+    - term: 日用推荐
+      links:
+        - title: 音乐
+          logo: https://www.google.com/s2/favicons?sz=64&domain=music.zyfx6.xyz
+          url:https://music.zyfx6.xyz/
+          description: 在线音乐1
     - title: 唯爱李丽玉（个人）
       logo: https://www.google.com/s2/favicons?sz=64&domain=52lly.kdns.fr/
       url: https://52lly.kdns.fr/
