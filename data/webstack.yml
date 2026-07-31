@@ -156,11 +156,11 @@
           url: https://faxian.appinn.com/
           description: 在这里发现更多有趣的应用
       
-    - term: 界面灵感
+    - term: 系统操作
       links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
+        - title: 刺客边风
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.ckbf88.com
+          url: https://www.ckbf88.com/
           description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
         - title: Collect UI
           logo: images/logos/CollectUI.png
