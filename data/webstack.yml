@@ -956,13 +956,13 @@
           description: 用户体验人的专业社区
 
 
-- taxonomy: UED团队
+- taxonomy: 签到
   icon: fa-user-group
   links: 
-    - title: Airbnb Design
-      url: https://airbnb.design
-      logo: images/logos/AirbnbDesign.png
-      description: Airbnb Design
+    - title: 节点领取（每日）
+      url: https://w1.maxo.top/user
+      logo: https://www.google.com/s2/favicons?sz=64&domain=w1.maxo.top
+      description: 高速？（少量可临时使用）
     - title: Facebook Design
       url: http://facebook.design/
       logo: images/logos/FacebookDesign.png
