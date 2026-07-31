@@ -367,12 +367,12 @@
           url: http://www.sccnn.com/
           description: 免费素材共享平台
       
-    - term: UI资源
+    - term: docker分类
       links:
-        - title: Freebiesbug
-          logo: images/logos/freebiesbug.png
-          url: https://freebiesbug.com/
-          description: Hand-picked resources for web designer and developers, constantly updated.
+        - title: 爱盼搜索
+          logo: https://www.google.com/s2/favicons?sz=64&domain=hub.docker.com
+          url: https://hub.docker.com/r/fooololo/aipan-netdisk-search/tags
+          description: 爱盼
         - title: Freebie Supply
           logo: images/logos/freebiesupply.png
           url: https://freebiesupply.com/
