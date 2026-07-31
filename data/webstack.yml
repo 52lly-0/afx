@@ -383,12 +383,12 @@
           url: http://principlerepo.com/
           description: Free, High Quality Principle Resources
       
-    - term: Sketch资源
+    - term: 在线测试网（测速）
       links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: images/logos/Sketch.png
-          description: The digital design toolkit
+        - title: Fsat测速
+          url: www.fast.com
+          logo: https://www.google.com/s2/favicons?sz=64&domain=fast.com
+          description: 测速1
         - title: Sketch Measure
           url: http://utom.design/measure/
           logo: images/logos/SketchMeasure.png
