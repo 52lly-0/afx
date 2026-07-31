@@ -8,6 +8,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=baidu.com
           url: https://192.168.1.92:8080
           description: 局域网文件传输
+     - term: 1（油管查询）
+       links:
+        - title: 科技共享blog
+          logo: https://www.google.com/s2/favicons?sz=64&domain=kjgx668.blogspot.com
+          url: https://kjgx668.blogspot.com/2026/07/2026root-vpnopenwrt.html?m=1#
+          description: 扣子
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
