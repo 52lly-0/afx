@@ -129,11 +129,11 @@
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 发现产品
+    - term: 油猴脚本
       links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
+        - title: 脚本库
+          logo: https://www.google.com/s2/favicons?sz=64&domain=soujiaoben.org
+          url: https://soujiaoben.org/#/pages/list/list
           description: 发现新鲜有趣的产品
         - title: NEXT
           logo: images/logos/NEXT.png
