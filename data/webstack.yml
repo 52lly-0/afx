@@ -68,15 +68,15 @@
     - term: 日常影视（待处理）
       links:
         - title: 油管
-          logo: https://www.google.com/s2/favicons?sz=64&domain=youtubee.com
+          logo: https://www.google.com/s2/favicons?sz=64&domain=youtube.com
           url: https://www.youtube.com/watch?v=YQU2tWxBa40
           description: 待处理影音
     - term: Docker容器面板
       links:
-        - title: Portainer
-          logo: https://www.google.com/s2/favicons?sz=64&domain=portainer.io
-          url: http://192.168.1.90:9000
-          description: 容器可视化管理
+        - title: 飞牛面板
+          logo: https://www.google.com/s2/favicons?sz=64&domain=nfnas.com
+          url: http://192.168.1.123:5666
+          description: 飞牛Nas后台
     - term: 路由器管理
       links:
         - title: 主路由后台
