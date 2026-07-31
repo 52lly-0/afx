@@ -2,8 +2,8 @@
 - taxonomy: 日用
   icon: fa-thumbs-up
   list: 
-    - term: 日用推荐
-      links:
+   - term: 日用推荐
+    links:
     - title: 音乐
       logo: https://www.google.com/s2/favicons?sz=64&domain=music.zyfx6.xyz
       url: https://music.zyfx6.xyz/
