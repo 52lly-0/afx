@@ -79,11 +79,11 @@
     - title: 飞牛官网
       logo: https://www.google.com/s2/favicons?sz=64&domain=fnnas.com/
       url: https://fnnas.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
+      description: nas
+    - title: 飞牛影视strm指南
+      logo: https://www.google.com/s2/favicons?sz=64&domain=wifilu.com
+      url: https://www.wifilu.com/4683.html
+      description: strm部署方式
     - title: 数英网
       logo: images/logos/digitaling.png
       url: https://www.digitaling.com/
@@ -135,10 +135,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=soujiaoben.org
           url: https://soujiaoben.org/#/pages/list/list
           description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
+        - title: 油猴脚本官网
+          logo: https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
+          url: https://greasyfork.org/zh-CN
+          description: 原地址
         - title: 少数派
           logo: images/logos/sspai.png
           url: https://sspai.com/
