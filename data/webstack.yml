@@ -77,11 +77,11 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=nfnas.com
           url: http://192.168.1.123:5666
           description: 飞牛Nas后台
-    - term: 路由器管理
+    - term: 第三方矢量库
       links:
-        - title: 主路由后台
-          logo: https://www.google.com/s2/favicons?sz=64&domain=openwrt.org
-          url: http://192.168.1.1
+        - title: logo（矢量）
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/libretranslate.svg
+          url: https://simpleicons.org/
           description: OpenWrt网络控制
     - term: 文件索引服务
       links:
