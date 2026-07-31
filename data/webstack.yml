@@ -12,8 +12,67 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
           url: https://aws.amazon.com/cn/
           description: 2027年1月25前（关闭并且注销账单）
+    - term: 媒体服务
+      links:
+        - title: 媒体后台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=plex.tv
+          url: http://192.168.1.50:32400
+          description: 影音媒体库管理
+    - term: Docker容器面板
+      links:
+        - title: Portainer
+          logo: https://www.google.com/s2/favicons?sz=64&domain=portainer.io
+          url: http://192.168.1.90:9000
+          description: 容器可视化管理
+    - term: 路由器管理
+      links:
+        - title: 主路由后台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=openwrt.org
+          url: http://192.168.1.1
+          description: OpenWrt网络控制
+    - term: 文件索引服务
+      links:
+        - title: 文档搜索
+          logo: https://www.google.com/s2/favicons?sz=64&domain=whoosh.dev
+          url: http://192.168.1.92:8090
+          description: 本地全文检索
+    - term: 数据库管理
+      links:
+        - title: Database面板
+          logo: https://www.google.com/s2/favicons?sz=64&domain=phpmyadmin.net
+          url: http://192.168.1.93
+          description: MySQL可视化操作
+    - term: 监控告警
+      links:
+        - title: 服务器监控
+          logo: https://www.google.com/s2/favicons?sz=64&domain=grafana.com
+          url: http://192.168.1.94:3000
+          description: 主机负载监控
+    - term: 下载管理
+      links:
+        - title: 远程下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=qbittorrent.org
+          url: http://192.168.1.95:8081
+          description: BT远程任务
+    - term: 相册服务
+      links:
+        - title: 私人相册
+          logo: https://www.google.com/s2/favicons?sz=64&domain=nextcloud.com
+          url: http://192.168.1.96
+          description: 照片云端存储
+    - term: 笔记文档
+      links:
+        - title: 知识库
+          logo: https://www.google.com/s2/favicons?sz=64&domain=obsidian.md
+          url: http://192.168.1.97
+          description: 在线知识库编辑
+    - term: 网络测试工具
+      links:
+        - title: 测速面板
+          logo: https://www.google.com/s2/favicons?sz=64&domain=speedtest.net
+          url: http://192.168.1.98
+          description: 内网/外网测速
 
-# 新增：费用 常规类别
 - taxonomy: 费用（常规）
   icon: fa-solid fa-wallet
   list:
@@ -27,6 +86,66 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
           url: https://aws.amazon.com/cn/
           description: 云资源账单监控
+    - term: CDN服务账单
+      links:
+        - title: Cloudflare后台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com
+          url: https://dash.cloudflare.com
+          description: DNS、CDN、ZeroTrust
+    - term: 服务器租赁
+      links:
+        - title: VPS服务商
+          logo: https://www.google.com/s2/favicons?sz=64&domain=linode.com
+          url: https://www.linode.com
+          description: 海外服务器账单
+    - term: 网盘会员
+      links:
+        - title: 百度网盘
+          logo: https://www.google.com/s2/favicons?sz=64&domain=pan.baidu.com
+          url: https://pan.baidu.com
+          description: SVIP会员到期提醒
+    - term: 开发工具订阅
+      links:
+        - title: JetBrains
+          logo: https://www.google.com/s2/favicons?sz=64&domain=jetbrains.com
+          url: https://account.jetbrains.com
+          description: IDE订阅续费
+    - term: 流媒体订阅
+      links:
+        - title: 影音订阅管理
+          logo: https://www.google.com/s2/favicons?sz=64&domain=netflix.com
+          url: https://www.netflix.com
+          description: 视频会员清单
+    - term: 软件授权
+      links:
+        - title: 商业软件授权
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ccleaner.com
+          url: https://account.piriform.com
+          description: PC工具许可证
+    - term: 通信资费
+      links:
+        - title: 手机运营商
+          logo: https://www.google.com/s2/favicons?sz=64&domain=10086.cn
+          url: https://www.10086.cn
+          description: 话费套餐查询
+    - term: 硬件订阅维保
+      links:
+        - title: 设备维保中心
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dell.com
+          url: https://www.dell.com/support
+          description: 硬件保修期限
+    - term: 支付平台
+      links:
+        - title: PayPal后台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=paypal.com
+          url: https://www.paypal.com
+          description: 海外支付账单查询
+    - term: 数据库增值服务
+      links:
+        - title: 云数据库后台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=mongodb.com
+          url: https://cloud.mongodb.com
+          description: 数据库套餐监控
           
 - taxonomy: 常用推荐
   icon: fa-star
