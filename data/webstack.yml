@@ -12,12 +12,7 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
           url: https://aws.amazon.com/cn/
           description: 2027年1月25前（关闭并且注销账单）
-     - term: 费用
-         links: 
-          - title: 1
-            logo: https://www.google.com/s2/favicons?sz=64&domain=baidu.com
-            url: www.baidu.com
-            description: 百度
+          
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
