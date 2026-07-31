@@ -1,5 +1,13 @@
 ---
-
+- taxonomy: 灵感
+  icon: fa-regular fa-lightbulb
+  list: 
+    - term: 12
+      links:
+        - title: 12
+          logo: https://www.google.com/s2/favicons?sz=64&domain=soujiaoben.org
+          url: https://soujiaoben.org/#/pages/list/list
+          description: 123
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
