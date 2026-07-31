@@ -389,10 +389,10 @@
           url: www.fast.com
           logo: https://www.google.com/s2/favicons?sz=64&domain=fast.com
           description: 测速1
-        - title: Sketch Measure
-          url: http://utom.design/measure/
-          logo: images/logos/SketchMeasure.png
-          description: Friendly user interface offers you a more intuitive way of making marks.
+        - title: SPEEDTEST测速
+          url: https://www.speedtest.net/zh-Hans
+          logo: https://www.google.com/s2/favicons?sz=64&domain=speedtest.net
+          description: 测速2
         - title: Sketch App Sources
           url: https://www.sketchappsources.com/
           logo: images/logos/sketchappsources.png
