@@ -65,12 +65,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
           url: https://aws.amazon.com/cn/
           description: 2027年1月25前（关闭并且注销账单）
-    - term: 媒体服务
+    - term: 日常影视（待处理）
       links:
-        - title: 媒体后台
-          logo: https://www.google.com/s2/favicons?sz=64&domain=plex.tv
-          url: http://192.168.1.50:32400
-          description: 影音媒体库管理
+        - title: 油管
+          logo: https://www.google.com/s2/favicons?sz=64&domain=youtubee.com
+          url: https://www.youtube.com/watch?v=YQU2tWxBa40
+          description: 待处理影音
     - term: Docker容器面板
       links:
         - title: Portainer
