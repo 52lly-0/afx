@@ -32,31 +32,12 @@
     - title: Vps购买（D姐）
       logo: https://www.google.com/s2/favicons?sz=64&domain=pan.yins.win
       url: https://panel.yins.win/stock
-      description: 便宜高速VPS（虚拟机）
-    - title: 
-      qrcode: 
-      logo: 
-      url: 
-      description: 
-    - title: 
-      url: 
-      description: 
+      description: 便宜高速VPS（虚拟机） 
     - title: visa虚拟卡
       qrcode: images/qrcodes/usdt.png
       logo:
       url: https://app.pokepay.cc/pages/passport/invitation?r=145892
       description: usdt套现，国内拼多多消费，支付宝消费
-    - title: 
-      logo:  
-      url: 
-      description: 
-    - title: 
-      logo: 
-      url: 
-      description: 
-    - title: 
-      url:
-      description:
     - title: 接码平台
       logo:  
       url: https://hero-sms.com/?ref=489021/
@@ -64,19 +45,6 @@
     - title: Base64编码解码
       url: https://99688988.xyz/base64-string-converter/
       description: 将utf-8能表示的所有字符进行Base64编码加密解密
-    - title: 
-      logo: 
-      url: 
-      description: 
-    - title: 
-      logo: 
-      url: 
-      description: 
-    - title: 
-      logo:  
-      url: 
-      description: 
-
 
 - taxonomy: Nas专区
   icon: fa-regular fa-newspaper
