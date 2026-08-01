@@ -83,18 +83,22 @@
           logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/libretranslate.svg
           url: https://simpleicons.org/
           description: 图标库
-    - term: 文件索引服务
+    - term: 电视盒子
       links:
-        - title: 文档搜索
-          logo: https://www.google.com/s2/favicons?sz=64&domain=whoosh.dev
-          url: http://192.168.1.92:8090
-          description: 本地全文检索
-    - term: 数据库管理
+        - title: 小草助手
+          logo: https://www.google.com/s2/favicons?sz=64&domain=yecao.app
+          url: http://yecao.app
+          description: 探索无限可能
+        - title: 提取码beei（TV装机助手）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=lanzoux.com
+          url: https://wws.lanzoux.com/b021tgeng
+          description: 电视盒子应用安装
+    - term: 台风
       links:
-        - title: Database面板
-          logo: https://www.google.com/s2/favicons?sz=64&domain=phpmyadmin.net
-          url: http://192.168.1.93
-          description: MySQL可视化操作
+        - title: 台风路径查询
+          logo: https://www.google.com/s2/favicons?sz=64&domain=tf.istrongcloud.com
+          url: https://tf.istrongcloud.com/release/index-sc.html?from=groupmessage&isappinstalled=0
+          description: 实时在线查询
     - term: 监控告警
       links:
         - title: 服务器监控
@@ -600,10 +604,10 @@
           url: https://platform.sensenova.cn/console/keys
           logo: https://www.google.com/s2/favicons?sz=64&domain=platform.sensenova.cn
           description: 部署机器人token
-        - title: 
-          url: http://www.foundertype.com/
-          logo: images/logos/Fondertype.png
-          description: 方正字库官方网站
+        - title: agnes（token）
+          url: https://platform.agnes-ai.com/settings/apiKeys
+          logo: https://www.google.com/s2/favicons?sz=64&domain=platform.agnes-ai.com
+          description: 机器人部署token2
         - title: 字体传奇网
           url: http://ziticq.com/
           logo: images/logos/ziticq.png
