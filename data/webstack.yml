@@ -674,10 +674,9 @@
           url: https://dashboard.katabump.com/servers/edit?id=334542
           logo: https://www.google.com/s2/favicons?sz=64&domain=dashboard.katabump.com
           description:  后台登录
-        - title: Graphberry
-          url: http://www.graphberry.com/
-          logo: images/logos/graphberry.png
-          description: Free design resources, Mockups, PSD web templates, Icons
+        - title: clash客户端下载
+          url: https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.0
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
         - title: Threed
           url: http://threed.io/
           logo: images/logos/threed.png
