@@ -456,9 +456,9 @@
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly
           
-     - term: 节点 # 三级目录
-       links:
-         - title: 后台转换地址 # 四级链接
+    - term: 节点 
+      links:
+        - title: 后台转换地址
            logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
            url: https://github.com/cmliu
            description: 第三方后台转换部署(注意节点暴露)
