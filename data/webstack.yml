@@ -214,7 +214,19 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=zhongchuangwl.com
       url: https://www.zhongchuangwl.com/
       description: 夸克盘搜
-      
+    - title: 网盘资源分享
+      logo: https://www.google.com/s2/favicons?sz=64&domain=pan.cgnb.site
+      url: https://pan.cgnb.site/
+      description: 网盘资源分享
+    - title: 光鸭资源分享
+      logo: https://www.google.com/s2/favicons?sz=64&domain=yszyssr.com
+      url: https://yszyssr.com/
+      description: 影视片资源
+    - title: 磁力熊
+      logo: https://www.google.com/s2/favicons?sz=64&domain=cilixiong.org
+      url: https://www.cilixiong.org/
+      description: 资源磁力搜索
+
 - taxonomy: Nas专区
   icon: fa-regular fa-newspaper
   links: 
@@ -375,18 +387,18 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=peanutdl.com
           url: https://peanutdl.com/zh
           description: 花生下载
-        - title: Pages
-          logo: images/logos/pages.png
-          url: http://www.pages.xyz/
-          description: Curated directory of the best Pages
-        - title: SiteSee
-          logo: images/logos/SiteSee.png
-          url: https://sitesee.co/
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-        - title: Site Inspire
-          logo: images/logos/siteInspire.png
-          url: https://www.siteinspire.com/
-          description: A CSS gallery and showcase of the best web design inspiration.
+        - title: 在线油管解析
+          logo: https://www.google.com/s2/favicons?sz=64&domain=greenvideo.cc
+          url: https://greenvideo.cc/
+          description: 油管下
+        - title: yt-dlp下载（油管）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=revanced.to
+          url: https://revanced.to/
+          description: ReVanced 是一个完全开源的项目，允许用户自定义他们的安卓应用
+        - title: snapwc下载器
+          logo: https://www.google.com/s2/favicons?sz=64&domain=snapwc.com
+          url: https://snapwc.com/zh
+          description: 万能在线解析下载(油管)
         - title: WebInspiration
           logo: images/logos/WebInspiration.png
           url: http://web.uedna.com/
@@ -851,10 +863,10 @@
   list: 
     - term: 在线影视
       links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: images/logos/photoshop.png
-          description: Photoshop不需要解释
+        - title: 追忆导航页
+          url: https://app.aree.pw/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=app.aree.pw
+          description: 不需要解释
         - title: 可观看奈飞
           url: https://www.luketv.tv/zh/
           logo: https://www.google.com/s2/favicons?sz=64&domain=luketv.tv
