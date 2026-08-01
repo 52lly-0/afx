@@ -163,12 +163,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com
           url: https://dash.cloudflare.com
           description: DNS、CDN、ZeroTrust
-    - term: 服务器租赁
+    - term: BT磁力搜索
       links:
-        - title: VPS服务商
-          logo: https://www.google.com/s2/favicons?sz=64&domain=linode.com
-          url: https://www.linode.com
-          description: 海外服务器账单
+        - title: BT1207
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bt1207so.cc
+          url: https://bt1207so.cc/?_=972
+          description: 磁力1
     - term: 网盘会员
       links:
         - title: 百度网盘
@@ -260,10 +260,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=clud.fnnas.com
       url: https://club.fnnas.com/forum.php?mod=viewthread&tid=59122
       description: 可外墙
-    - title: 人人都是产品经理
-      logo: images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
+    - title: 飞牛第三方商店
+      logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+      url: https://github.com/conversun/fnos-apps
+      description: 商店app
     - title: 互联网早读课
       logo: images/logos/zaodula.png
       url: https://www.zaodula.com/
