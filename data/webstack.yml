@@ -55,7 +55,7 @@
 - taxonomy: 日常（开机）
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 别瞎点（私人使用）
+    - term: 别瞎JB点（私人使用）
       links:
         - title: 局域网共享平台
           logo: https://www.google.com/s2/favicons?sz=64&domain=baidu.com
@@ -221,10 +221,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
       url: https://github.com/ophub/amlogic-s9xxx-armbian/releases
       description: armbian系统
-    - title: 猎云网
-      logo: images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
+    - title: 飞牛做旁路由
+      logo: https://www.google.com/s2/favicons?sz=64&domain=clud.fnnas.com
+      url: https://club.fnnas.com/forum.php?mod=viewthread&tid=59122
+      description: 可外墙
     - title: 人人都是产品经理
       logo: images/logos/woshipm.png
       url: http://www.woshipm.com/
@@ -796,10 +796,10 @@
           url: https://www.v2ray-agent.com/archives/1710141233
           logo: https://www.google.com/s2/favicons?sz=64&domain=v2ray-agent.com
           description: 搭建
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: images/logos/ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
+        - title: iflow部署
+          url: https://suyihang15.github.io/2026/03/22/2026/03/2026-03-22-iflow%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/index/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=suyihang15.github.io
+          description: 终端AI指令
         - title: PPT+
           url: http://www.pptplus.cn/
           logo: images/logos/pptplus.png
