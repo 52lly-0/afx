@@ -314,6 +314,32 @@
 - taxonomy: 电脑工具箱
   icon:
   list:
+    - term: 壁纸
+     links: 
+       - title: 电脑
+         logo: https://www.google.com/s2/favicons?sz=64&domain=bizhihui.com
+         url: https://www.bizhihui.com/tags/4Kbizhi/
+         description: 超高清壁纸
+       - title: 跑车壁纸
+         logo: https://www.google.com/s2/favicons?sz=64&domain=zhuutix.com
+         url: https://zhutix.com/animated/race-car-corrode/
+         description: 跑车壁纸
+       - title: 第三方壁纸
+         logo: https://www.google.com/s2/favicons?sz=64&domain=wallpaperset.com
+         url: ttps://wallpaperset.com/
+         description: 第三方壁纸
+    - term: 操作系统
+     links: 
+       - title: 刺客边风
+         logo: https://www.google.com/s2/favicons?sz=64&domain=ckbf88.com
+         url: https://www.ckbf88.com/
+         description: 精选应用
+    - term: 安卓
+     links:
+       - title: app应用下载
+         logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
+         url: https://link3.cc/huan666
+         description: app幻
     - term: 网盘&下载&工具
       links:
         - title: fluxdown下载器
