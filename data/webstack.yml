@@ -175,12 +175,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=ccleaner.com
           url: https://account.piriform.com
           description: PC工具许可证
-    - term: 通信资费
+    - term: 接口
       links:
-        - title: 手机运营商
-          logo: https://www.google.com/s2/favicons?sz=64&domain=10086.cn
-          url: https://www.10086.cn
-          description: 话费套餐查询
+        - title: 影视接口
+          logo: https://www.google.com/s2/favicons?sz=64&domain=xn--v4q818bf34b.cc
+          url: https://xn--v4q818bf34b.cc/
+          description: 禁止传播
     - term: 硬件订阅维保
       links:
         - title: 设备维保中心
