@@ -340,6 +340,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
           url: https://link3.cc/huan666
           description: app幻 
+    - term: 系统激活
+      links:
+        - title: 激活器
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ventoy.com
+          url: https://github.com/massgravel/Microsoft-Activation-Scripts
+          description: KMS激活器1 
     - term: 壁纸
       links: 
         - title: 电脑
