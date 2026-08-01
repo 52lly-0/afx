@@ -583,17 +583,17 @@
           logo: images/logos/sketchcasts.png
           description: Learn Sketch Train your design skills with a weekly video tutorial
       
-    - term: Ai资源
+    - term: Ai资源&工具
       links:
         - title: agentscope机器人，带节点
           url: https://platform.agentscope.io/deploy
           logo: https://www.google.com/s2/favicons?sz=64&domain=platform.agentscope.io
           description: 机器人1号（telegram）
-        - title: Typekit
-          url: https://typekit.com/
-          logo: images/logos/typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
+        - title: 日日新（token）
+          url: https://platform.sensenova.cn/console/keys
+          logo: https://www.google.com/s2/favicons?sz=64&domain=platform.sensenova.cn
+          description: 部署机器人token
+        - title: 
           url: http://www.foundertype.com/
           logo: images/logos/Fondertype.png
           description: 方正字库官方网站
@@ -658,10 +658,10 @@
           url: https://github.com/cmliu
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           description: 第三方后台转换部署(注意节点暴露)
-        - title: Dunnnk
-          url: http://dunnnk.com/
-          logo: images/logos/Dunnnk.png
-          description:  Generate Product Mockups For Free
+        - title: 二级域名kdns
+          url: https://dashboard.katabump.com/servers/edit?id=334542
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dashboard.katabump.com
+          description:  后台登录
         - title: Graphberry
           url: http://www.graphberry.com/
           logo: images/logos/graphberry.png
