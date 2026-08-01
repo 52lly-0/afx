@@ -314,14 +314,6 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://github.com/Chunyu33/light-c
           description: C盘清理
-        - title: Win10镜像
-          logo: https://www.google.com/s2/favicons?sz=64&domain=microsoft.com
-          url: https://www.microsoft.com/zh-cn/software-download/windows10
-          description: Win10镜像（官网）
-        - title: Win10下载
-          logo: https://www.google.com/s2/favicons?sz=64&domain=imsdn.cn
-          url: https://www.imsdn.cn/windows-10/win10-1709/
-          description: Win10镜像1
           
   - term: 系统激活
       links:
