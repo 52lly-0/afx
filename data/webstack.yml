@@ -846,32 +846,32 @@
           logo: images/logos/blender.png
           description: Blender is the free and open source 3D creation suite.
       
-    - term: 七大官网影视区
+    - term: 六大官网影视区
       links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: images/logos/sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: images/logos/ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: images/logos/invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: images/logos/marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: images/logos/MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: images/logos/figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
+        - title: 爱奇艺
+          url: https://iqiyi.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=iqiyi.com
+          description: 
+        - title: 优酷
+          url: http://www.youku.com
+          logo: https://www.google.com/s2/favicons?sz=64&domain=youku.com
+          description: 
+        - title: 腾讯
+          url: https://www.v.qq.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=v.qq.com
+          description: 
+        - title: 芒果TV
+          url: https://www.mgtv.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=mgtv.com
+          description: 
+        - title: pptv
+          url: https://www.pptv.com
+          logo: https://www.google.com/s2/favicons?sz=64&domain=pptv.com
+          description: 
+        - title: 搜狐视频
+          url: https://tv.sohu.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=tv.sohu.com
+          description: 
     - term: 4K
       links:
         - title: 挂了
