@@ -494,7 +494,7 @@
         - title: 优化工具
           logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/testrail.svg
           url: https://github.com/itsfatduck/optimizerDuck/releases/tag/v2.24.2
-          description: 系统优化小工具
+          description: 
         - title: World Vector Logo
           logo: images/logos/worldvectorlogo.png
           url: https://worldvectorlogo.com/
@@ -503,6 +503,7 @@
           logo: images/logos/InstantLogoSearch.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly
+          
         - title: wallhalla
           logo: images/logos/wallhalla.png
           url: https://wallhalla.com/
@@ -510,11 +511,11 @@
         - title: 365PSD
           logo: images/logos/365PSD.png
           url: https://365psd.com/
-          description: Free PSD & Graphics, Illustrations
+          description: Free PSD &amp; Graphics, Illustrations
         - title: Medialoot
           logo: images/logos/Medialoot.png
           url: https://medialoot.com/
-          description: Free & Premium Design Resources — Medialoot
+          description: Free &amp; Premium Design Resources &mdash; Medialoot
         - title: 千图网
           logo: images/logos/qiantu.png
           url: http://www.58pic.com/
@@ -541,7 +542,7 @@
           description: 懒人图库专注于提供网页素材下载
         - title: 素材搜索
           logo: images/logos/sousucai.png
-          url: shturl.cc/ak5x0Gzp6R
+          url: http://so.ui001.com/
           description: 设计素材搜索聚合
         - title: PS饭团网
           logo: images/logos/psefan.png
@@ -551,6 +552,7 @@
           logo: images/logos/sccnn.png
           url: http://www.sccnn.com/
           description: 免费素材共享平台
+      
     - term: docker分类
       links:
         - title: 爱盼搜索
@@ -579,7 +581,7 @@
           description: UI Kits, Wireframe Kits, Templates, Icons and More
         - title: uplabs
           logo: images/logos/uplabs.png
-          url: https://uplabs.com/
+          url: https://www.uplabs.com/
           description: Daily resources for product designers & developers
         - title: UIkit.me
           logo: images/logos/uikitme.png
@@ -593,6 +595,7 @@
           logo: images/logos/PrincipleRepo.png
           url: http://principlerepo.com/
           description: Free, High Quality Principle Resources
+      
     - term: 在线测试网（测速）
       links:
         - title: Fsat测速
@@ -614,7 +617,7 @@
         - title: Sketch Hunt
           url: http://sketchhunt.com/
           logo: images/logos/sketchhunt.png
-          description: Sketch Hunt is an independent blog sharing gems in learning, plugins & design tools for fans of Sketch app.
+          description: Sketch Hunt is an independent blog sharing gems in learning, plugins &amp; design tools for fans of Sketch app.
         - title: Sketch中文网
           url: http://www.sketchcn.com/
           logo: images/logos/sketchcn.png
