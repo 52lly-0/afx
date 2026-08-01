@@ -312,14 +312,28 @@
       url: https://github.com/Chunyu33/light-c
       description: C盘清理
 - taxonomy: 电脑工具箱
-  icon:
+  icon: fa-regular fa-lightbulb
   list: 
-    - term: 操作系统
+    - term: 软件
       links:
         - title: 刺客边风
           logo: https://www.google.com/s2/favicons?sz=64&domain=ckbf88.com
           url: https://www.ckbf88.com/
           description: 精品app应用推荐 
+        - title: JJ推
+          logo: https://www.google.com/s2/favicons?sz=64&domain=jjtui.com
+          url: https://www.jjtui.com/
+          description: 电脑app应用 
+    - term: 操作系统
+      links:
+        - title: Windows10
+          logo: https://www.google.com/s2/favicons?sz=64&domain=microsoft.com
+          url: https://www.microsoft.com/zh-cn/software-download/windows10
+          description: win10镜像1（官网）
+        - title: win10-2
+          logo: https://www.google.com/s2/favicons?sz=64&domain=imsdn.cn
+          url: https://www.imsdn.cn/windows-10/win10-1709/
+          description: win0镜像2
     - term: 安卓
       links:
         - title: 应用下载
