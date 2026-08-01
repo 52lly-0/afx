@@ -276,14 +276,14 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
           url: https://greasyfork.org/zh-CN
           description: 原地址
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
+        - title: 绕过微软联网账号的限制（最新）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=freedidi.com
+          url: https://www.freedidi.com/21151.html
+          description: win11最新绕过
+        - title: 极客豹（软件）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zyz.jikefuye.cn
+          url: https://zyz.jikefuye.cn/
+          description: 电脑软件下载.exe应用
         - title: Today
           logo: images/logos/today.png
           url: http://today.itjuzi.com/
@@ -340,10 +340,10 @@
           logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/threema.svg
           url: https://github.com/arnoldhao/xiadown
           description: yt-dlp方式下载
-        - title: The FWA
-          logo: images/logos/fwa.png
-          url: https://thefwa.com/
-          description: FWA - showcasing innovation every day since 2000
+        - title: imfile全能下载工具
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/imfile-io/imfile-desktop/blob/master/README-CN.md
+          description: 全能下载器
         - title: Ecommercefolio
           logo: images/logos/Ecommercefolio.png
           url: http://www.ecommercefolio.com/
