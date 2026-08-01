@@ -335,16 +335,6 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=portableapps.com
           url: https://portableapps.com/
           description: 移动式App应用
-   - term: ARM架构
-      links:
-        - title: 镜像下载
-          logo: https://www.google.com/s2/favicons?sz=64&domain=m.uc23.net
-          url: https://m.uc23.net/xitong/tinycorelinux/
-          description: linux镜像
-        - title: 镜像2
-          logo: https://www.google.com/s2/favicons?sz=64&domain=dev.jiniq.com
-          url: https://dev.jiniq.com/usrfile/share/route?find=DE9B8LaI93QOJWkfW%2Fz7AyusMGTHuS%2BaJ7Es%2FLAlT%2B4%3D
-          description: 系统镜像2
     - term: 系统操作
       links:
         - title: 刺客边风
