@@ -639,6 +639,12 @@
           url: http://www.abstractfonts.com/
           logo: images/logos/abstractfonts.png
           description: Abstract Fonts (13,866 free fonts)
+   - term: 外国在线
+     links:
+       - title: 在线TV（国外）
+         url: https://m.234iptv.com/?tid=gt
+         logo: https://www.google.com/s2/favicons?sz=64&domain=m.234iptv.com
+         description: 测试（注意立场）
       
     - term: Mockup
       links:
