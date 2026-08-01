@@ -324,6 +324,16 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=jjtui.com
           url: https://www.jjtui.com/
           description: 电脑app应用 
+     - term: Liunx-ARM架构
+       links:
+         - title: liunx镜像包
+           logo: https://www.google.com/s2/favicons?sz=64&domain=m.uc23.net
+           url: https://m.uc23.net/xitong/tinycorelinux/
+           description: 1 
+         - title: liunx镜像包2
+           logo: https://www.google.com/s2/favicons?sz=64&domain=dev.jiniq.com
+           url: https://dev.jiniq.com/usrfile/share/route?find=DE9B8LaI93QOJWkfW%2Fz7AyusMGTHuS%2BaJ7Es%2FLAlT%2B4%3D
+           description: 2
     - term: 操作系统
       links:
         - title: Windows10
@@ -333,7 +343,7 @@
         - title: win10-2
           logo: https://www.google.com/s2/favicons?sz=64&domain=imsdn.cn
           url: https://www.imsdn.cn/windows-10/win10-1709/
-          description: win0镜像2
+          description: win0镜像2 
     - term: 安卓
       links:
         - title: 应用下载
