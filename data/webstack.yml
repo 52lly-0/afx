@@ -313,7 +313,13 @@
       description: C盘清理
 - taxonomy: 电脑工具箱
   icon:
-  list:
+  list: 
+    - term: 操作系统
+      links:
+        - title: 刺客边风
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ckbf88.com
+          url: https://www.ckbf88.com/
+          description: 精品app应用推荐
     - term: 网盘&下载&工具
       links:
         - title: fluxdown下载器
