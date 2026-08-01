@@ -5,7 +5,12 @@
     - title: 音乐
       logo: https://www.google.com/s2/favicons?sz=64&domain=music.zyfx6.xyz
       url: https://music.zyfx6.xyz/
-      description: 在线音乐1
+      description: 在线音乐1 
+    - title: 52破解
+      logo: https://www.google.com/s2/favicons?sz=64&domain=52pojie.cn/
+      url: https://www.52pojie.cn/
+      descripthon: 52pojie
+      
     - title: 唯爱李丽玉（个人）
       logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zoiper.svg
       url: https://52lly.kdns.fr/
@@ -288,7 +293,7 @@
       url: http://www.uigreat.com/
       description: UI设计师学习交流社区
     
-- taxonomy: 网盘搜索
+- taxonomy: 油猴脚本库
   icon: fa-regular fa-newspaper
   links:
     - title: 脚本库
