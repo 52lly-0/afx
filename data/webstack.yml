@@ -111,12 +111,16 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://github.com/zhiyiYo/Fluent-M3U8/blob/main/docs/README_zh.md
           description: m3u8下载器
-    - term: 相册服务
+    - term: 屏幕
       links:
-        - title: 私人相册
-          logo: https://www.google.com/s2/favicons?sz=64&domain=nextcloud.com
-          url: http://192.168.1.96
-          description: 照片云端存储
+        - title: 在线屏幕检测
+          logo: https://www.google.com/s2/favicons?sz=64&domain=screen.bmcx.com
+          url: https://screen.bmcx.com/#test-solid-red
+          description: 屏幕检测
+        - title: 屏幕坐标获取工具
+          logo: https://www.google.com/s2/favicons?sz=64&domain=screencoordinates.com
+          url: https://screencoordinates.com/zh/
+          description: 坐标？？？
     - term: 笔记文档
       links:
         - title: 知识库
