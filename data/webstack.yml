@@ -455,23 +455,13 @@
           logo: images/logos/InstantLogoSearch.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly
-- taxonomy: 常用推荐
-  icon: fa-star
-  list:
-    - term: 各类部署 # 二级目录
-      children:
-        - term: 节点 # 三级目录
-          links:
-            - title: 后台转换地址 # 四级链接
-              logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
-              url: https://github.com/cmliu
-              description: 第三方后台转换部署(注意节点暴露)
-        - term: 容器服务 # 新增三级目录示例
-          links:
-            - title: Portainer管理面板
-              logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/portainer.svg
-              url: http://192.168.1.90:9000
-              description: Docker容器可视化管理
+          
+     - term: 节点 # 三级目录
+       links:
+         - title: 后台转换地址 # 四级链接
+           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+           url: https://github.com/cmliu
+           description: 第三方后台转换部署(注意节点暴露)
               
         - title: wallhalla
           logo: images/logos/wallhalla.png
