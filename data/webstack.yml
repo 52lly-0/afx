@@ -313,10 +313,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=fluxdown.zerx.dev
           url: https://fluxdown.zerx.dev/
           description: 突破防御100M/s
-        - title: CSS Design Awards
-          logo: images/logos/CSSDesignAwards.png
-          url: https://www.cssdesignawards.com/
-          description: Website Awards & Inspiration - CSS Gallery
+        - title: 下蛋 / XiaDown
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/threema.svg
+          url: https://github.com/arnoldhao/xiadown
+          description: yt-dlp方式下载
         - title: The FWA
           logo: images/logos/fwa.png
           url: https://thefwa.com/
@@ -427,10 +427,10 @@
       
     - term: 镜像仓库
       links:
-        - title: Iconsfeed
-          logo: images/logos/iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery
+        - title: 图吧工具箱
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kingstontechnology.svg
+          url: https://github.com/luolangaga/tubatools
+          description: 修改版
         - title: iOS Icon Gallery
           logo: images/logos/iosicongallery.png
           url: http://iosicongallery.com/
