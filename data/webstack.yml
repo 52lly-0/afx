@@ -105,12 +105,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=sshx.io
           url: https://sshx.io/
           description: 网页版本ssh
-    - term: 下载管理
+    - term: M3U8
       links:
-        - title: 远程下载
-          logo: https://www.google.com/s2/favicons?sz=64&domain=qbittorrent.org
-          url: http://192.168.1.95:8081
-          description: BT远程任务
+        - title: m3u8下载器
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/zhiyiYo/Fluent-M3U8/blob/main/docs/README_zh.md
+          description: m3u8下载器
     - term: 相册服务
       links:
         - title: 私人相册
@@ -304,6 +304,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=ventoy.com
           url: https://github.com/massgravel/Microsoft-Activation-Scripts
           description: 激活脚本
+    - term: 安卓
+      links:
+        - title: App下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
+          url: https://link3.cc/huan666
+          description: App幻
 
     - term: 系统操作
       links:
@@ -365,10 +371,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=yt5s.biz
           url: https://yt5s.biz/zh-cnwr200/
           description: 在线解析后下载
-        - title: Best Websites Gallery
-          logo: images/logos/BWG.png
-          url: https://bestwebsite.gallery/
-          description: Website Showcase Inspiration | Best Websites Gallery
+        - title: 花生下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=peanutdl.com
+          url: https://peanutdl.com/zh
+          description: 花生下载
         - title: Pages
           logo: images/logos/pages.png
           url: http://www.pages.xyz/
@@ -613,10 +619,10 @@
           url: https://platform.agnes-ai.com/settings/apiKeys
           logo: https://www.google.com/s2/favicons?sz=64&domain=platform.agnes-ai.com
           description: 机器人部署token2
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: images/logos/ziticq.png
-          description: 中国首个字体品牌设计师交流网
+        - title: 右键管理器
+          url: https://bluepointlilac.github.io/ContextMenuManager/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bluepointlilac.github.io
+          description: 右键管理器
         - title: 私藏字体
           url: http://sicangziti.com/
           logo: images/logos/sicangziti.png
@@ -723,10 +729,10 @@
           url: https://github.com/MeeGooBoo/2025/blob/main/8/20/2025-8-20.md
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           description: 链接每一天
-        - title: pixabay
-          url: https://pixabay.com/
-          logo: images/logos/pixabay.png
-          description: 可在任何地方使用的免费图片和视频
+        - title: 谷歌浏览器飞机
+          url: https://github.com/Alvin9999-newpac/fanqiang/wiki
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 精彩世界
         - title: SplitShire
           url: https://www.splitshire.com/
           logo: images/logos/SplitShire.png
@@ -923,12 +929,12 @@
           logo: images/logos/protopie.png
           description: 高保真交互原型设计
 
-    - term: 在线配色
+    - term: 在线铃音
       links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: images/logos/khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
+        - title: 铃声
+          url: https://sounddino.com/zh/effects/completed-action/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=sounddino.com
+          description: 在线铃声
         - title: uigradients
           url: https://uigradients.com
           logo: images/logos/uigradients.png
