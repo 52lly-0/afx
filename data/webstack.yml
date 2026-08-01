@@ -431,10 +431,10 @@
           logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kingstontechnology.svg
           url: https://github.com/luolangaga/tubatools
           description: 修改版
-        - title: iOS Icon Gallery
-          logo: images/logos/iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store
+        - title: 优化工具
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/testrail.svg
+          url: https://github.com/itsfatduck/optimizerDuck/releases/tag/v2.24.2
+          description: 
         - title: World Vector Logo
           logo: images/logos/worldvectorlogo.png
           url: https://worldvectorlogo.com/
