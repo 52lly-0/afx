@@ -315,23 +315,23 @@
           url: https://github.com/Chunyu33/light-c
           description: C盘清理
           
-  - term: 系统激活
-      links:
-        - title: kms激活
-          logo: https://www.google.com/s2/favicons?sz=64&domain=ventoy.com
-          url: https://github.com/massgravel/Microsoft-Activation-Scripts
-          description: 激活脚本
-  - term: 安卓
-      links:
-        - title: App下载
-          logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
-          url: https://link3.cc/huan666
-          description: App幻
-        - title: 小米
+   - term: 系统激活
+     links:
+       - title: kms激活
+         logo: https://www.google.com/s2/favicons?sz=64&domain=ventoy.com
+         url: https://github.com/massgravel/Microsoft-Activation-Scripts
+         description: 激活脚本
+   - term: 安卓
+     links:
+       - title: App下载
+         logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
+         url: https://link3.cc/huan666
+         description: App幻
+       - title: 小米
           logo: https://www.google.com/s2/favicons?sz=64&domain=miuiver.com
           url: https://miuiver.com/tag/dali-stable-rom/
           description: 小米线刷卡刷包
-        - title: 便携移动应用
+       - title: 便携移动应用
           logo: https://www.google.com/s2/favicons?sz=64&domain=portableapps.com
           url: https://portableapps.com/
           description: 移动式App应用
