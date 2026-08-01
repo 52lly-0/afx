@@ -209,7 +209,12 @@
     - title: 网盘资源搜索
       logo: https://www.google.com/s2/favicons?sz=64&domain=160.202.47.249:15151
       url: http://160.202.47.249:15151//
-      description: 各类资源搜索      
+      description: 各类资源搜索   
+    - title: 夸克资源搜索
+      logo: https://www.google.com/s2/favicons?sz=64&domain=zhongchuangwl.com
+      url: https://www.zhongchuangwl.com/
+      description: 夸克盘搜
+      
 - taxonomy: Nas专区
   icon: fa-regular fa-newspaper
   links: 
@@ -677,10 +682,10 @@
         - title: clash客户端下载
           url: https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.0
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
-        - title: Threed
-          url: http://threed.io/
-          logo: images/logos/threed.png
-          description: Generate 3D Mockups right in your Browser
+        - title: 节点抓取（暂时停更）
+          url: https://github.com/shuaidaoya/FreeNodes?tab=readme-ov-file
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 非紧急可使用？
         - title: Mockup World
           url: https://free.lstore.graphics/
           logo: images/logos/mockupworld.png
