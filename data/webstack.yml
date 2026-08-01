@@ -345,7 +345,11 @@
         - title: 电脑
           logo: https://www.google.com/s2/favicons?sz=64&domain=bizhihui.com
           url: https://www.bizhihui.com/tags/4Kbizhi/
-          description: 超高清壁纸
+          description: 超高清壁纸 
+        - title: 跑车壁纸
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zhuutix.com
+          url: https://zhutix.com/animated/race-car-corrode/
+          description: 跑车壁纸 
     - term: 网盘&下载&工具
       links:
         - title: fluxdown下载器
