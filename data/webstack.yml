@@ -50,7 +50,7 @@
       description: 将utf-8能表示的所有字符进行Base64编码加密解密
     - title: 科技共享blog
       logo: https://www.google.com/s2/favicons?sz=64&domain=kjgx668.blogspot.com
-      url: https://kjgx668.blogspot.com/
+      url: 
       description: 科技共享查询
 - taxonomy: 日常（开机）
   icon: fa-regular fa-lightbulb
@@ -74,7 +74,7 @@
     - term: Docker容器面板
       links:
         - title: 飞牛面板
-          logo: https://www.google.com/s2/favicons?sz=64&domain=nfnas.com
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tanstack.svg
           url: http://192.168.1.123:5666
           description: 飞牛Nas后台
     - term: 第三方矢量库
@@ -82,7 +82,7 @@
         - title: logo（矢量）
           logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/libretranslate.svg
           url: https://simpleicons.org/
-          description: OpenWrt网络控制
+          description: 图标库
     - term: 文件索引服务
       links:
         - title: 文档搜索
@@ -1188,9 +1188,9 @@
     - title: 子页面一
       url: sub1
       description: 本站子页面1
-    - title: 子页面二
-      url: sub2
-      description: 本站子页面2
+    - title: 油管博主
+      url: https://kjgx668.blogspot.com/
+      description: 科技共享
     - title: webstack.cc
       url: https://webstack.cc
       description: webstack - 设计师网址导航
