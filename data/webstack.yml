@@ -340,6 +340,14 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
           url: https://link3.cc/huan666
           description: app幻 
+        - title: 小米刷机包
+          logo: https://www.google.com/s2/favicons?sz=64&domain=miuiver.com
+          url: https://miuiver.com/tag/dali-stable-rom/
+          description: 线刷卡刷包 
+        - title: 移动式应用便携
+          logo: https://www.google.com/s2/favicons?sz=64&domain=portableapps.com
+          url: https://portableapps.com/
+          description: 移动式U盘app应用
     - term: 系统激活
       links:
         - title: 激活器
