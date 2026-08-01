@@ -323,7 +323,6 @@
           url: https://www.imsdn.cn/windows-10/win10-1709/
           description: Win10镜像1
           
-          
     - term: 系统激活
       links:
         - title: kms激活
