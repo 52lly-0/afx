@@ -292,7 +292,7 @@
      links:
        - title: kms激活
           logo: https://www.google.com/s2/favicons?sz=64&domain=ventoy.com
-          url:https://github.com/massgravel/Microsoft-Activation-Scripts
+          url: https://github.com/massgravel/Microsoft-Activation-Scripts
           description: 激活脚本
       
     - term: 系统操作
