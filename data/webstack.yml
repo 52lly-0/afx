@@ -335,7 +335,7 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=portableapps.com
           url: https://portableapps.com/
           description: 移动式App应用
-   - term: Linux
+   - term: ARM架构
       links:
         - title: 镜像下载
           logo: https://www.google.com/s2/favicons?sz=64&domain=m.uc23.net
