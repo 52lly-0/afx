@@ -287,9 +287,11 @@
       logo: images/logos/uigreat.png
       url: http://www.uigreat.com/
       description: UI设计师学习交流社区
+    
+
 - taxonomy: 电脑操作
   icon: fa-regular fa-lightbulb
-  list:
+  list: 
     - term: 油猴脚本
       links:
         - title: 脚本库
@@ -312,17 +314,18 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://github.com/Chunyu33/light-c
           description: C盘清理
-    - term: 系统激活
+          
+  - term: 系统激活
       links:
         - title: kms激活
           logo: https://www.google.com/s2/favicons?sz=64&domain=ventoy.com
           url: https://github.com/massgravel/Microsoft-Activation-Scripts
           description: 激活脚本
-    - term: 安卓
+  - term: 安卓
       links:
         - title: App下载
           logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
-          url: shturl.cc/Ar9N1WUgwjENvj
+          url: https://link3.cc/huan666
           description: App幻
         - title: 小米
           logo: https://www.google.com/s2/favicons?sz=64&domain=miuiver.com
@@ -359,17 +362,18 @@
         - title: 跑车壁纸
           logo: https://www.google.com/s2/favicons?sz=64&domain=zhuutix.com
           url: https://zhutix.com/animated/race-car-corrode/
-          description: 跑车动态高清壁纸
+          description:
         - title: 第三方壁纸
           logo: https://www.google.com/s2/favicons?sz=64&domain=wallpaperset.com
           url: https://wallpaperset.com/
-          description: 第三方高清壁纸资源站
+          description:第三方壁纸
+          
     - term: 工具
       links:
-        - title: JJ推
-          logo: https://www.google.com/s2/favicons?sz=64&domain=jjtui.com
-          url: https://www.jjtui.com/
-          description: JJ推（软件）
+         - title: JJ推
+           logo: https://www.google.com/s2/favicons?sz=64&domain=jjtui.com
+           url: https://www.jjtui.com/
+           description: JJ推（软件）
     - term: 网盘&下载&工具
       links:
         - title: fluxdown下载器
@@ -418,19 +422,21 @@
           description: 万能在线解析下载(油管)
         - title: WebInspiration
           logo: images/logos/WebInspiration.png
-          url: shturl.cc/7UOUGpNZH1r
+          url: http://web.uedna.com/
           description: 网页设计欣赏,全球顶级网页设计
         - title: navnav
           logo: images/logos/navnav.png
-          url: shturl.cc/QE4JfUzp
+          url: https://navnav.co/
           description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
         - title: Really Good UX
           logo: images/logos/ReallyGoodUX.png
           url: https://www.reallygoodux.io/
           description: A library of screenshots and examples of really good UX. Brought to you by
+
+      
 - taxonomy: 各类部署
   icon: fa-thumbs-up
-  list:
+  list: 
     - term: 影视类
       links:
         - title: 壳儿影视
@@ -456,7 +462,7 @@
         - title: IcoMoonApp
           logo: images/logos/IcoMoonApp.png
           url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF & PNG Generator
+          description: Icon Font, SVG, PDF &amp; PNG Generator
         - title: easyicon
           logo: images/logos/easyicon.png
           url: http://www.easyicon.net/
@@ -485,6 +491,7 @@
           logo: images/logos/simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack
+      
     - term: 镜像仓库
       links:
         - title: 图吧工具箱
@@ -630,6 +637,7 @@
           url: https://www.sketchcasts.net/
           logo: images/logos/sketchcasts.png
           description: Learn Sketch Train your design skills with a weekly video tutorial
+      
     - term: Ai资源&工具
       links:
         - title: agentscope机器人，带节点
@@ -1247,7 +1255,11 @@
       url: http://ued.ctrip.com/
       logo: images/logos/ctrip.png
       description: 携程设计委员会-Ctrip Design Committee
-       
+     
+
+
+
+     
 - taxonomy: 友情链接
   icon: fa-link
   friend:
