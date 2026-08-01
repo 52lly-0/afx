@@ -89,10 +89,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=yecao.app
           url: http://yecao.app
           description: 探索无限可能
-        - title: 提取码beei（TV装机助手）
-          logo: https://www.google.com/s2/favicons?sz=64&domain=lanzoux.com
-          url: https://wws.lanzoux.com/b021tgeng
-          description: 电视盒子应用安装
+        - title: 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=
+          url: 
+          description: 
     - term: 台风
       links:
         - title: 台风路径查询
@@ -263,7 +263,7 @@
       description: UI设计师学习交流社区
     
 
-- taxonomy: 灵感源泉
+- taxonomy: 电脑操作
   icon: fa-regular fa-lightbulb
   list: 
     - term: 油猴脚本
@@ -669,6 +669,7 @@
           url: https://github.com/cmliu
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           description: 第三方后台转换部署(注意节点暴露)
+          
         - title: 二级域名kdns
           url: https://dashboard.katabump.com/servers/edit?id=334542
           logo: https://www.google.com/s2/favicons?sz=64&domain=dashboard.katabump.com
@@ -704,6 +705,12 @@
           url: https://nexttun.net/#download
           logo: https://www.google.com/s2/favicons?sz=64&domain=nexttun.net
           description: 纸飞机1
+    - term: 节点订阅
+      links: 
+        - title: 地址1️⃣
+          url: https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/clash.meta2/1/config.yaml
+          logo: https://www.google.com/s2/favicons?sz=64&domain=gitlab.com
+          description: 飞起来1
         - title: visualhunt
           url: https://visualhunt.com/
           logo: images/logos/visualhunt.png
@@ -811,10 +818,10 @@
           url: https://suyihang15.github.io/2026/03/22/2026/03/2026-03-22-iflow%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/index/
           logo: https://www.google.com/s2/favicons?sz=64&domain=suyihang15.github.io
           description: 终端AI指令
-        - title: PPT+
-          url: http://www.pptplus.cn/
-          logo: images/logos/pptplus.png
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台
+        - title: ventoy主题美化+拓展
+          url: https://we.qoa.cc/161.html
+          logo: https://www.google.com/s2/favicons?sz=64&domain=we.qoa.cc
+          description: ventoy部署
         - title: PPTMind
           url: http://www.pptmind.com/
           logo: images/logos/pptmind.png
