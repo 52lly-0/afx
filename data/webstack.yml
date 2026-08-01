@@ -687,12 +687,12 @@
           logo: images/logos/forgraphictm.png
           description: High Quality PSD Mockups for Graphic Designers.
       
-    - term: 摄影图库
+    - term: 客户端
       links:
-        - title: Unsplash
-          url: https://unsplash.com/
-          logo: images/logos/unsplash.png
-          description: Beautiful, free photos.
+        - title: 全平台通用客户端（免费）
+          url: https://nexttun.net/#download
+          logo: https://www.google.com/s2/favicons?sz=64&domain=nexttun.net
+          description: 纸飞机1
         - title: visualhunt
           url: https://visualhunt.com/
           logo: images/logos/visualhunt.png
@@ -790,12 +790,12 @@
           logo: images/logos/publicdomainarchive.png
           description: New 100% Free Stock Photos. Every. Single. Week.
       
-    - term: PPT资源
+    - term: 教程
       links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: images/logos/officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
+        - title: mack-a八合一脚本
+          url: https://www.v2ray-agent.com/archives/1710141233
+          logo: https://www.google.com/s2/favicons?sz=64&domain=v2ray-agent.com
+          description: 搭建
         - title: 优品PPT
           url: http://www.ypppt.com/
           logo: images/logos/ypppt.png
