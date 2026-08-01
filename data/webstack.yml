@@ -1,30 +1,4 @@
-- taxonomy: 电脑操作
-  icon: fa-regular fa-lightbulb
-  list: 
-    - term: 油猴脚本
-      links:
-        - title: 脚本库
-          logo: https://www.google.com/s2/favicons?sz=64&domain=soujiaoben.org
-          url: https://soujiaoben.org/#/pages/list/list
-          description: 发现新鲜有趣的产品
-        - title: 油猴脚本官网
-          logo: https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
-          url: https://greasyfork.org/zh-CN
-          description: 原地址
-        - title: 绕过微软联网账号的限制（最新）
-          logo: https://www.google.com/s2/favicons?sz=64&domain=freedidi.com
-          url: https://www.freedidi.com/21151.html
-          description: win11最新绕过
-        - title: 极客豹（软件）
-          logo: https://www.google.com/s2/favicons?sz=64&domain=zyz.jikefuye.cn
-          url: https://zyz.jikefuye.cn/
-          description: 电脑软件下载.exe应用
-        - title: 电脑清理软件
-          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
-          url: https://github.com/Chunyu33/light-c
-          description: C盘清理
-          
-    - term: 系统激活
+   - term: 系统激活
       links:
         - title: kms激活
           logo: https://www.google.com/s2/favicons?sz=64&domain=ventoy.com
@@ -137,3 +111,4 @@
           logo: images/logos/navnav.png
           url: https://navnav.co/
           description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
+      
