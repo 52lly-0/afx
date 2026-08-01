@@ -711,14 +711,14 @@
           url: https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/clash.meta2/1/config.yaml
           logo: https://www.google.com/s2/favicons?sz=64&domain=gitlab.com
           description: 飞起来1
-        - title: visualhunt
-          url: https://visualhunt.com/
-          logo: images/logos/visualhunt.png
-          description: 100% Free High Quality Photos
-        - title: librestock
-          url: https://librestock.com/
-          logo: images/logos/librestock.png
-          description: 65,084 high quality do-what-ever-you-want stock photos
+        - title: 规则伪造地址（伪装）
+          url: https://github.com/SpaceTimee/Cealing-Host
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 想飞吗？
+        - title: 马斯克抓取grok 
+          url: https://github.com/MeeGooBoo/2025/blob/main/8/20/2025-8-20.md
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 链接每一天
         - title: pixabay
           url: https://pixabay.com/
           logo: images/logos/pixabay.png
@@ -906,10 +906,10 @@
           url: https://link3.cc/4ktv
           logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
           description: 真4K
-        - title: flinto
-          url: https://www.flinto.com/
-          logo: images/logos/flinto.png
-          description: Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
+        - title: 瓜子影视
+          url: https://gz360.tv/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=gz360.tv
+          description: 官网
         - title: framer
           url: https://framer.com/
           logo: images/logos/framer.png
