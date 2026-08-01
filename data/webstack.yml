@@ -289,10 +289,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=zyz.jikefuye.cn
           url: https://zyz.jikefuye.cn/
           description: 电脑软件下载.exe应用
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
+        - title: 电脑清理软件
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/Chunyu33/light-c
+          description: C盘清理
         - title: 小众软件
           logo: images/logos/appinn.png
           url: https://faxian.appinn.com/
@@ -353,10 +353,10 @@
           logo: images/logos/Ecommercefolio.png
           url: http://www.ecommercefolio.com/
           description: Only the Best Ecommerce Design Inspiration
-        - title: Lapa
-          logo: images/logos/Lapa.png
-          url: http://www.lapa.ninja/
-          description: The best landing page design inspiration from around the web.
+        - title: 萌娘助手
+          logo: https://www.google.com/s2/favicons?sz=64&domain=mn.mdown.asia
+          url: https://mn.mdown.asia/moepal/
+          description: 付费软件
         - title: Reeoo
           logo: images/logos/reeoo.png
           url: http://reeoo.com/
