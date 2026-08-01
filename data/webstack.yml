@@ -307,6 +307,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=bizhihui.com
           url: https://www.bizhihui.com/tags/4Kbizhi/
           description: 超高清壁纸
+    - term: 工具
+      links:
+         - title: JJ推
+           logo: https://www.google.com/s2/favicons?sz=64&domain=jjtui.com
+           url: https://www.jjtui.com/
+           description: JJ退（软件）
     - term: 网盘&下载&工具
       links:
         - title: fluxdown下载器
