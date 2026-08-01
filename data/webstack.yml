@@ -895,9 +895,9 @@
     - term: 在线影视
       links:
         - title: 追忆导航页
-          url: https://app.aree.pw/
-          logo: https://www.google.com/s2/favicons?sz=64&domain=app.aree.pw
-          description: 不需要解释
+          url: 
+          logo: 
+          description:
         - title: 可观看奈飞
           url: https://www.luketv.tv/zh/
           logo: https://www.google.com/s2/favicons?sz=64&domain=luketv.tv
