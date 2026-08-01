@@ -311,9 +311,41 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
       url: https://github.com/Chunyu33/light-c
       description: C盘清理
-- taxonomy:
+- taxonomy: 电脑工具箱
   icon:
   list:
+    - term: 系统操作
+      links:
+        - title: 刺客边风
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ckbf88.com
+          url: https://www.ckbf88.com/
+          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
+        - title: Collect UI
+          logo: images/logos/CollectUI.png
+          url: http://collectui.com/
+          description: Daily inspiration collected from daily ui archive and beyond.
+        - title: UI uigreat
+          logo: images/logos/uiuigreat.png
+          url: http://ui.uigreat.com/
+          description: APP界面截图参考
+        - title: Android Niceties
+          logo: images/logos/AndroidNiceties.png
+          url: https://androidniceties.tumblr.com/
+          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+    - term: 壁纸
+      links:
+        - title: 电脑
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bizhihui.com
+          url: https://www.bizhihui.com/tags/4Kbizhi/
+          description: 超高清壁纸
+        - title: 跑车壁纸
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zhuutix.com
+          url: https://zhutix.com/animated/race-car-corrode/
+          description:
+        - title: 第三方壁纸
+          logo: https://www.google.com/s2/favicons?sz=64&domain=wallpaperset.com
+          url: https://wallpaperset.com/
+          description:第三方壁纸
     - term: 网盘&下载&工具
       links:
         - title: fluxdown下载器
