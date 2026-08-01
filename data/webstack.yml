@@ -314,10 +314,15 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://github.com/Chunyu33/light-c
           description: C盘清理
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
+        - title: Win10镜像
+          logo: https://www.google.com/s2/favicons?sz=64&domain=microsoft.com
+          url: https://www.microsoft.com/zh-cn/software-download/windows10
+          description: Win10镜像（官网）
+        - title: Win10下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=imsdn.cn
+          url: https://www.imsdn.cn/windows-10/win10-1709/
+          description: Win10镜像1
+          
           
     - term: 系统激活
       links:
@@ -335,6 +340,21 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=miuiver.com
           url: https://miuiver.com/tag/dali-stable-rom/
           description: 小米线刷卡刷包
+        - title: 便携移动应用
+          logo: https://www.google.com/s2/favicons?sz=64&domain=portableapps.com
+          url: https://portableapps.com/
+          description: 移动式App应用
+          
+    - term: Linux
+      links:
+        - title: 镜像下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=m.uc23.net
+          url: https://m.uc23.net/xitong/tinycorelinux/
+          description: linux镜像
+        - title: 镜像2
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dev.jiniq.com
+          url: https://dev.jiniq.com/usrfile/share/route?find=DE9B8LaI93QOJWkfW%2Fz7AyusMGTHuS%2BaJ7Es%2FLAlT%2B4%3D
+          description: 系统镜像2
 
     - term: 系统操作
       links:
@@ -360,6 +380,15 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=bizhihui.com
           url: https://www.bizhihui.com/tags/4Kbizhi/
           description: 超高清壁纸
+        - title: 跑车壁纸
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zhuutix.com
+          url: https://zhutix.com/animated/race-car-corrode/
+          description:
+        - title: 第三方壁纸
+          logo: https://www.google.com/s2/favicons?sz=64&domain=wallpaperset.com
+          url: https://wallpaperset.com/
+          description:第三方壁纸
+          
     - term: 工具
       links:
          - title: JJ推
