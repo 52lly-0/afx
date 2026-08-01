@@ -320,6 +320,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=ckbf88.com
           url: https://www.ckbf88.com/
           description: 精品app应用推荐 
+    - term: 安卓
+      links:
+        - title: 应用下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
+          url: https://link3.cc/huan666
+          description: app幻 
     - term: 壁纸
       links: 
         - title: 电脑
