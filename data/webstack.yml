@@ -652,12 +652,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=m.234iptv.com
           description: 测试（注意立场）
       
-    - term: Mockup
+    - term: 节点
       links:
-        - title: MockupZone
-          url: https://mockup.zone/
-          logo: images/logos/MockupZone.png
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
+        - title: 后台转换地址
+          url: https://github.com/cmliu
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 第三方后台转换部署(注意节点暴露)
         - title: Dunnnk
           url: http://dunnnk.com/
           logo: images/logos/Dunnnk.png
