@@ -48,10 +48,10 @@
     - title: Base64编码解码
       url: https://99688988.xyz/base64-string-converter/
       description: 将utf-8能表示的所有字符进行Base64编码加密解密
-    - title: 
-      logo: https://www.google.com/s2/favicons?sz=64&domain=
-      url: 
-      description: 
+    - title: 创建漂亮的二维码
+      logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+      url: https://github.com/lyqht/mini-qr
+      description: 二维码制作
 - taxonomy: 日常（开机）
   icon: fa-regular fa-lightbulb
   list: 
@@ -99,12 +99,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=tf.istrongcloud.com
           url: https://tf.istrongcloud.com/release/index-sc.html?from=groupmessage&isappinstalled=0
           description: 实时在线查询
-    - term: 监控告警
+    - term: SSH网页工具
       links:
-        - title: 服务器监控
-          logo: https://www.google.com/s2/favicons?sz=64&domain=grafana.com
-          url: http://192.168.1.94:3000
-          description: 主机负载监控
+        - title: 网页版
+          logo: https://www.google.com/s2/favicons?sz=64&domain=sshx.io
+          url: https://sshx.io/
+          description: 网页版本ssh
     - term: 下载管理
       links:
         - title: 远程下载
@@ -357,14 +357,14 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=mn.mdown.asia
           url: https://mn.mdown.asia/moepal/
           description: 付费软件
-        - title: Reeoo
-          logo: images/logos/reeoo.png
-          url: http://reeoo.com/
-          description: web design inspiration and website gallery
-        - title: Designmunk
-          logo: images/logos/designmunk.png
-          url: https://designmunk.com/
-          description: Best Homepage Design Inspiration
+        - title: 百度解析
+          logo: https://www.google.com/s2/favicons?sz=64&domain=pdpb.cn
+          url: https://pdpb.cn/
+          description: 各网盘解析
+        - title: 视频下载（油管）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=yt5s.biz
+          url: https://yt5s.biz/zh-cnwr200/
+          description: 在线解析后下载
         - title: Best Websites Gallery
           logo: images/logos/BWG.png
           url: https://bestwebsite.gallery/
@@ -849,10 +849,10 @@
           url: https://www.adobe.com/cn/products/photoshop.html
           logo: images/logos/photoshop.png
           description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: images/logos/AffinityDesigner.png
-          description: 专业创意软件
+        - title: 可观看奈飞
+          url: https://www.luketv.tv/zh/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=luketv.tv
+          description: 国内可观看
         - title: Illustrator
           url: https://www.adobe.com/cn/products/illustrator/
           logo: images/logos/Illustrator.png
