@@ -199,7 +199,13 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=mongodb.com
           url: https://cloud.mongodb.com
           description: 数据库套餐监控
-                
+- taxonomy: 网盘搜索
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: 网盘资源搜索
+      logo: https://www.google.com/s2/favicons?sz=64&domain=160.202.47.249:15151
+      url: http://160.202.47.249:15151//
+      description: 各类资源搜索      
 - taxonomy: Nas专区
   icon: fa-regular fa-newspaper
   links: 
@@ -312,7 +318,7 @@
          - title: JJ推
            logo: https://www.google.com/s2/favicons?sz=64&domain=jjtui.com
            url: https://www.jjtui.com/
-           description: JJ退（软件）
+           description: JJ推（软件）
     - term: 网盘&下载&工具
       links:
         - title: fluxdown下载器
