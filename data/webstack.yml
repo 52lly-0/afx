@@ -65,6 +65,11 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
           url: https://aws.amazon.com/cn/
           description: 2027年1月25前（关闭并且注销账单）
+        - title: 青柠起始页
+          logo: https://www.google.com/s2/favicons?sz=64&domain=limestart.cn
+          url: https://www.limestart.cn/
+          description: 导航起始页
+          
     - term: 日常影视（待处理）
       links:
         - title: 油管
@@ -326,6 +331,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
           url: https://link3.cc/huan666
           description: App幻
+        - title: 小米
+          logo: https://www.google.com/s2/favicons?sz=64&domain=miuiver.com
+          url: https://miuiver.com/tag/dali-stable-rom/
+          description:小米线刷、卡刷包
 
     - term: 系统操作
       links:
