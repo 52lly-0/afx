@@ -257,9 +257,13 @@
       url: https://yszyssr.com/
       description: 影视片资源
     - title: 磁力熊
-      logo: https://www.google.com/s2/favicons?sz=64&domain=cilixiong.org
+      logo: https://www.google.com/s2/favicons?sz=64&domain=j-so.com
       url: https://www.cilixiong.org/
-      description: 资源磁力搜索
+      description: 资源磁力搜索 
+    - title: 珈珈搜索
+      logo: https://www.google.com/s2/favicons?sz=64&domain=j-so.com
+      url: https://j-so.com/?utm_source=web-note.cn
+      description: 
 
 - taxonomy: Nas专区
   icon: fa-regular fa-newspaper
