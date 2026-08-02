@@ -212,7 +212,11 @@
         - title: 中心
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://github.com/Yesbaiwan/OuonnkiTV-Source?tab=readme-ov-file
-          description: 成人影视中心
+          description: 成人影视中心 
+        - title: ontv影视资源
+          logo: https://www.google.com/s2/favicons?sz=64&domain=OuonnkiTV
+          url: https://ghfast.top/https://raw.githubusercontent.com/Yesbaiwan/OuonnkiTV-Source/main/tv_source/OuonnkiTV/full.json
+          description: ziyuan
     - term: 支付平台
       links:
         - title: PayPal后台
