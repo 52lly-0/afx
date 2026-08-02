@@ -172,7 +172,11 @@
         - title: BT1207
           logo: https://www.google.com/s2/favicons?sz=64&domain=bt1207so.cc
           url: https://bt1207so.cc/?_=972
-          description: 磁力1
+          description: 磁力1 
+        - title: 黑马磁力 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=heimamo.top
+          url: https://heimamo.top/
+          description: 磁力链接2
     - term: OECT
       links:
         - title: 固件包
@@ -195,12 +199,12 @@
           logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scpfoundation.svg
           url: https://github.com/anYuJia/better-douyin
           description: d因下载
-    - term: 的
+    - term: 13个接码站 
       links:
-        - title: 商业软件授权
-          logo: https://www.google.com/s2/favicons?sz=64&domain=ccleaner.com
-          url: https://account.piriform.com
-          description: PC工具许可证
+        - title: 接码
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.cnblogs.com/
+          url: https://www.cnblogs.com/Zeph/p/19821835
+          description: 13合一
     - term: 接口
       links:
         - title: 影视接口
