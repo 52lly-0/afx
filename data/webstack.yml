@@ -183,18 +183,18 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://sourceforge.net/projects/istoreos/files/iStoreOS/r3s/
           description: 
-    - term: 开发工具订阅
+    - term: 科技lion 
       links:
-        - title: JetBrains
-          logo: https://www.google.com/s2/favicons?sz=64&domain=jetbrains.com
-          url: https://account.jetbrains.com
-          description: IDE订阅续费
-    - term: 流媒体订阅
+        - title: 博客
+          logo: https://www.google.com/s2/favicons?sz=64&domain=blog.kejilion.pro 
+          url: https://blog.kejilion.pro/komari/
+          description: 探针面板（类似哪吒）监控面板
+    - term: 抖音工具箱
       links:
-        - title: 影音订阅管理
-          logo: https://www.google.com/s2/favicons?sz=64&domain=netflix.com
-          url: https://www.netflix.com
-          description: 视频会员清单
+        - title: 下载器
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scpfoundation.svg
+          url: https://github.com/anYuJia/better-douyin
+          description: d因下载
     - term: 软件授权
       links:
         - title: 商业软件授权
