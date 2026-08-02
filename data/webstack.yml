@@ -135,12 +135,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=screencoordinates.com
           url: https://screencoordinates.com/zh/
           description: 坐标？？？
-    - term: 笔记文档
+    - term: iStoreOS
       links:
-        - title: 知识库
-          logo: https://www.google.com/s2/favicons?sz=64&domain=obsidian.md
-          url: http://192.168.1.97
-          description: 在线知识库编辑
+        - title: 插件
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/AUK9527/Are-u-ok/tree/main/apps
+          description: 双平台
     - term: 网络测试工具
       links:
         - title: 测速面板
