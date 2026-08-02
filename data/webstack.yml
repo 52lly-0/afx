@@ -195,7 +195,7 @@
           logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scpfoundation.svg
           url: https://github.com/anYuJia/better-douyin
           description: d因下载
-    - term: 软件授权
+    - term: 的
       links:
         - title: 商业软件授权
           logo: https://www.google.com/s2/favicons?sz=64&domain=ccleaner.com
@@ -337,6 +337,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=jjtui.com
           url: https://www.jjtui.com/
           description: 电脑app应用 
+    - term: 驱动 
+      links: 
+        - title: 驱动总裁
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bbs.wuyou.net
+          url: https://bbs.wuyou.net/forum.php?mod=viewthread&tid=441373
+          description: 
     - term: 操作系统
       links:
         - title: Windows10
