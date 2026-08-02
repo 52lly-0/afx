@@ -140,7 +140,11 @@
         - title: 插件
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://github.com/AUK9527/Are-u-ok/tree/main/apps
-          description: 双平台
+          description: 双平台 
+        - title: 固件包（OEC下载）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://sourceforge.net/projects/istoreos/files/iStoreOS/r3s/
+          description:
     - term: 网络测试工具
       links:
         - title: 测速面板
