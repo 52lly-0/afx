@@ -173,12 +173,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=bt1207so.cc
           url: https://bt1207so.cc/?_=972
           description: 磁力1
-    - term: 网盘会员
+    - term: OECT
       links:
-        - title: 百度网盘
-          logo: https://www.google.com/s2/favicons?sz=64&domain=pan.baidu.com
-          url: https://pan.baidu.com
-          description: SVIP会员到期提醒
+        - title: 固件包
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/ophub/fnnas/releases/tag/fnnas_rockchip_1253
+          description: 刷机
     - term: 开发工具订阅
       links:
         - title: JetBrains
