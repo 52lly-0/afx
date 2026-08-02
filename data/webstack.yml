@@ -176,7 +176,11 @@
         - title: 黑马磁力 
           logo: https://www.google.com/s2/favicons?sz=64&domain=heimamo.top
           url: https://heimamo.top/
-          description: 磁力链接2
+          description: 磁力链接2 
+        - title: AI磁力资源站 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=web-note.cn/
+          url: https://web-note.cn/article/cilisousuo.html
+          description: 多合一磁力导航站
     - term: OECT
       links:
         - title: 固件包
