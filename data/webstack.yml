@@ -202,7 +202,11 @@
         - title: 下载器
           logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scpfoundation.svg
           url: https://github.com/anYuJia/better-douyin
-          description: d因下载
+          description: d因下载 
+        - title: D因下载器 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/Noah0509/DouyinVideoDownload
+          description: 
     - term: 13个接码站 
       links:
         - title: 接码
@@ -391,6 +395,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
           url: https://link3.cc/huan666
           description: app幻 
+        - title: 口袋猩球 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc/koudaixq
+          url: https://link3.cc/koudaixq
+          description: 
         - title: 小米刷机包
           logo: https://www.google.com/s2/favicons?sz=64&domain=miuiver.com
           url: https://miuiver.com/tag/dali-stable-rom/
@@ -912,10 +920,10 @@
           url: http://www.tretars.com/ppt-templates
           logo: images/logos/tretars.png
           description: The best free Mockups from the Web
-        - title: 5百丁
-          url: http://ppt.500d.me/
-          logo: images/logos/500d.png
-          description: 中国领先的PPT模板共享平台
+        - title: PY打包
+          url: https://blog.51cto.com/save/8934993?
+          logo: https://www.google.com/s2/favicons?sz=64&domain=blog.51cto.com
+          description: py打包安装（弹网页）
       
 
 - taxonomy: 真4K专区
@@ -923,10 +931,10 @@
   list: 
     - term: 在线影视
       links:
-        - title: 追忆导航页
-          url: 
-          logo: 
-          description:
+        - title: 搜影资源影视导航
+          url: https://www.souyinghu.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=souyinghu.com/
+          description: 多合一影视导航
         - title: 可观看奈飞
           url: https://www.luketv.tv/zh/
           logo: https://www.google.com/s2/favicons?sz=64&domain=luketv.tv
