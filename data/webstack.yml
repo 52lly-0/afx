@@ -347,6 +347,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=bbs.wuyou.net
           url: https://bbs.wuyou.net/forum.php?mod=viewthread&tid=441373
           description: 
+    - term: PE
+      links: 
+        - title: PE
+          logo: https://www.google.com/s2/favicons?sz=64&domain=silver.yukaidi.com/
+          url: https://silver.yukaidi.com/home?path=cloudreve%3A%2F%2FZmh9%40share
+          description: firPE
     - term: 操作系统
       links:
         - title: Windows10
