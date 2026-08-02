@@ -65,7 +65,15 @@
   icon: fa-regular fa-lightbulb
   list: 
     - term: 别瞎JB点（私人使用）
-      links:
+      links: 
+        - title: 机器人网页1号
+          logo: https://www.google.com/s2/favicons?sz=64&domain=yaosi.weiai0.eu.cc
+          url: https://yaosi.weiai0.eu.cc/
+          description: 带新闻
+        - title: 机器人2号网页ssh
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zhen0727.weiailly.kdns.fr 
+          url: https://zhen0727.weiailly.kdns.fr/
+          description: 玉儿
         - title: 局域网共享平台
           logo: https://www.google.com/s2/favicons?sz=64&domain=baidu.com
           url: http://192.168.1.92:8080/
@@ -118,7 +126,11 @@
         - title: 网页版
           logo: https://www.google.com/s2/favicons?sz=64&domain=sshx.io
           url: https://sshx.io/
-          description: 网页版本ssh
+          description: 网页版本ssh 
+        - title: 佬王SSH工具
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ssh.eooce.com
+          url: https://ssh.eooce.com/
+          description: 网页版本
     - term: M3U8
       links:
         - title: m3u8下载器
