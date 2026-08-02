@@ -376,7 +376,11 @@
         - title: 优资源站 
           logo: https://www.google.com/s2/favicons?sz=64&domain=www.you82.com/
           url: https://www.you82.com/
-          description: 资源站
+          description: 资源站 
+        - title: 独特吧
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dute8.cn
+          url: https://www.dute8.cn/?sort=1
+          description: 免费绿色软件
     - term: 驱动 
       links: 
         - title: 驱动总裁
