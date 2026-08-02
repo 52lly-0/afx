@@ -141,10 +141,6 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://github.com/AUK9527/Are-u-ok/tree/main/apps
           description: 双平台 
-        - title: 固件包（OEC下载）
-          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
-          url: https://sourceforge.net/projects/istoreos/files/iStoreOS/r3s/
-          description:
     - term: 网络测试工具
       links:
         - title: 测速面板
@@ -182,7 +178,11 @@
         - title: 固件包
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://github.com/ophub/fnnas/releases/tag/fnnas_rockchip_1253
-          description: 刷机
+          description: 刷机 
+        - title: 固件包（OEC下载）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://sourceforge.net/projects/istoreos/files/iStoreOS/r3s/
+          description: 
     - term: 开发工具订阅
       links:
         - title: JetBrains
