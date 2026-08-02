@@ -43,9 +43,13 @@
       description: 便宜高速VPS（虚拟机） 
     - title: visa虚拟卡
       qrcode: images/qrcodes/usdt.png
-      logo:
+      logo: https://www.google.com/s2/favicons?sz=64&domain=app.pokepay
       url: https://app.pokepay.cc/pages/passport/invitation?r=145892
-      description: usdt套现，国内拼多多消费，支付宝消费
+      description: usdt套现，国内拼多多消费，支付宝消费 
+    - title: 在线颜色选择表 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=tools.jb51.net/
+      url: https://tools.jb51.net/static/colorpicker/
+      description: 颜色代码选择
     - title: 接码平台
       logo:  
       url: https://hero-sms.com/?ref=489021/
@@ -247,12 +251,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=paypal.com
           url: https://www.paypal.com
           description: 海外支付账单查询
-    - term: 数据库增值服务
+    - term: 绿联云（Nas）
       links:
-        - title: 云数据库后台
-          logo: https://www.google.com/s2/favicons?sz=64&domain=mongodb.com
-          url: https://cloud.mongodb.com
-          description: 数据库套餐监控
+        - title: 绿联nas下载中心
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ugnas.com
+          url: https://www.ugnas.com/support/download-list/id-28
+          description: 官方
 - taxonomy: 网盘搜索
   icon: fa-regular fa-newspaper
   links: 
@@ -324,10 +328,10 @@
       logo: images/logos/niaogebiji.png
       url: http://www.niaogebiji.com/
       description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
+    - title: 飞牛笔记本24小时在线
+      logo: https://www.google.com/s2/favicons?sz=64&domain=zhuanlan.zhihu.com
+      url: https://zhuanlan.zhihu.com/p/1926745250128429307
+      description: 关闭屏幕（合盖）
     - title: 优阁网
       logo: images/logos/uigreat.png
       url: http://www.uigreat.com/
