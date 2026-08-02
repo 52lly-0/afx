@@ -207,12 +207,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=xn--v4q818bf34b.cc
           url: https://xn--v4q818bf34b.cc/
           description: 禁止传播
-    - term: 硬件订阅维保
+    - term: OuonnkiTV成人接口
       links:
-        - title: 设备维保中心
-          logo: https://www.google.com/s2/favicons?sz=64&domain=dell.com
-          url: https://www.dell.com/support
-          description: 硬件保修期限
+        - title: 中心
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/Yesbaiwan/OuonnkiTV-Source?tab=readme-ov-file
+          description: 成人影视中心
     - term: 支付平台
       links:
         - title: PayPal后台
@@ -736,10 +736,10 @@
           url: https://github.com/shuaidaoya/FreeNodes?tab=readme-ov-file
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           description: 非紧急可使用？
-        - title: Mockup World
-          url: https://free.lstore.graphics/
-          logo: images/logos/mockupworld.png
-          description: The best free Mockups from the Web
+        - title: v2ray-node抓取
+          url: https://www.v2nodes.com/country/sg/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=v2nodes.com
+          description: 节点获取2
         - title: Lstore
           url: https://free.lstore.graphics/
           logo: images/logos/lstore.png
