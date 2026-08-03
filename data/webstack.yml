@@ -6,6 +6,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=music.zyfx6.xyz
       url: https://music.zyfx6.xyz/
       description: 在线音乐1 
+    - title: COCO音乐下载
+      logo: https://www.google.com/s2/favicons?sz=64&domain=cocodownloader.markqq.com
+      url: https://cocodownloader.markqq.com/
+      description: 在线下载
     - title: 52破解
       logo: https://www.google.com/s2/favicons?sz=64&domain=52pojie.cn/
       url: https://www.52pojie.cn/
@@ -537,44 +541,13 @@
         - title: Icon Archive
           logo: images/logos/iconarchive.png
           url: http://www.iconarchive.com/
-          description: Search 590,912 free icons
-        - title: FindIcons
-          logo: images/logos/FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons
-        - title: IcoMoonApp
-          logo: images/logos/IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator
-        - title: easyicon
-          logo: images/logos/easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-        - title: flaticon
-          logo: images/logos/flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: images/logos/UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: images/logos/Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: images/logos/fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome
-        - title: ion icons
-          logo: images/logos/ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: images/logos/simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack
-      
+          description: Search 590,912 free icons 
+    - term: 应用商店 
+      links: 
+        - title: liunx如意玲珑商店
+          logo: https://www.google.com/s2/favicons?sz=64&domain=store.linyaps.org.cn/
+          url: https://store.linyaps.org.cn/
+          description: 第三方玲珑商店下载中心
     - term: 镜像仓库
       links:
         - title: 图吧工具箱
