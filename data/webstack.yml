@@ -13,8 +13,11 @@
     - title: 52破解
       logo: https://www.google.com/s2/favicons?sz=64&domain=52pojie.cn/
       url: https://www.52pojie.cn/
-      descripthon: 52pojie
-      
+      descripthon: 52pojie 
+    - title: 佬王工具 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=nav.eooce.com/ 
+      url: https://nav.eooce.com/ 
+      description: 佬王好用工具网站
     - title: 唯爱李丽玉（个人）
       logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zoiper.svg
       url: https://52lly.kdns.fr/
@@ -184,7 +187,11 @@
         - title: AWS控制台
           logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
           url: https://aws.amazon.com/cn/
-          description: 云资源账单监控
+          description: 云资源账单监控 
+        - title: Aws后台 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=signin.aws.amazon.com/
+          url: https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fap-east-1.console.aws.amazon.com%2Fec2%2Fhome%3Fca-oauth-flow-id%3D46f2%26hashArgs%3D%2523Instances%253A%26isauthcode%3Dtrue%26oauthStart%3D1785768267735%26region%3Dap-east-1%26state%3DhashArgsFromTB_ap-east-1_5a388e8562677208&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&forceMobileApp=0&oauth_region=ap-east-1&code_challenge=LoC8Xvu49TOdwR9-YT6h5_t4uPW2H6QoWRNMztm1K-c&code_challenge_method=SHA-256
+          description: Aws后台登录 
     - term: CDN服务账单
       links:
         - title: Cloudflare后台
