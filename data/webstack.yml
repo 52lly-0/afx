@@ -312,10 +312,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=weixin.qq.com
       url: https://mp.weixin.qq.com/s?__biz=MzI3MTYyMzMzMw==&mid=2247484063&idx=1&sn=5e41825d15f7310117945dc43d10797b&chksm=ea2493776cf700ac0d5519995378ce31a8b8a76b09b6f13a8f93e4d561dd583d836882b358d4&mpshare=1&scene=24&srcid=0118roFgQPoHW4olq2JPWWat&sharer_shareinfo=22400578864c189519a352349a29a644&sharer_shareinfo_first=22400578864c189519a352349a29a644&ascene=14&devicetype=android-36&version=28004553&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=JP&exportkey=n_ChQIAhIQILp%2BulhA5qSRVIFev%2BMIQxL2AQIE97dBBAEAAAAAAEe4EOL0B1cAAAAOpnltbLcz9gKNyK89dVj09%2FBMraxaQEEfhYmz0jVsumsQwuYNLwDz8RscDRYUt%2BoFV70KxhAF0KzHHVqHWXVzKBGYGS9EdHmwTIdzrX%2Bq1DSMqt%2FI%2BJN%2Bi8DEhxyxVKhjMWPsHRAuRjAJ4VC3zdY1STNmzyLDAvOMUs1P2B1erz%2FpsVY6WtKcfoakRbDoJoD7z8vanI2zM9gTC2nIYthVejn5l7l%2BJsbC0a5VDkaoU2oDVIVqECHeD3UhpcpEBLCPb58%2FsTgGUF6GI%2BqEVc29LELPnXiQ4yXanHnLqzelyQ%3D%3D&pass_ticket=MvyXUA0vTSlQgd7rehZyNVAgTFRzygr7xgWN2HLMgDbMgzjcGLS37rdIqxHQCiAo&wx_header=3
       description: 一键部署安装
-    - title: 产品壹佰 
-      logo: images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
+    - title: 小飞机（第三方后台）
+      logo: https://www.google.com/s2/favicons?sz=64&domain=share.feijipan.com
+      url: https://share.feijipan.com/s/OSYzYtVf
+      description: 第三方的后台相关设置
     - title: 代理软件下载中心
       logo: https://www.google.com/s2/favicons?sz=64&domain=chonglangbiji.com
       url: https://www.chonglangbiji.com/downloads/
