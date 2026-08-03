@@ -411,7 +411,7 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=imsdn.cn
           url: https://www.imsdn.cn/windows-10/win10-1709/
           description: win0镜像2 
-    - term: ARM 
+    - term: Linux
       links: 
         - title: 镜像包1
           logo: https://www.google.com/s2/favicons?sz=64&domain=m.uc23.net
@@ -420,7 +420,11 @@
         - title: 镜像包2 
           logo: https://www.google.com/s2/favicons?sz=64&domain=dev.jiniq.com
           url: https://dev.jiniq.com/usrfile/share/route?find=DE9B8LaI93QOJWkfW%2Fz7AyusMGTHuS%2BaJ7Es%2FLAlT%2B4%3D
-          description: 2号
+          description: 2号 
+        - title: linux下屏幕亮度调节
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zhuanlan.zhihu.com
+          url: https://zhuanlan.zhihu.com/p/269714827
+          description: liunx的亮度调节
     - term: 安卓
       links:
         - title: 应用下载
