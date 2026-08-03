@@ -1145,14 +1145,14 @@
         
     - term: Chrome插件
       links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: images/logos/wappalyzer.png
-          description: Identify technology on websites
-        - title: Panda
-          url: http://usepanda.com/
-          logo: images/logos/usepanda.png
-          description: A smart news reader built for productivity.
+        - title: 全网解析插件
+          url: https://blog.88lin.eu.org/article/46#58686faaa8644858aa8e533bb32b8bec
+          logo: https://www.google.com/s2/favicons?sz=64&domain=blog.88lin.eu.org
+          description: 插件 
+        - title: 影视部署MoviePilot 
+          url: https://wiki.movie-pilot.org/install
+          logo: https://www.google.com/s2/favicons?sz=64&domain=wiki.movie-pilot.org
+          description: MoviePilot Wiki安装指引
         - title: sizzy
           url: https://sizzy.co/
           logo: images/logos/sizzy.png
@@ -1357,8 +1357,11 @@
       url: https://kjgx668.blogspot.com/
       description: 科技共享
     - title: webstack.cc
-      url: https://webstack.cc
+      url: https://webstack.cc 
       description: webstack - 设计师网址导航
+    - title: 米贝分享 
+      url: https://www.mibei77.com/
+      description: 分享资源站
     - title: 404导航
       url: https://www.404dh.icu/
       description: 只导航优质资源
