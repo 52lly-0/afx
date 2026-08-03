@@ -828,6 +828,14 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=openproxylist.com 
           url: https://openproxylist.com/v2ray/
           description: v2ray多节点获取 
+        - title: 在线获取 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=outlinekeys.com/
+          url: https://outlinekeys.com/
+          description: 节点获取3 
+        - title: berryhub28小时获取公益节点 
+          logo: https://berryhub.org/#link-id
+          url: https://berryhub.org/#link-id
+          description: 大流量畅享网络自由，世界触手可及
       
     - term: 客户端
       links:
