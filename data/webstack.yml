@@ -68,7 +68,11 @@
     - tile: istoreos易有云
       logo: https://www.google.com/s2/favicons?sz=64&domain=site.istoreos.com
       url: https://site.istoreos.com/
-      description: 固件刷机包
+      description: 固件刷机包 
+    - title: 影视ID查询 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org
+      url: https://www.themoviedb.org/tv/75682
+      description: 查询影视ID号
 - taxonomy: 日常（开机）
   icon: fa-regular fa-lightbulb
   list: 
