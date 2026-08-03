@@ -439,6 +439,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
           url: https://link3.cc/huan666
           description: app幻 
+        - title: app幻在线安装 
+          url: http://apphuan.top/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=apphuan.top/
+          description: app幻应用下载中心
         - title: 口袋猩球 
           logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc/koudaixq
           url: https://link3.cc/koudaixq
@@ -562,10 +566,10 @@
           logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/testrail.svg
           url: https://github.com/itsfatduck/optimizerDuck/releases/tag/v2.24.2
           description: 
-        - title: World Vector Logo
-          logo: images/logos/worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download
+        - title: 小红书导出
+          logo: https://www.google.com/s2/favicons?sz=64&domain=xhs.mundane.ink/
+          url: https://xhs.mundane.ink/
+          description: 小红书收藏快速导出
         - title: Instant Logo Search
           logo: images/logos/InstantLogoSearch.png
           url: http://instantlogosearch.com/
@@ -972,6 +976,14 @@
           url: https://djyqk.top/
           logo: https://www.google.com/s2/favicons?sz=64&domain=djyqk.top/
           description: 
+        - title: 好好看在线
+          logo: https://www.google.com/s2/favicons?sz=64&domain=hhkan0.com/
+          url: https://www.hhkan0.com/
+          description: 在线影视 
+        - title: 无极影视 
+           logo: https://www.google.com/s2/favicons?sz=64&domain=wujiapp.cc/ 
+           url: https://www.wujiapp.cc/ 
+           description: 无极影视下载
       
     - term: 六大官网影视区
       links:
@@ -999,7 +1011,7 @@
           url: https://tv.sohu.com/
           logo: https://www.google.com/s2/favicons?sz=64&domain=tv.sohu.com
           description: 
-    - term: 4K
+    - term: 4K专区影视
       links:
         - title: 挂了
           url: https://www.xn--ykq321c.com/?count=1
@@ -1017,10 +1029,18 @@
           url: https://www.hmxz.org/
           logo: https://www.google.com/s2/favicons?sz=64&domain=hmxz.org/
           description: 更新快-4K
-        - title: ProtoPie
-          url: http://www.protopie.cn/
-          logo: images/logos/protopie.png
-          description: 高保真交互原型设计
+        - title: BT影视
+          url: https://www.btbtla.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=btbtla.com/
+          description: BT影视 
+        - title: 超高清影视
+          logo: https://www.google.com/s2/favicons?sz=64&domain=seedhub.cc/
+          url: https://hubdog.cc/
+          description: 高清影视下载（磁力）
+        - title: 4K影视资源表 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=kdocs.cn
+          url: https://www.kdocs.cn/l/cgqWkD4v1nHK
+          description: 影视4K资源
 
     - term: 在线铃音
       links:
