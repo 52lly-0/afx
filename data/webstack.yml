@@ -316,10 +316,10 @@
       logo: images/logos/chanpin100.png
       url: http://www.chanpin100.com/
       description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
+    - title: 代理软件下载中心
+      logo: https://www.google.com/s2/favicons?sz=64&domain=chonglangbiji.com
+      url: https://www.chonglangbiji.com/downloads/
+      description: 飞机下载
     - title: 爱运营
       logo: images/logos/iyunying.png
       url: http://www.iyunying.org/
@@ -332,10 +332,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=zhuanlan.zhihu.com
       url: https://zhuanlan.zhihu.com/p/1926745250128429307
       description: 关闭屏幕（合盖）
-    - title: 优阁网
-      logo: images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
+    - title: 终极导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.zjnav.com
+      url: https://www.zjnav.com/#term-182
+      description: 优质资源导航站
     
 - taxonomy: 油猴脚本库
   icon: fa-regular fa-newspaper
