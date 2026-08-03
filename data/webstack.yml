@@ -816,14 +816,18 @@
           url: https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html
           logo: https://www.google.com/s2/favicons?sz=64&domain=v2raya.net
           description: 魔法抓取与分享 
-        - title: pixeden
-          url: https://www.pixeden.com/
-          logo: images/logos/pixeden.png
-          description: free web resources and graphic design templates.
-        - title: For Graphic TM
-          url: http://forgraphictm.com/
-          logo: images/logos/forgraphictm.png
-          description: High Quality PSD Mockups for Graphic Designers.
+        - title: 客户端与分享
+          url: https://www.kejitt.top/jd/jiediana.html
+          logo: https://www.google.com/s2/favicons?sz=64&domain=kejitt.top
+          description: 飞机客户端和分享
+        - title: 新鲜代理列表
+          url: http://free-proxy.cz/zh/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=free-proxy.cz
+          description: 免费分享 
+        - title: V2ray开放列表抓取 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=openproxylist.com 
+          url: https://openproxylist.com/v2ray/
+          description: v2ray多节点获取 
       
     - term: 客户端
       links:
