@@ -952,26 +952,26 @@
           url: https://www.luketv.tv/zh/
           logo: https://www.google.com/s2/favicons?sz=64&domain=luketv.tv
           description: 国内可观看
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: images/logos/Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: images/logos/INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: images/logos/cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: images/logos/3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: images/logos/blender.png
-          description: Blender is the free and open source 3D creation suite.
+        - title: 66影视
+          url: https://www.66dy2.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=66dy2.com/
+          description: 在线影视66
+        - title: 布布影视发布页
+          url: https://bubuzhuiju.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bubuzhuiju.com/
+          description: 布布影视
+        - title: 电影港
+          url: https://www.dygangs.me/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dygangs.me/
+          description: 影视下载
+        - title: 七味影视发布页
+          url: https://www.qn63.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=qn63.com/
+          description: 七味影视（类似教父影视）
+        - title: 4K原盘
+          url: https://djyqk.top/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=djyqk.top/
+          description: 
       
     - term: 六大官网影视区
       links:
@@ -1013,10 +1013,10 @@
           url: https://gz360.tv/
           logo: https://www.google.com/s2/favicons?sz=64&domain=gz360.tv
           description: 官网
-        - title: framer
-          url: https://framer.com/
-          logo: images/logos/framer.png
-          description: Design everything from detailed icons to high-fidelity interactions—all in one place.
+        - title: 海绵小站
+          url: https://www.hmxz.org/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=hmxz.org/
+          description: 更新快-4K
         - title: ProtoPie
           url: http://www.protopie.cn/
           logo: images/logos/protopie.png
