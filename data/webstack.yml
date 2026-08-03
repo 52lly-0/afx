@@ -465,7 +465,11 @@
         - title: 移动式应用便携
           logo: https://www.google.com/s2/favicons?sz=64&domain=portableapps.com
           url: https://portableapps.com/
-          description: 移动式U盘app应用
+          description: 移动式U盘app应用 
+        - title: 第三方应用商店 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=cn.aptoide.com/
+          url: https://cn.aptoide.com/
+          descripption: Aptoide应用商店 
     - term: 系统激活
       links:
         - title: 激活器
@@ -803,7 +807,11 @@
         - title: v2ray-node抓取
           url: https://www.v2nodes.com/country/sg/
           logo: https://www.google.com/s2/favicons?sz=64&domain=v2nodes.com
-          description: 节点获取2
+          description: 节点获取2 
+        - title: 在线抓取节点 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=asfn.awafuns.cn/
+          url: https://asfn.awafuns.cn/
+          description: 从此世界如此简单 
         - title: 昌南魔法学院
           url: https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html
           logo: https://www.google.com/s2/favicons?sz=64&domain=v2raya.net
@@ -828,7 +836,11 @@
         - title: 地址1️⃣
           url: https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/clash.meta2/1/config.yaml
           logo: https://www.google.com/s2/favicons?sz=64&domain=gitlab.com
-          description: 飞起来1
+          description: 飞起来1 
+        - title: 垃圾VPN 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=itmanager.top
+          url: https://itmanager.top/download.html 
+          description: 垃圾VPN专线 
         - title: 规则伪造地址（伪装）
           url: https://github.com/SpaceTimee/Cealing-Host
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
