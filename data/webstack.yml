@@ -245,12 +245,12 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=OuonnkiTV
           url: https://ghfast.top/https://raw.githubusercontent.com/Yesbaiwan/OuonnkiTV-Source/main/tv_source/OuonnkiTV/full.json
           description: ziyuan
-    - term: 支付平台
+    - term: 内网穿透
       links:
-        - title: PayPal后台
-          logo: https://www.google.com/s2/favicons?sz=64&domain=paypal.com
-          url: https://www.paypal.com
-          description: 海外支付账单查询
+        - title: 皎月连
+          logo: https://www.google.com/s2/favicons?sz=64&domain=natpierce.cn
+          url: https://www.natpierce.cn/
+          description: 内网穿透服务
     - term: 绿联云（Nas）
       links:
         - title: 绿联nas下载中心
@@ -291,7 +291,7 @@
     - title: 飞牛官网
       logo: https://www.google.com/s2/favicons?sz=64&domain=fnnas.com/
       url: https://fnnas.com/
-      description: nas
+      description: nas 
     - title: 飞牛影视strm指南
       logo: https://www.google.com/s2/favicons?sz=64&domain=wifilu.com
       url: https://www.wifilu.com/4683.html
@@ -335,7 +335,15 @@
     - title: 终极导航
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.zjnav.com
       url: https://www.zjnav.com/#term-182
-      description: 优质资源导航站
+      description: 优质资源导航站 
+    - title: 符号大全
+      logo: https://www.google.com/s2/favicons?sz=64&domain=xn--rprt52g.com
+      url: https://xn--rprt52g.com/
+      description: 各类符号大全 
+    - title: 百度动态图片
+      logo: https://www.google.com/s2/favicons?sz=64&domain=image.baidu.com
+      url: https://image.baidu.com/search/detail?adpicid=0&b_applid=8166226113380980754&bdtype=0&commodity=&copyright=&cs=2330394908%2C28444905&di=7583744013631488001&fr=click-pic&fromurl=http%253A%252F%252Fweibo.com%252Fp%252F1006063862482900%252Fhome&gsm=30c&hd=&height=0&hot=&ic=&ie=utf-8&imgformat=&imgratio=&imgspn=0&is=0%2C0&isImgSet=&latest=&lid=&lm=&objurl=https%253A%252F%252Fs11.sinaimg.cn%252Fmw690%252F004doAfigy6MYYdx6e6ca&os=1469584489%2C3503422025&pd=image_content&pi=0&pn=777&rn=1&simid=4104116510%2C520405479&tn=baiduimagedetail&width=0&word=%E5%8A%A8%E6%80%81&z=
+      description: baidu图片
     
 - taxonomy: 油猴脚本库
   icon: fa-regular fa-newspaper
