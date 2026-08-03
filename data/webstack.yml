@@ -536,7 +536,7 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=snapwc.com
           url: https://snapwc.com/zh
           description: 万能在线解析下载(油管)
-        - title: WebInspiration
+        - title: 1
           logo: images/logos/WebInspiration.png
           url: http://web.uedna.com/
           description: 网页设计欣赏,全球顶级网页设计
@@ -976,6 +976,10 @@
           url: https://blog.51cto.com/save/8934993?
           logo: https://www.google.com/s2/favicons?sz=64&domain=blog.51cto.com
           description: py打包安装（弹网页）
+        - title: 音乐在线部署 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/guohuiyuan/go-music-dl#docker-%E9%83%A8%E7%BD%B2
+          description: 音乐在线部署中
       
 
 - taxonomy: 真4K专区
