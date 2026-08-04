@@ -138,10 +138,10 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=yecao.app
           url: http://yecao.app
           description: 探索无限可能
-        - title: 
-          logo: https://www.google.com/s2/favicons?sz=64&domain=
-          url: 
-          description: 
+        - title: adb推送
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/Genymobile/scrcpy
+          description: 推送adb 
     - term: 台风
       links:
         - title: 台风路径查询
@@ -258,6 +258,14 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://sourceforge.net/projects/istoreos/files/iStoreOS/r3s/
           description: 
+        - title: 插件aa u ok
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/bcseputetto/Are-u-ok
+          description: openwrt插件 
+        - title: 固件包oect 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/ophub/amlogic-s9xxx-openwrt/releases/tag/OpenWrt_openwrt_main_save_2026.08
+          description: openwrt固件包 
     - term: 科技lion 
       links:
         - title: 博客
