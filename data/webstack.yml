@@ -1,3 +1,409 @@
+---
+- taxonomy: 常用推荐
+  icon: fa-star
+  links: 
+    - title: 音乐
+      logo: https://www.google.com/s2/favicons?sz=64&domain=music.zyfx6.xyz
+      url: https://music.zyfx6.xyz/
+      description: 在线音乐1 
+    - title: COCO音乐下载
+      logo: https://www.google.com/s2/favicons?sz=64&domain=cocodownloader.markqq.com
+      url: https://cocodownloader.markqq.com/
+      description: 在线下载
+    - title: 52破解
+      logo: https://www.google.com/s2/favicons?sz=64&domain=52pojie.cn/
+      url: https://www.52pojie.cn/
+      descripthon: 52pojie 
+    - title: 佬王工具 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=nav.eooce.com/ 
+      url: https://nav.eooce.com/ 
+      description: 佬王好用工具网站
+    - title: 唯爱李丽玉（个人）
+      logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zoiper.svg
+      url: https://52lly.kdns.fr/
+      description: 想你的每一天！！！
+    - title: YouTube
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
+      url: https://www.youtube.com
+      description: 一个专注于软件安装，科学上网教学！
+    - title: 网页版电报 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=web.telegram.org
+      url: https://web.telegram.org/k/
+      description: telegram网页版 
+    - title: UUID生成
+      url: https://99688988.xyz/uuid-generator/
+      logo: https://www.google.com/s2/favicons?sz=64&domain=99688988.xyz
+      description: UUID在线生成 
+    - title: 在线视频+音频合成 
+      logo: https://tool.greenvideo.cc/merge
+      url: https://tool.greenvideo.cc/merge
+      description: 音视频在线工具箱合成 
+    - title: 8K油管测试
+      qrcode: 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+      url: https://m.youtube.com/watch?v=G5RpJwCJDqc&pp=ygUCOGvSBwkJowsBhyohjO8%3D
+      description: 测试
+    - title: 资源博客
+      qrcode: images/qrcodes/bk.png
+      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
+      url: https://kjgx668.blogspot.com/
+      description: 资源分享，详细图文教程。
+    - title: 全宇宙最便宜的vps
+      logo: images/logos/racknerd.png
+      url: https://my.racknerd.com/aff.php?aff=13491
+      description: 一年仅10.99每月3T流量17G固态硬盘
+    - title: Vps购买（D姐）
+      logo: https://www.google.com/s2/favicons?sz=64&domain=pan.yins.win
+      url: https://panel.yins.win/stock
+      description: 便宜高速VPS（虚拟机） 
+    - title: D（姐）Vps购买 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=panel.yins.win/
+      url: https://panel.yins.win/stock
+      description: D姐姐vps
+    - title: visa虚拟卡
+      qrcode: images/qrcodes/usdt.png
+      logo: https://www.google.com/s2/favicons?sz=64&domain=app.pokepay
+      url: https://app.pokepay.cc/pages/passport/invitation?r=145892
+      description: usdt套现，国内拼多多消费，支付宝消费 
+    - title: 在线颜色选择表 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=tools.jb51.net/
+      url: https://tools.jb51.net/static/colorpicker/
+      description: 颜色代码选择
+    - title: 接码平台
+      logo:  
+      url: https://hero-sms.com/?ref=489021/
+      description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
+    - title: Base64编码解码
+      url: https://99688988.xyz/base64-string-converter/
+      description: 将utf-8能表示的所有字符进行Base64编码加密解密
+    - title: 创建漂亮的二维码
+      logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+      url: https://github.com/lyqht/mini-qr
+      description: 二维码制作 
+    - tile: istoreos易有云
+      logo: https://www.google.com/s2/favicons?sz=64&domain=site.istoreos.com
+      url: https://site.istoreos.com/
+      description: 固件刷机包 
+    - title: 影视ID查询 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org
+      url: https://www.themoviedb.org/tv/75682
+      description: 查询影视ID号
+- taxonomy: 日常（开机）
+  icon: fa-regular fa-lightbulb
+  list: 
+    - term: 别瞎JB点（私人使用）
+      links: 
+        - title: 机器人网页1号
+          logo: https://www.google.com/s2/favicons?sz=64&domain=yaosi.weiai0.eu.cc
+          url: https://yaosi.weiai0.eu.cc/
+          description: 带新闻
+        - title: 机器人2号网页ssh
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zhen0727.weiailly.kdns.fr 
+          url: https://zhen0727.weiailly.kdns.fr/
+          description: 玉儿
+        - title: 局域网共享平台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=baidu.com
+          url: http://192.168.1.92:8080/
+          description: 局域网文件传输
+        - title: aws-云计算服务
+          logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
+          url: https://aws.amazon.com/cn/
+          description: 2027年1月25前（关闭并且注销账单）
+        - title: 青柠起始页
+          logo: https://www.google.com/s2/favicons?sz=64&domain=limestart.cn
+          url: https://www.limestart.cn/
+          description: 导航起始页
+          
+    - term: 日常影视（待处理）
+      links:
+        - title: 油管
+          logo: https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+          url: https://www.youtube.com/watch?v=YQU2tWxBa40
+          description: 待处理影音
+    - term: Docker容器面板
+      links:
+        - title: 飞牛面板
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tanstack.svg
+          url: http://192.168.1.123:5666
+          description: 飞牛Nas后台
+    - term: 第三方矢量库
+      links:
+        - title: logo（矢量）
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/libretranslate.svg
+          url: https://simpleicons.org/
+          description: 图标库
+    - term: 电视盒子
+      links:
+        - title: 小草助手
+          logo: https://www.google.com/s2/favicons?sz=64&domain=yecao.app
+          url: http://yecao.app
+          description: 探索无限可能
+        - title: 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=
+          url: 
+          description: 
+    - term: 台风
+      links:
+        - title: 台风路径查询
+          logo: https://www.google.com/s2/favicons?sz=64&domain=tf.istrongcloud.com
+          url: https://tf.istrongcloud.com/release/index-sc.html?from=groupmessage&isappinstalled=0
+          description: 实时在线查询
+    - term: SSH网页工具
+      links:
+        - title: 网页版
+          logo: https://www.google.com/s2/favicons?sz=64&domain=sshx.io
+          url: https://sshx.io/
+          description: 网页版本ssh 
+        - title: 佬王SSH工具
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ssh.eooce.com
+          url: https://ssh.eooce.com/
+          description: 网页版本 
+        - title: 网页SSH-1 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=webssh.hidns.vip/ 
+          url: https://webssh.hidns.vip/
+          description: SSH网页版本 
+           
+    - term: M3U8
+      links:
+        - title: m3u8下载器
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/zhiyiYo/Fluent-M3U8/blob/main/docs/README_zh.md
+          description: m3u8下载器
+    - term: 屏幕
+      links:
+        - title: 在线屏幕检测
+          logo: https://www.google.com/s2/favicons?sz=64&domain=screen.bmcx.com
+          url: https://screen.bmcx.com/#test-solid-red
+          description: 屏幕检测
+        - title: 屏幕坐标获取工具
+          logo: https://www.google.com/s2/favicons?sz=64&domain=screencoordinates.com
+          url: https://screencoordinates.com/zh/
+          description: 坐标？？？
+    - term: iStoreOS
+      links:
+        - title: 插件
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/AUK9527/Are-u-ok/tree/main/apps
+          description: 双平台 
+    - term: 网络测试工具
+      links:
+        - title: 测速面板
+          logo: https://www.google.com/s2/favicons?sz=64&domain=speedtest.net
+          url: http://192.168.1.98
+          description: 内网/外网测速 
+        - title: 测速面板 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=net.netart.cn/
+          url: https://net.netart.cn/
+          description: 在线测速1 
+        - title: Fsat测速
+          url: www.fast.com
+          logo: https://www.google.com/s2/favicons?sz=64&domain=fast.com
+          description: 测速2
+        - title: SPEEDTEST测速
+          url: https://www.speedtest.net/zh-Hans
+          logo: https://www.google.com/s2/favicons?sz=64&domain=speedtest.net
+          description: 测速3 
+        - title: Ip风险信息查询 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ipsuper.com/
+          url: https://ipsuper.com/
+          description: IP风险
+          
+
+- taxonomy: 费用（常规）
+  icon: fa-solid fa-wallet
+  list:
+    - term: 云服务 & 域名账单
+      links:
+        - title: Spaceship域名
+          logo: https://www.google.com/s2/favicons?sz=64&domain=spaceship.com
+          url: https://www.spaceship.com
+          description: 域名续费管理
+        - title: AWS控制台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
+          url: https://aws.amazon.com/cn/
+          description: 云资源账单监控 
+        - title: Aws后台 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=signin.aws.amazon.com/
+          url: https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fap-east-1.console.aws.amazon.com%2Fec2%2Fhome%3Fca-oauth-flow-id%3D46f2%26hashArgs%3D%2523Instances%253A%26isauthcode%3Dtrue%26oauthStart%3D1785768267735%26region%3Dap-east-1%26state%3DhashArgsFromTB_ap-east-1_5a388e8562677208&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&forceMobileApp=0&oauth_region=ap-east-1&code_challenge=LoC8Xvu49TOdwR9-YT6h5_t4uPW2H6QoWRNMztm1K-c&code_challenge_method=SHA-256
+          description: Aws后台登录 
+        - title: Cloudflare后台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com
+          url: https://dash.cloudflare.com
+          description: DNS、CDN、ZeroTrust 
+        - title: 部署机器人 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=platform.agentscope.io/deploy 
+          url: https://platform.agentscope.io/deploy
+          description: 保持活跃的机器人对话 
+    - term: BT磁力搜索
+      links:
+        - title: BT1207
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bt1207so.cc
+          url: https://bt1207so.cc/?_=972
+          description: 磁力1 
+        - title: 黑马磁力 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=heimamo.top
+          url: https://heimamo.top/
+          description: 磁力链接2 
+        - title: AI磁力资源站 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=web-note.cn/
+          url: https://web-note.cn/article/cilisousuo.html
+          description: 多合一磁力导航站
+    - term: OECT
+      links:
+        - title: 固件包
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/ophub/fnnas/releases/tag/fnnas_rockchip_1253
+          description: 刷机 
+        - title: 固件包（OEC下载）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://sourceforge.net/projects/istoreos/files/iStoreOS/r3s/
+          description: 
+    - term: 科技lion 
+      links:
+        - title: 博客
+          logo: https://www.google.com/s2/favicons?sz=64&domain=blog.kejilion.pro 
+          url: https://blog.kejilion.pro/komari/
+          description: 探针面板（类似哪吒）监控面板 
+        - title: 科技lion工具箱 
+          logo: www.kejilion.sh 
+          url: www.kejilion.sh 
+          description: 科技lion工具箱
+    - term: 抖音工具箱
+      links:
+        - title: 下载器
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scpfoundation.svg
+          url: https://github.com/anYuJia/better-douyin
+          description: d因下载 
+        - title: D因下载器 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/Noah0509/DouyinVideoDownload
+          description: 
+    - term: 13个接码站 
+      links:
+        - title: 接码
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.cnblogs.com/
+          url: https://www.cnblogs.com/Zeph/p/19821835
+          description: 13合一
+    - term: 接口
+      links:
+        - title: 影视接口
+          logo: https://www.google.com/s2/favicons?sz=64&domain=xn--v4q818bf34b.cc
+          url: https://xn--v4q818bf34b.cc/
+          description: 禁止传播
+    - term: OuonnkiTV成人接口
+      links:
+        - title: 中心
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/Yesbaiwan/OuonnkiTV-Source?tab=readme-ov-file
+          description: 成人影视中心 
+        - title: ontv影视资源
+          logo: https://www.google.com/s2/favicons?sz=64&domain=OuonnkiTV
+          url: https://ghfast.top/https://raw.githubusercontent.com/Yesbaiwan/OuonnkiTV-Source/main/tv_source/OuonnkiTV/full.json
+          description: ziyuan
+    - term: 内网穿透
+      links:
+        - title: 皎月连
+          logo: https://www.google.com/s2/favicons?sz=64&domain=natpierce.cn
+          url: https://www.natpierce.cn/
+          description: 内网穿透服务
+    - term: 绿联云（Nas）
+      links:
+        - title: 绿联nas下载中心
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ugnas.com
+          url: https://www.ugnas.com/support/download-list/id-28
+          description: 官方
+- taxonomy: 网盘搜索
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: 网盘资源搜索
+      logo: https://www.google.com/s2/favicons?sz=64&domain=160.202.47.249:15151
+      url: http://160.202.47.249:15151//
+      description: 各类资源搜索   
+    - title: 夸克资源搜索
+      logo: https://www.google.com/s2/favicons?sz=64&domain=zhongchuangwl.com
+      url: https://www.zhongchuangwl.com/
+      description: 夸克盘搜
+    - title: 网盘资源分享
+      logo: https://www.google.com/s2/favicons?sz=64&domain=pan.cgnb.site
+      url: https://pan.cgnb.site/
+      description: 网盘资源分享
+    - title: 光鸭资源分享
+      logo: https://www.google.com/s2/favicons?sz=64&domain=yszyssr.com
+      url: https://yszyssr.com/
+      description: 影视片资源
+    - title: 磁力熊
+      logo: https://www.google.com/s2/favicons?sz=64&domain=j-so.com
+      url: https://www.cilixiong.org/
+      description: 资源磁力搜索 
+    - title: 珈珈搜索
+      logo: https://www.google.com/s2/favicons?sz=64&domain=j-so.com
+      url: https://j-so.com/?utm_source=web-note.cn
+      description: 
+    - title: 盘了个盘 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.panlegepan.com/
+      url: https://www.panlegepan.com/
+      description: 网页搜索 
+
+- taxonomy: Nas专区
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: 飞牛官网
+      logo: https://www.google.com/s2/favicons?sz=64&domain=fnnas.com/
+      url: https://fnnas.com/
+      description: nas 
+    - title: 飞牛影视strm指南
+      logo: https://www.google.com/s2/favicons?sz=64&domain=wifilu.com
+      url: https://www.wifilu.com/4683.html
+      description: strm部署方式
+    - title: 飞牛刷armbian
+      logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+      url: https://github.com/ophub/amlogic-s9xxx-armbian/releases
+      description: armbian系统
+    - title: 飞牛做旁路由
+      logo: https://www.google.com/s2/favicons?sz=64&domain=clud.fnnas.com
+      url: https://club.fnnas.com/forum.php?mod=viewthread&tid=59122
+      description: 可外墙
+    - title: 飞牛第三方商店
+      logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+      url: https://github.com/conversun/fnos-apps
+      description: 商店app
+    - title: 飞牛第三方商店（一键）
+      logo: https://www.google.com/s2/favicons?sz=64&domain=weixin.qq.com
+      url: https://mp.weixin.qq.com/s?__biz=MzI3MTYyMzMzMw==&mid=2247484063&idx=1&sn=5e41825d15f7310117945dc43d10797b&chksm=ea2493776cf700ac0d5519995378ce31a8b8a76b09b6f13a8f93e4d561dd583d836882b358d4&mpshare=1&scene=24&srcid=0118roFgQPoHW4olq2JPWWat&sharer_shareinfo=22400578864c189519a352349a29a644&sharer_shareinfo_first=22400578864c189519a352349a29a644&ascene=14&devicetype=android-36&version=28004553&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=JP&exportkey=n_ChQIAhIQILp%2BulhA5qSRVIFev%2BMIQxL2AQIE97dBBAEAAAAAAEe4EOL0B1cAAAAOpnltbLcz9gKNyK89dVj09%2FBMraxaQEEfhYmz0jVsumsQwuYNLwDz8RscDRYUt%2BoFV70KxhAF0KzHHVqHWXVzKBGYGS9EdHmwTIdzrX%2Bq1DSMqt%2FI%2BJN%2Bi8DEhxyxVKhjMWPsHRAuRjAJ4VC3zdY1STNmzyLDAvOMUs1P2B1erz%2FpsVY6WtKcfoakRbDoJoD7z8vanI2zM9gTC2nIYthVejn5l7l%2BJsbC0a5VDkaoU2oDVIVqECHeD3UhpcpEBLCPb58%2FsTgGUF6GI%2BqEVc29LELPnXiQ4yXanHnLqzelyQ%3D%3D&pass_ticket=MvyXUA0vTSlQgd7rehZyNVAgTFRzygr7xgWN2HLMgDbMgzjcGLS37rdIqxHQCiAo&wx_header=3
+      description: 一键部署安装
+    - title: 小飞机（第三方后台）
+      logo: https://www.google.com/s2/favicons?sz=64&domain=share.feijipan.com
+      url: https://share.feijipan.com/s/OSYzYtVf
+      description: 第三方的后台相关设置
+    - title: 代理软件下载中心
+      logo: https://www.google.com/s2/favicons?sz=64&domain=chonglangbiji.com
+      url: https://www.chonglangbiji.com/downloads/
+      description: 飞机下载
+    - title: 爱运营
+      logo: images/logos/iyunying.png
+      url: http://www.iyunying.org/
+      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
+    - title: 鸟哥笔记
+      logo: images/logos/niaogebiji.png
+      url: http://www.niaogebiji.com/
+      description: 移动互联网第一干货平台
+    - title: 飞牛笔记本24小时在线
+      logo: https://www.google.com/s2/favicons?sz=64&domain=zhuanlan.zhihu.com
+      url: https://zhuanlan.zhihu.com/p/1926745250128429307
+      description: 关闭屏幕（合盖）
+    - title: 终极导航
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.zjnav.com
+      url: https://www.zjnav.com/#term-182
+      description: 优质资源导航站 
+    - title: 符号大全
+      logo: https://www.google.com/s2/favicons?sz=64&domain=xn--rprt52g.com
+      url: https://xn--rprt52g.com/
+      description: 各类符号大全 
+    - title: 百度动态图片
+      logo: https://www.google.com/s2/favicons?sz=64&domain=image.baidu.com
+      url: https://image.baidu.com/search/detail?adpicid=0&b_applid=8166226113380980754&bdtype=0&commodity=&copyright=&cs=2330394908%2C28444905&di=7583744013631488001&fr=click-pic&fromurl=http%253A%252F%252Fweibo.com%252Fp%252F1006063862482900%252Fhome&gsm=30c&hd=&height=0&hot=&ic=&ie=utf-8&imgformat=&imgratio=&imgspn=0&is=0%2C0&isImgSet=&latest=&lid=&lm=&objurl=https%253A%252F%252Fs11.sinaimg.cn%252Fmw690%252F004doAfigy6MYYdx6e6ca&os=1469584489%2C3503422025&pd=image_content&pi=0&pn=777&rn=1&simid=4104116510%2C520405479&tn=baiduimagedetail&width=0&word=%E5%8A%A8%E6%80%81&z=
+      description: baidu图片
+    
 - taxonomy: 油猴脚本库
   icon: fa-regular fa-newspaper
   links:
@@ -8,6 +414,7 @@
     - title: 油猴脚本官网 
       logo: https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
       url: https://greasyfork.org/zh-CN 
+      description: 油猴官网源地址 
     - title: 油猴多脚本下载器 
       logo: https://www.google.com/s2/favicons?sz=64&domain=youxiaohou.com
       url: https://www.youxiaohou.com/zh-cn/bitcomet.html
@@ -24,3 +431,1019 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
       url: https://github.com/Chunyu33/light-c
       description: C盘清理 
+- taxonomy: 电脑工具箱
+  icon: fa-regular fa-lightbulb
+  list: 
+    - term: 软件
+      links:
+        - title: 刺客边风
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ckbf88.com
+          url: https://www.ckbf88.com/
+          description: 精品app应用推荐 
+        - title: JJ推
+          logo: https://www.google.com/s2/favicons?sz=64&domain=jjtui.com
+          url: https://www.jjtui.com/
+          description: 电脑app应用 
+        - title: 优资源站 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.you82.com/
+          url: https://www.you82.com/
+          description: 资源站 
+        - title: 独特吧
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dute8.cn
+          url: https://www.dute8.cn/?sort=1
+          description: 免费绿色软件 
+        - title: 代码编辑运行器 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=code.visualstudio.com/
+          url: https://code.visualstudio.com/
+          description: 代码运行与编辑 
+    - term: 驱动 
+      links: 
+        - title: 驱动总裁
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bbs.wuyou.net
+          url: https://bbs.wuyou.net/forum.php?mod=viewthread&tid=441373
+          description: 
+    - term: PE
+      links: 
+        - title: PE
+          logo: https://www.google.com/s2/favicons?sz=64&domain=silver.yukaidi.com/
+          url: https://silver.yukaidi.com/home?path=cloudreve%3A%2F%2FZmh9%40share
+          description: firPE
+    - term: 操作系统
+      links:
+        - title: Windows10
+          logo: https://www.google.com/s2/favicons?sz=64&domain=microsoft.com
+          url: https://www.microsoft.com/zh-cn/software-download/windows10
+          description: win10镜像1（官网）
+        - title: win10-2
+          logo: https://www.google.com/s2/favicons?sz=64&domain=imsdn.cn
+          url: https://www.imsdn.cn/windows-10/win10-1709/
+          description: win0镜像2 
+    - term: Linux
+      links: 
+        - title: 镜像包1
+          logo: https://www.google.com/s2/favicons?sz=64&domain=m.uc23.net
+          url: https://m.uc23.net/xitong/tinycorelinux/
+          description: 1号
+        - title: 镜像包2 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dev.jiniq.com
+          url: https://dev.jiniq.com/usrfile/share/route?find=DE9B8LaI93QOJWkfW%2Fz7AyusMGTHuS%2BaJ7Es%2FLAlT%2B4%3D
+          description: 2号 
+        - title: linux下屏幕亮度调节
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zhuanlan.zhihu.com
+          url: https://zhuanlan.zhihu.com/p/269714827
+          description: liunx的亮度调节
+    - term: 安卓
+      links:
+        - title: 应用下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
+          url: https://link3.cc/huan666
+          description: app幻 
+        - title: app幻在线安装 
+          url: http://apphuan.top/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=apphuan.top/
+          description: app幻应用下载中心
+        - title: 口袋猩球 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc/koudaixq
+          url: https://link3.cc/koudaixq
+          description: 
+        - title: 小米刷机包
+          logo: https://www.google.com/s2/favicons?sz=64&domain=miuiver.com
+          url: https://miuiver.com/tag/dali-stable-rom/
+          description: 线刷卡刷包 
+        - title: 小米K80刷机包 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=roms.lian86.top
+          url: https://roms.lian86.top/brand/redmi/model/dali 
+          description: 第三方刷机包（至尊）
+        - title: 移动式应用便携
+          logo: https://www.google.com/s2/favicons?sz=64&domain=portableapps.com
+          url: https://portableapps.com/
+          description: 移动式U盘app应用 
+        - title: 第三方应用商店 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=cn.aptoide.com/
+          url: https://cn.aptoide.com/
+          descripption: Aptoide应用商店 
+    - term: 系统激活
+      links:
+        - title: 激活器
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ventoy.com
+          url: https://github.com/massgravel/Microsoft-Activation-Scripts
+          description: KMS激活器1 
+    - term: 壁纸
+      links: 
+        - title: 电脑
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bizhihui.com
+          url: https://www.bizhihui.com/tags/4Kbizhi/
+          description: 超高清壁纸 
+        - title: 跑车壁纸
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zhuutix.com
+          url: https://zhutix.com/animated/race-car-corrode/
+          description: 跑车壁纸 
+        - title: 第三方壁纸
+          logo: https://www.google.com/s2/favicons?sz=64&domain=wallpaperset.com
+          url: https://wallpaperset.com/
+          description: 第三方壁纸
+    - term: 网盘&下载&工具
+      links:
+        - title: fluxdown下载器
+          logo: https://www.google.com/s2/favicons?sz=64&domain=fluxdown.zerx.dev
+          url: https://fluxdown.zerx.dev/
+          description: 突破防御100M/s
+        - title: 下蛋 / XiaDown
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/threema.svg
+          url: https://github.com/arnoldhao/xiadown
+          description: yt-dlp方式下载
+        - title: imfile全能下载工具
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/imfile-io/imfile-desktop/blob/master/README-CN.md
+          description: 全能下载器
+        - title: Ecommercefolio
+          logo: images/logos/Ecommercefolio.png
+          url: http://www.ecommercefolio.com/
+          description: Only the Best Ecommerce Design Inspiration
+        - title: 萌娘助手
+          logo: https://www.google.com/s2/favicons?sz=64&domain=mn.mdown.asia
+          url: https://mn.mdown.asia/moepal/
+          description: 付费软件
+        - title: 百度解析
+          logo: https://www.google.com/s2/favicons?sz=64&domain=pdpb.cn
+          url: https://pdpb.cn/
+          description: 各网盘解析
+        - title: 视频下载（油管）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=yt5s.biz
+          url: https://yt5s.biz/zh-cnwr200/
+          description: 在线解析后下载
+        - title: 花生下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=peanutdl.com
+          url: https://peanutdl.com/zh
+          description: 花生下载
+        - title: 在线油管解析
+          logo: https://www.google.com/s2/favicons?sz=64&domain=greenvideo.cc
+          url: https://greenvideo.cc/
+          description: 油管下
+        - title: yt-dlp下载（油管）
+          logo: https://www.google.com/s2/favicons?sz=64&domain=revanced.to
+          url: https://revanced.to/
+          description: ReVanced 是一个完全开源的项目，允许用户自定义他们的安卓应用
+        - title: snapwc下载器
+          logo: https://www.google.com/s2/favicons?sz=64&domain=snapwc.com
+          url: https://snapwc.com/zh
+          description: 万能在线解析下载(油管)
+        - title: 网页下载油管
+          logo: https://www.google.com/s2/favicons?sz=64&domain=youtube.iiilab.com/
+          url: https://youtube.iiilab.com/
+          description: 油管视频网页下载 
+        - title: 油管Stacher7下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=stacher.io/
+          url: https://stacher.io/
+          description: 大文件下载 
+- taxonomy: 各类部署
+  icon: fa-thumbs-up
+  list: 
+    - term: 影视类
+      links:
+        - title: 壳儿影视
+          logo: https://www.google.com/s2/favicons?sz=64&domain=unilei.github.io
+          url: https://unilei.github.io/kerkerker-config-manager/data/config.enc.json
+          description: 视频源地址
+        - title: 飞鲸影视
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/FNOSP/FlyNarwhal/releases
+          description: 飞牛的飞鲸
+        - title: 非常
+          logo: images/logos/iconmonstr.png
+          url: https://iconmonstr.com/
+          description: Free simple icons for your next project
+        - title: Icon Archive
+          logo: images/logos/iconarchive.png
+          url: http://www.iconarchive.com/
+          description: Search 590,912 free icons 
+    - term: 应用商店 
+      links: 
+        - title: liunx如意玲珑商店
+          logo: https://www.google.com/s2/favicons?sz=64&domain=store.linyaps.org.cn/
+          url: https://store.linyaps.org.cn/
+          description: 第三方玲珑商店下载中心
+    - term: 镜像仓库
+      links:
+        - title: 图吧工具箱
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kingstontechnology.svg
+          url: https://github.com/luolangaga/tubatools
+          description: 修改版
+        - title: 优化工具
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/testrail.svg
+          url: https://github.com/itsfatduck/optimizerDuck/releases/tag/v2.24.2
+          description: 
+        - title: 小红书导出
+          logo: https://www.google.com/s2/favicons?sz=64&domain=xhs.mundane.ink/
+          url: https://xhs.mundane.ink/
+          description: 小红书收藏快速导出
+        - title: Instant Logo Search
+          logo: images/logos/InstantLogoSearch.png
+          url: http://instantlogosearch.com/
+          description: Search & download thousands of logos instantly
+          
+        - title: wallhalla
+          logo: images/logos/wallhalla.png
+          url: https://wallhalla.com/
+          description: Find awesome high quality wallpapers for desktop and mobile in one place.
+        - title: 365PSD
+          logo: images/logos/365PSD.png
+          url: https://365psd.com/
+          description: Free PSD &amp; Graphics, Illustrations
+        - title: Medialoot
+          logo: images/logos/Medialoot.png
+          url: https://medialoot.com/
+          description: Free &amp; Premium Design Resources &mdash; Medialoot
+        - title: 千图网
+          logo: images/logos/qiantu.png
+          url: http://www.58pic.com/
+          description: 专注免费设计素材下载的网站
+        - title: 千库网
+          logo: images/logos/qianku.png
+          url: http://588ku.com/
+          description: 免费png图片背景素材下载
+        - title: 我图网
+          logo: images/logos/wotu.png
+          url: http://www.ooopic.com/
+          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
+        - title: 90设计
+          logo: images/logos/90sheji.png
+          url: http://90sheji.com/
+          description: 电商设计（淘宝美工）千图免费淘宝素材库
+        - title: 昵图网
+          logo: images/logos/nipic.png
+          url: http://www.nipic.com/
+          description: 原创素材共享平台
+        - title: 懒人图库
+          logo: images/logos/lanrentuku.png
+          url: http://www.lanrentuku.com/
+          description: 懒人图库专注于提供网页素材下载
+        - title: 素材搜索
+          logo: images/logos/sousucai.png
+          url: http://so.ui001.com/
+          description: 设计素材搜索聚合
+        - title: PS饭团网
+          logo: images/logos/psefan.png
+          url: http://psefan.com/
+          description: 不一样的设计素材库！让自己的设计与众不同！
+        - title: 素材中国
+          logo: images/logos/sccnn.png
+          url: http://www.sccnn.com/
+          description: 免费素材共享平台
+      
+    - term: docker分类
+      links:
+        - title: 爱盼搜索
+          logo: https://www.google.com/s2/favicons?sz=64&domain=hub.docker.com
+          url: https://hub.docker.com/r/fooololo/aipan-netdisk-search/tags
+          description: 爱盼
+        - title: Freebie Supply
+          logo: images/logos/freebiesupply.png
+          url: https://freebiesupply.com/
+          description: Free Resources For Designers
+        - title: 云瑞
+          logo: images/logos/yrucd.png
+          url: https://www.yrucd.com/
+          description: 优秀设计资源的分享网站
+        - title: Designmodo
+          logo: images/logos/Designmodo.png
+          url: https://designmodo.com/
+          description: Web Design Blog and Shop
+        - title: 稀土区
+          logo: images/logos/xituqu.png
+          url: https://xituqu.com/
+          description: 优质设计开发资源分享
+        - title: ui8
+          logo: images/logos/ui8.png
+          url: https://ui8.net/
+          description: UI Kits, Wireframe Kits, Templates, Icons and More
+        - title: uplabs
+          logo: images/logos/uplabs.png
+          url: https://www.uplabs.com/
+          description: Daily resources for product designers & developers
+        - title: UIkit.me
+          logo: images/logos/uikitme.png
+          url: http://www.uikit.me/
+          description: 最便捷新鲜的uikit资源下载网站
+        - title: Fribbble
+          logo: images/logos/Fribbble.png
+          url: http://www.fribbble.com/
+          description: Free PSD files and other free design resources by Dribbblers.
+        - title: PrincipleRepo
+          logo: images/logos/PrincipleRepo.png
+          url: http://principlerepo.com/
+          description: Free, High Quality Principle Resources
+      
+    - term: 使肌肤
+      links:
+        - title: Sketch App Sources
+          url: https://www.sketchappsources.com/
+          logo: images/logos/sketchappsources.png
+          description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
+        - title: Sketch.im
+          url: http://www.sketch.im/
+          logo: images/logos/sketchIm.png
+          description: Sketch 相关资源汇聚
+        - title: Sketch Hunt
+          url: http://sketchhunt.com/
+          logo: images/logos/sketchhunt.png
+          description: Sketch Hunt is an independent blog sharing gems in learning, plugins &amp; design tools for fans of Sketch app.
+        - title: Sketch中文网
+          url: http://www.sketchcn.com/
+          logo: images/logos/sketchcn.png
+          description: 分享最新的Sketch中文手册
+        - title: Awesome Sketch Plugins
+          url: https://awesome-sket.ch/
+          logo: images/logos/AwesomeSketchPlugins.png
+          description: A collection of really useful Sketch plugins.
+        - title: Sketchcasts
+          url: https://www.sketchcasts.net/
+          logo: images/logos/sketchcasts.png
+          description: Learn Sketch Train your design skills with a weekly video tutorial
+      
+    - term: Ai资源&工具
+      links:
+        - title: agentscope机器人，带节点
+          url: https://platform.agentscope.io/deploy
+          logo: https://www.google.com/s2/favicons?sz=64&domain=platform.agentscope.io
+          description: 机器人1号（telegram）
+        - title: 日日新（token）
+          url: https://platform.sensenova.cn/console/keys
+          logo: https://www.google.com/s2/favicons?sz=64&domain=platform.sensenova.cn
+          description: 部署机器人token
+        - title: agnes（token）
+          url: https://platform.agnes-ai.com/settings/apiKeys
+          logo: https://www.google.com/s2/favicons?sz=64&domain=platform.agnes-ai.com
+          description: 机器人部署token2
+        - title: 右键管理器
+          url: https://bluepointlilac.github.io/ContextMenuManager/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bluepointlilac.github.io
+          description: 右键管理器
+        - title: 私藏字体
+          url: http://sicangziti.com/
+          logo: images/logos/sicangziti.png
+          description: 优质字体免费下载站
+        - title: Fontsquirrel
+          url: https://www.fontsquirrel.com/
+          logo: images/logos/fontsquirrel.png
+          description: FREE fonts for graphic designers
+        - title: Urban Fonts
+          url: https://www.urbanfonts.com/
+          logo: images/logos/UrbanFonts.png
+          description: Download Free Fonts and Free Dingbats.
+        - title: Lost Type
+          url: http://www.losttype.com/
+          logo: images/logos/losttype.png
+          description: Lost Type is a Collaborative Digital Type Foundry
+        - title: FONTS2U
+          url: https://fonts2u.com/
+          logo: images/logos/fonts2u.png
+          description: Download free fonts for Windows and Macintosh.
+        - title: Fontex
+          url: http://www.fontex.org/
+          logo: images/logos/fontex.png
+          description: Free Fonts to Download + Premium Typefaces
+        - title: FontM
+          url: http://fontm.com/
+          logo: images/logos/FontM.png
+          description: Free Fonts
+        - title: My Fonts
+          url: http://www.myfonts.com/
+          logo: images/logos/MyFonts.png
+          description: Fonts for Print, Products & Screens
+        - title: Da Font
+          url: https://www.dafont.com/
+          logo: images/logos/dafont.png
+          description: Archive of freely downloadable fonts.
+        - title: OnlineWebFonts
+          url: https://www.onlinewebfonts.com/
+          logo: images/logos/OnlineWebFonts.png
+          description: WEB Free Fonts for Windows and Mac / Font free Download
+        - title: Abstract Fonts
+          url: http://www.abstractfonts.com/
+          logo: images/logos/abstractfonts.png
+          description: Abstract Fonts (13,866 free fonts)
+    - term: 外国在线
+      links:
+        - title: 在线TV（国外）
+          url: https://m.234iptv.com/?tid=gt
+          logo: https://www.google.com/s2/favicons?sz=64&domain=m.234iptv.com
+          description: 测试（注意立场）
+      
+    - term: 节点
+      links:
+        - title: 后台转换地址
+          url: https://github.com/cmliu
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 第三方后台转换部署(注意节点暴露)
+          
+        - title: 二级域名kdns
+          url: https://dashboard.katabump.com/servers/edit?id=334542
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dashboard.katabump.com
+          description:  后台登录
+        - title: clash客户端下载
+          url: https://github.com/mihomo-party-org/clash-party/releases/tag/v2.0.0
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+        - title: 节点抓取（暂时停更）
+          url: https://github.com/shuaidaoya/FreeNodes?tab=readme-ov-file
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 非紧急可使用？
+        - title: v2ray-node抓取
+          url: https://www.v2nodes.com/country/sg/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=v2nodes.com
+          description: 节点获取2 
+        - title: 在线抓取节点 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=asfn.awafuns.cn/
+          url: https://asfn.awafuns.cn/
+          description: 从此世界如此简单 
+        - title: 昌南魔法学院
+          url: https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html
+          logo: https://www.google.com/s2/favicons?sz=64&domain=v2raya.net
+          description: 魔法抓取与分享 
+        - title: 客户端与分享
+          url: https://www.kejitt.top/jd/jiediana.html
+          logo: https://www.google.com/s2/favicons?sz=64&domain=kejitt.top
+          description: 飞机客户端和分享
+        - title: 新鲜代理列表
+          url: http://free-proxy.cz/zh/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=free-proxy.cz
+          description: 免费分享 
+        - title: V2ray开放列表抓取 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=openproxylist.com 
+          url: https://openproxylist.com/v2ray/
+          description: v2ray多节点获取 
+        - title: 在线获取 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=outlinekeys.com/
+          url: https://outlinekeys.com/
+          description: 节点获取3 
+        - title: berryhub28小时获取公益节点 
+          logo: https://berryhub.org/#link-id
+          url: https://berryhub.org/#link-id
+          description: 大流量畅享网络自由，世界触手可及
+      
+    - term: 客户端
+      links:
+        - title: 全平台通用客户端（免费）
+          url: https://nexttun.net/#download
+          logo: https://www.google.com/s2/favicons?sz=64&domain=nexttun.net
+          description: 纸飞机1
+    - term: 节点订阅
+      links: 
+        - title: 地址1️⃣
+          url: https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/clash.meta2/1/config.yaml
+          logo: https://www.google.com/s2/favicons?sz=64&domain=gitlab.com
+          description: 飞起来1 
+        - title: 垃圾VPN 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=itmanager.top
+          url: https://itmanager.top/download.html 
+          description: 垃圾VPN专线 
+        - title: 规则伪造地址（伪装）
+          url: https://github.com/SpaceTimee/Cealing-Host
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 想飞吗？
+        - title: 马斯克抓取grok 
+          url: https://github.com/MeeGooBoo/2025/blob/main/8/20/2025-8-20.md
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 链接每一天
+        - title: 谷歌浏览器飞机
+          url: https://github.com/Alvin9999-newpac/fanqiang/wiki
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          description: 精彩世界
+        - title: 飞牛v2rayA飞机
+          url: https://v2raya.org/docs/prologue/installation/docker/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=v2raya.org/
+          description: 纸飞机456
+        - title: 节点各类客户端
+          url: https://telegra.ph/%E5%AE%98%E6%96%B9%E5%8E%9F%E7%89%88%E5%AE%A2%E6%88%B7%E7%AB%AF-10-31
+          logo: https://www.google.com/s2/favicons?sz=64&domain=telegra.ph
+          description: 客户端
+        - title: albumarium
+          url: http://albumarium.com/
+          logo: images/logos/albumarium.png
+          description: The best place to find & share beautiful images
+        - title: myphotopack
+          url: https://myphotopack.com/
+          logo: images/logos/myphotopack.png
+          description: A free photo pack just for you. Every month.
+        - title: Notaselfie
+          url: http://notaselfie.com/
+          logo: images/logos/notaselfie.png
+          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
+        - title: papers
+          url: http://papers.co/
+          logo: images/logos/papers.png
+          description: Wallpapers Every Hour!Hand collected :)
+        - title: stokpic
+          url: http://stokpic.com/
+          logo: images/logos/stokpic.png
+          description: Free Stock Photos For Commercial Use
+        - title: 55mm
+          url: https://55mm.co/visuals
+          logo: images/logos/55mm.png
+          description: Use our FREE photos to tell your story! 
+        - title: thestocks
+          url: http://thestocks.im/
+          logo: images/logos/thestocks.png
+          description: Use our FREE photos to tell your story! 
+        - title: freenaturestock
+          url: http://freenaturestock.com/
+          logo: images/logos/freenaturestock.png
+          description: Exclusive mindblowing freebies for designers and developers
+        - title: negativespace
+          url: https://negativespace.co/
+          logo: images/logos/negativespace.png
+          description: Beautiful, High-Resolution Free Stock Photos
+        - title: gratisography
+          url: https://gratisography.com/
+          logo: images/logos/gratisography.png
+          description: Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions. 
+        - title: imcreator
+          url: http://imcreator.com/free
+          logo: images/logos/imcreator.png
+          description: A curated collection of free web design resources, all for commercial use.
+        - title: lifeofpix
+          url: http://www.lifeofpix.com/
+          logo: images/logos/lifeofpix.png
+          description: Free high resolution photography
+        - title: skitterphoto
+          url: https://skitterphoto.com/
+          logo: images/logos/skitterphoto.png
+          description: Free Stock Photos for Creative Professionals
+        - title: mmtstock
+          url: https://mmtstock.com/
+          logo: images/logos/mmtstock.png
+          description: Free photos for commercial use
+        - title: skitterphoto
+          url: https://skitterphoto.com/
+          logo: images/logos/skitterphoto.png
+          description: a place to find, show and share public domain photos
+        - title: magdeleine
+          url: https://magdeleine.co/browse/
+          logo: images/logos/magdeleine.png
+          description: HAND-PICKED FREE PHOTOS FOR YOUR INSPIRATION
+        - title: jeshoots
+          url: http://jeshoots.com/
+          logo: images/logos/jeshoots.png
+          description: New Free Photos & Mockups in to your Inbox!
+        - title: hdwallpapers
+          url: https://www.hdwallpapers.net
+          logo: images/logos/hdwallpapers.png
+          description: High Definition Wallpapers & Desktop Backgrounds
+        - title: publicdomainarchive
+          url: http://publicdomainarchive.com/
+          logo: images/logos/publicdomainarchive.png
+          description: New 100% Free Stock Photos. Every. Single. Week.
+      
+    - term: 教程
+      links:
+        - title: mack-a八合一脚本
+          url: https://www.v2ray-agent.com/archives/1710141233
+          logo: https://www.google.com/s2/favicons?sz=64&domain=v2ray-agent.com
+          description: 搭建
+        - title: iflow部署
+          url: https://suyihang15.github.io/2026/03/22/2026/03/2026-03-22-iflow%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/index/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=suyihang15.github.io
+          description: 终端AI指令
+        - title: ventoy主题美化+拓展
+          url: https://we.qoa.cc/161.html
+          logo: https://www.google.com/s2/favicons?sz=64&domain=we.qoa.cc
+          description: ventoy部署
+        - title: PPTMind
+          url: http://www.pptmind.com/
+          logo: images/logos/pptmind.png
+          description: 分享高端ppt模板与keynote模板的数字作品交易平台
+        - title: tretars
+          url: http://www.tretars.com/ppt-templates
+          logo: images/logos/tretars.png
+          description: The best free Mockups from the Web
+        - title: PY打包
+          url: https://blog.51cto.com/save/8934993?
+          logo: https://www.google.com/s2/favicons?sz=64&domain=blog.51cto.com
+          description: py打包安装（弹网页）
+        - title: 音乐在线部署 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/guohuiyuan/go-music-dl#docker-%E9%83%A8%E7%BD%B2
+          description: 音乐在线部署中
+      
+
+- taxonomy: 真4K专区
+  icon: fa-palette
+  list: 
+    - term: 在线影视
+      links:
+        - title: 搜影资源影视导航
+          url: https://www.souyinghu.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=souyinghu.com/
+          description: 多合一影视导航
+        - title: 可观看奈飞
+          url: https://www.luketv.tv/zh/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=luketv.tv
+          description: 国内可观看
+        - title: 66影视
+          url: https://www.66dy2.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=66dy2.com/
+          description: 在线影视66
+        - title: 布布影视发布页
+          url: https://bubuzhuiju.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bubuzhuiju.com/
+          description: 布布影视
+        - title: 电影港
+          url: https://www.dygangs.me/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dygangs.me/
+          description: 影视下载
+        - title: 七味影视发布页
+          url: https://www.qn63.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=qn63.com/
+          description: 七味影视（类似教父影视）
+        - title: 4K原盘
+          url: https://djyqk.top/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=djyqk.top/
+          description: 
+        - title: 好好看在线 
+          url: https://www.hhkan0.com/ 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=hhkan0.com/
+          description: 在线影视 
+        - title: 无极影视 
+          url: https://www.wujiapp.cc/ 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=wujiapp.cc/ 
+          description: 无极影视下载
+      
+    - term: 六大官网影视区
+      links:
+        - title: 爱奇艺
+          url: https://iqiyi.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=iqiyi.com
+          description: 
+        - title: 优酷
+          url: http://www.youku.com
+          logo: https://www.google.com/s2/favicons?sz=64&domain=youku.com
+          description: 
+        - title: 腾讯
+          url: https://www.v.qq.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=v.qq.com
+          description: 
+        - title: 芒果TV
+          url: https://www.mgtv.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=mgtv.com
+          description: 
+        - title: pptv
+          url: https://www.pptv.com
+          logo: https://www.google.com/s2/favicons?sz=64&domain=pptv.com
+          description: 
+        - title: 搜狐视频
+          url: https://tv.sohu.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=tv.sohu.com
+          description: 
+    - term: 4K专区影视
+      links:
+        - title: 挂了
+          url: https://www.xn--ykq321c.com/?count=1
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.xn--ykq321c.com
+          description: 及时更新
+        - title: 4Ktv影视
+          url: https://link3.cc/4ktv
+          logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
+          description: 真4K
+        - title: 瓜子影视
+          url: https://gz360.tv/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=gz360.tv
+          description: 官网
+        - title: 海绵小站
+          url: https://www.hmxz.org/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=hmxz.org/
+          description: 更新快-4K
+        - title: BT影视
+          url: https://www.btbtla.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=btbtla.com/
+          description: BT影视 
+        - title: 超高清影视
+          logo: https://www.google.com/s2/favicons?sz=64&domain=seedhub.cc/
+          url: https://hubdog.cc/
+          description: 高清影视下载（磁力）
+        - title: 4K影视资源表 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=kdocs.cn
+          url: https://www.kdocs.cn/l/cgqWkD4v1nHK
+          description: 影视4K资源
+
+    - term: 在线铃音
+      links:
+        - title: 铃声
+          url: https://sounddino.com/zh/effects/completed-action/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=sounddino.com
+          description: 在线铃声
+        - title: uigradients
+          url: https://uigradients.com
+          logo: images/logos/uigradients.png
+          description: Beautiful colored gradients
+        - title: gradients
+          url: http://gradients.io/
+          logo: images/logos/gradients.png
+          description: Curated gradients for designers and developers
+        - title: Coolest
+          url: https://webkul.github.io/coolhue/
+          logo: images/logos/Coolest.png
+          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff
+        - title: webgradients
+          url: https://webgradients.com/
+          logo: images/logos/webgradients.png
+          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
+        - title: grabient
+          url: https://www.grabient.com/
+          logo: images/logos/grabient.png
+          description: 2017 Grabient by unfold
+        - title: thedayscolor
+          url: http://www.thedayscolor.com/
+          logo: images/logos/thedayscolor.png
+          description: The daily color digest
+        - title: flatuicolors
+          url: http://flatuicolors.com/
+          logo: images/logos/flatuicolors.png
+          description: Copy Paste Color Pallette from Flat UI Theme
+        - title: coolors
+          url: https://coolors.co/
+          logo: images/logos/coolors.png
+          description: The super fast color schemes generator!
+        - title: colorhunt
+          url: http://www.colorhunt.co/
+          logo: images/logos/colorhunt.png
+          description: Beautiful Color Palettes
+        - title: Adobe Color CC
+          url: https://color.adobe.com/zh/create/color-wheel
+          logo: images/logos/AdobeColorCC.png
+          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
+        - title: flatuicolorpicker
+          url: http://www.flatuicolorpicker.com/
+          logo: images/logos/flatuicolorpicker.png
+          description: Best Flat Colors For UI Design
+        - title: trianglify
+          url: http://qrohlf.com/trianglify-generator/
+          logo: images/logos/trianglify.png
+          description: Trianglify Generator
+        - title: klart
+          url: https://klart.co/colors/
+          logo: images/logos/klart.png
+          description: Beautiful colors and designs to your inbox every week
+        - title: vanschneider
+          url: http://www.vanschneider.com/colors
+          logo: images/logos/vanschneider.png
+          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
+
+    - term: 在线工具
+      links:
+        - title: tinypng
+          url: https://tinypng.com/
+          logo: images/logos/tinypng.png
+          description: Optimize your images with a perfect balance in quality and file size.
+        - title: goqr
+          url: http://goqr.me/
+          logo: images/logos/goqr.png
+          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
+        - title: ezgif
+          url: https://ezgif.com
+          logo: images/logos/ezgif.png
+          description: simple online GIF maker and toolset for basic animated GIF editing.
+        - title: Android 9 patch
+          url: http://inloop.github.io/shadow4android/
+          logo: images/logos/Android9patch.png
+          description: Android 9-patch shadow generator fully customizable shadows
+        - title: screen sizes
+          url: http://screensiz.es/
+          logo: images/logos/screensizes.png
+          description: Viewport Sizes and Pixel Densities for Popular Devices
+        - title: svgomg
+          url: https://jakearchibald.github.io/svgomg/
+          logo: images/logos/svgomg.png
+          description: SVG在线压缩平台
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: images/logos/gaoding.png
+          description: 免费在线抠图软件,图片快速换背景-抠白底图
+        
+    - term: Chrome插件
+      links:
+        - title: 全网解析插件
+          url: https://blog.88lin.eu.org/article/46#58686faaa8644858aa8e533bb32b8bec
+          logo: https://www.google.com/s2/favicons?sz=64&domain=blog.88lin.eu.org
+          description: 插件 
+        - title: 影视部署MoviePilot 
+          url: https://wiki.movie-pilot.org/install
+          logo: https://www.google.com/s2/favicons?sz=64&domain=wiki.movie-pilot.org
+          description: MoviePilot Wiki安装指引
+        - title: 插件小屋 
+          url: https://www.crxsoso.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.crxsoso.com/
+          description: 谷歌插件小屋 
+        - title: 123云盘解锁 
+          url: https://gitcode.com/gh_mirrors/12/123pan_unlock/blob/main/123pan_unlock.js
+          logo: https://www.google.com/s2/favicons?sz=64&domain=gitcode.com
+          description: 脚本
+        - title: 115推送脚本
+          url: https://115.ilxdh.com/
+          logo: images/logos/insight.png
+          description: IDE-like code search and navigation, on the cloud
+        - title: mustsee
+          url: http://mustsee.earth/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=115.ilxdh.com/
+          description: 推送115链接 
+
+- taxonomy: 学习教程
+  icon: fa-regular fa-folder-open
+  list: 
+    - term: 设计规范
+      links:
+        - title: Design Guidelines
+          url: http://designguidelines.co/
+          logo: images/logos/designguidelines.png
+          description: Design Guidelines &mdash; The way products are built.
+        - title: Awesome design systems
+          url: https://github.com/alexpate/awesome-design-systems
+          logo: images/logos/awesome_design_systems.png
+          description:  A collection of awesome design systems
+        - title: Material Design
+          url: https://material.io/guidelines/
+          logo: images/logos/Material_Design.png
+          description: Introduction - Material Design
+        - title: Human Interface Guidelines
+          url: https://developer.apple.com/ios/human-interface-guidelines
+          logo: images/logos/human_interface_guidelines.png
+          description: Human Interface Guidelines iOS
+        - title: Photoshop Etiquette
+          url: http://viggoz.com/photoshopetiquette/
+          logo: images/logos/photoshopetiquette.png
+          description: PS礼仪-WEB设计指南
+
+      
+    - term: 视频教程
+      links:
+        - title: Photoshop Lady
+          url: http://www.photoshoplady.com/
+          logo: images/logos/PhotoshopLady.png
+          description: Your Favourite Photoshop Tutorials in One Place
+        - title: doyoudo
+          url: http://doyoudo.com/
+          logo: images/logos/doyoudo.png
+          description: 创意设计软件学习平台
+        - title: 没位道
+          url: http://www.c945.com/web-ui-tutorial/
+          logo: images/logos/web_ui_tutorial.png
+          description: WEB UI免费视频公开课
+        - title: 慕课网
+          url: https://www.imooc.com/
+          logo: images/logos/imooc.png
+          description: 程序员的梦工厂（有UI课程）
+        
+    - term: 设计文章
+      links:
+        - title: 优设网
+          url: http://www.uisdc.com/
+          logo: images/logos/uisdc.png
+          description: 设计师交流学习平台
+        - title: Web Design Ledger
+          url: https://webdesignledger.com
+          logo: images/logos/webdesignledger.png
+          description: Web Design Blog
+        - title: Medium
+          url: https://medium.com/
+          logo: images/logos/medium.png
+          description: Read, write and share stories that matter
+
+    - term: 设计电台
+      links:
+        - title: UX Coffee
+          url: http://uxcoffee.co/
+          logo: images/logos/uxcoffee.png
+          description: 《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。
+        - title: Anyway.FM
+          url: https://anyway.fm/
+          logo: images/logos/anyway.png
+          description: 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客
+        - title: 异能电台
+          url: https://www.yineng.fm
+          logo: images/logos/yineng.png
+          description: 将全宇宙设计师的故事讲给你听。
+
+    - term: 交互设计
+      links:
+        - title: Little Big Details
+          url: http://littlebigdetails.com/
+          logo: images/logos/littlebigdetails.png
+          description: Little Big Details is a curated collection of the finer details of design, updated every day. 
+        - title: Smashing Magazine
+          url: https://www.smashingmagazine.com/category/user-experience
+          logo: images/logos/smashingmagazine.png
+          description: Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level.
+        - title: nngroup
+          url: https://www.nngroup.com/articles/
+          logo: images/logos/nngroup.png
+          description: Evidence-Based User Experience Research, Training, and Consulting
+        - title: Boxes and Arrows
+          url: http://boxesandarrows.com/
+          logo: images/logos/boxesandarrows.png
+          description: Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business. 
+        - title: UX Design Weekly
+          url: http://uxdesignweekly.com/
+          logo: images/logos/uxdesignweekly.png
+          description:  get a hand picked list of the best user experience design links every week. 
+        - title: UX Ren
+          url: http://uxren.cn/
+          logo: images/logos/uxren.png
+          description: 用户体验人的专业社区
+
+
+- taxonomy: 签到
+  icon: fa-user-group
+  links: 
+    - title: 节点领取（每日）
+      url: https://w1.maxo.top/user
+      logo: https://www.google.com/s2/favicons?sz=64&domain=w1.maxo.top
+      description: 高速？（少量可临时使用）
+    - title: Facebook Design
+      url: http://facebook.design/
+      logo: images/logos/FacebookDesign.png
+      description: Facebook Design
+    - title: Google Design
+      url: https://design.google/
+      logo: images/logos/GoogleDesign.png
+      description: Google Design
+    - title: eico design
+      url: http://eicodesign.com/
+      logo: images/logos/eico.png
+      description: 数字化咨询与产品专家
+    - title: nice design
+      url: http://www.niceui.cn/
+      logo: images/logos/niceui.png
+      description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
+    - title: 腾讯CDC
+      url: http://cdc.tencent.com/
+      logo: images/logos/cdc.png
+      description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
+    - title: TGideas
+      url: http://tgideas.qq.com/
+      logo: images/logos/tgideas.png
+      description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
+    - title: ISUX
+      url: https://isux.tencent.com/
+      logo: images/logos/isux.png
+      description: 腾讯社交用户体验设计部
+    - title: MXD
+      url: http://mxd.tencent.com/
+      logo: images/logos/mxd.png
+      description: 腾讯MIG无线互联网事业群设计团队
+    - title: Aliued
+      url: http://www.aliued.com/
+      logo: images/logos/aliued.png
+      description: 阿里巴巴国际UED团队
+    - title: U一点
+      url: http://www.aliued.cn/
+      logo: images/logos/aliuedcn.png
+      description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
+    - title: 网易uedc
+      url: http://uedc.163.com/
+      logo: images/logos/uedc.png
+      description: 网易用户体验设计中心（User Experience Design Center）
+    - title: 百度用户体验中心
+      url: http://ued.baidu.com/
+      logo: images/logos/uedbaidu.png
+      description: 百度用户体验中心
+    - title: 京东设计中心
+      url: http://jdc.jd.com/
+      logo: images/logos/JDC.png
+      description: 京东设计中心
+    - title: 百度企业产品用户体验中心
+      url: http://eux.baidu.com/
+      logo: images/logos/euxbaidu.png
+      description: 百度企业产品用户体验中心
+    - title: 携程设计委员会
+      url: http://ued.ctrip.com/
+      logo: images/logos/ctrip.png
+      description: 携程设计委员会-Ctrip Design Committee
+     
+
+
+
+     
+- taxonomy: 友情链接
+  icon: fa-link
+  friend:
+    - title: 子页面一
+      url: sub1
+      description: 本站子页面1
+    - title: 科技共享
+      url: https://kjgx668.blogspot.com/
+      description: 科技共享
+    - title: webstack.cc
+      url: https://webstack.cc 
+      description: webstack - 设计师网址导航
+    - title: 米贝分享 
+      url: https://www.mibei77.com/
+      description: 分享资源站
+    - title: 404导航
+      url: https://www.404dh.icu/
+      description: 只导航优质资源
+    - title: 飞猪ai导航
+      url: https://feizhuke.com/
+      description: AI工具集箱
+    - title: 所长导航
+      url: https://liutongxu.github.io/
+    
+---
