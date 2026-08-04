@@ -343,7 +343,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.panlegepan.com/
       url: https://www.panlegepan.com/
       description: 网页搜索 
-
+    - title: 搜索123 
+      logo: https://sousuo123.com/
+      url: https://sousuo123.com/
+      description: 多引擎123搜索平台 
 - taxonomy: Nas专区
   icon: fa-regular fa-newspaper
   links: 
@@ -379,10 +382,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=chonglangbiji.com
       url: https://www.chonglangbiji.com/downloads/
       description: 飞机下载
-    - title: 爱运营
-      logo: images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
+    - title: 文件传输 
+      logo: https://landrop.app/
+      url: https://www.google.com/s2/favicons?sz=64&domain=landrop.app/
+      description: 文件传输客户端 
     - title: 鸟哥笔记
       logo: images/logos/niaogebiji.png
       url: http://www.niaogebiji.com/
@@ -547,7 +550,11 @@
         - title: fluxdown下载器
           logo: https://www.google.com/s2/favicons?sz=64&domain=fluxdown.zerx.dev
           url: https://fluxdown.zerx.dev/
-          description: 突破防御100M/s
+          description: 突破防御100M/s 
+        - title: 文件蜈蚣下载器 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=filecxx.com
+          url: https://filecxx.com/zh_CN/download.html
+          description: 文件蜈蚣突破
         - title: 下蛋 / XiaDown
           logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/threema.svg
           url: https://github.com/arnoldhao/xiadown
