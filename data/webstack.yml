@@ -386,10 +386,10 @@
       logo: https://landrop.app/
       url: https://www.google.com/s2/favicons?sz=64&domain=landrop.app/
       description: 文件传输客户端 
-    - title: 鸟哥笔记
-      logo: images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
+    - title: 身份伪装器 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=usaddressgen.com/
+      url: https://usaddressgen.com/
+      description: 美国地址生成器 
     - title: 飞牛笔记本24小时在线
       logo: https://www.google.com/s2/favicons?sz=64&domain=zhuanlan.zhihu.com
       url: https://zhuanlan.zhihu.com/p/1926745250128429307
