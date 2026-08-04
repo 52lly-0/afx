@@ -1,14 +1,47 @@
-    - term: Linux
+- taxonomy: 电脑工具箱
+  icon: fa-regular fa-lightbulb
+  list: 
+    - term: 软件
+      links:
+        - title: 刺客边风
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ckbf88.com
+          url: https://www.ckbf88.com/
+          description: 精品app应用推荐 
+        - title: JJ推
+          logo: https://www.google.com/s2/favicons?sz=64&domain=jjtui.com
+          url: https://www.jjtui.com/
+          description: 电脑app应用 
+        - title: 优资源站 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.you82.com/
+          url: https://www.you82.com/
+          description: 资源站 
+        - title: 独特吧
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dute8.cn
+          url: https://www.dute8.cn/?sort=1
+          description: 免费绿色软件 
+        - title: 代码编辑运行器 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=code.visualstudio.com/
+          url: https://code.visualstudio.com/
+          description: 代码运行与编辑 
+    - term: 驱动 
       links: 
-        - title: 镜像包1
-          logo: https://www.google.com/s2/favicons?sz=64&domain=m.uc23.net
-          url: https://m.uc23.net/xitong/tinycorelinux/
-          description: 1号
-        - title: 镜像包2 
-          logo: https://www.google.com/s2/favicons?sz=64&domain=dev.jiniq.com
-          url: https://dev.jiniq.com/usrfile/share/route?find=DE9B8LaI93QOJWkfW%2Fz7AyusMGTHuS%2BaJ7Es%2FLAlT%2B4%3D
-          description: 2号 
-        - title: linux下屏幕亮度调节
-          logo: https://www.google.com/s2/favicons?sz=64&domain=zhuanlan.zhihu.com
-          url: https://zhuanlan.zhihu.com/p/269714827
-          description: liunx的亮度调节
+        - title: 驱动总裁
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bbs.wuyou.net
+          url: https://bbs.wuyou.net/forum.php?mod=viewthread&tid=441373
+          description: 
+    - term: PE
+      links: 
+        - title: PE
+          logo: https://www.google.com/s2/favicons?sz=64&domain=silver.yukaidi.com/
+          url: https://silver.yukaidi.com/home?path=cloudreve%3A%2F%2FZmh9%40share
+          description: firPE
+    - term: 操作系统
+      links:
+        - title: Windows10
+          logo: https://www.google.com/s2/favicons?sz=64&domain=microsoft.com
+          url: https://www.microsoft.com/zh-cn/software-download/windows10
+          description: win10镜像1（官网）
+        - title: win10-2
+          logo: https://www.google.com/s2/favicons?sz=64&domain=imsdn.cn
+          url: https://www.imsdn.cn/windows-10/win10-1709/
+          description: win0镜像2 
