@@ -1,8 +1,17 @@
+- taxonomy: 油猴脚本库
+  icon: fa-regular fa-newspaper
+  links:
+    - title: 脚本库
+      logo: https://www.google.com/s2/favicons?sz=64&domain=soujiaoben.org
+      url: https://soujiaoben.org/#/pages/list/list
+      description: 发现新鲜有趣的产品
+    - title: 油猴脚本官网 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
+      url: https://greasyfork.org/zh-CN 
     - title: 油猴多脚本下载器 
       logo: https://www.google.com/s2/favicons?sz=64&domain=youxiaohou.com
       url: https://www.youxiaohou.com/zh-cn/bitcomet.html
       description: 各下载器脚本设置 
-      description: 原地址
     - title: 绕过微软联网账号的限制（最新）
       logo: https://www.google.com/s2/favicons?sz=64&domain=freedidi.com
       url: https://www.freedidi.com/21151.html
