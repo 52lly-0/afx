@@ -33,7 +33,11 @@
     - title: UUID生成
       url: https://99688988.xyz/uuid-generator/
       logo: https://www.google.com/s2/favicons?sz=64&domain=99688988.xyz
-      description: UUID在线生成
+      description: UUID在线生成 
+    - title: 在线视频+音频合成 
+      logo: https://tool.greenvideo.cc/merge
+      url: https://tool.greenvideo.cc/merge
+      description: 音视频在线工具箱合成 
     - title: 8K油管测试
       qrcode: 
       logo: https://www.google.com/s2/favicons?sz=64&domain=youtube.com
@@ -335,6 +339,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=j-so.com
       url: https://j-so.com/?utm_source=web-note.cn
       description: 
+    - title: 盘了个盘 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.panlegepan.com/
+      url: https://www.panlegepan.com/
+      description: 网页搜索 
 
 - taxonomy: Nas专区
   icon: fa-regular fa-newspaper
@@ -1229,15 +1237,14 @@
           url: https://gitcode.com/gh_mirrors/12/123pan_unlock/blob/main/123pan_unlock.js
           logo: https://www.google.com/s2/favicons?sz=64&domain=gitcode.com
           description: 脚本
-        - title: insight
-          url: http://insight.io/
+        - title: 115推送脚本
+          url: https://115.ilxdh.com/
           logo: images/logos/insight.png
           description: IDE-like code search and navigation, on the cloud
         - title: mustsee
           url: http://mustsee.earth/
-          logo: images/logos/mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
-
+          logo: https://www.google.com/s2/favicons?sz=64&domain=115.ilxdh.com/
+          description: 推送115链接 
 
 - taxonomy: 学习教程
   icon: fa-regular fa-folder-open
