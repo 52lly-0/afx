@@ -786,18 +786,18 @@
           url: https://bluepointlilac.github.io/ContextMenuManager/
           logo: https://www.google.com/s2/favicons?sz=64&domain=bluepointlilac.github.io
           description: 右键管理器
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: images/logos/sicangziti.png
-          description: 优质字体免费下载站
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: images/logos/fontsquirrel.png
-          description: FREE fonts for graphic designers
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: images/logos/UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
+        - title: aipy超级牛马智能体 
+          url: https://www.aipyaipy.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=aipyaipy.com/
+          description: 客户端ai智能体 
+        - title: Qclow智能体 
+          url: https://qclaw.qq.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=qclow.qq.com 
+          description: 常用ai800积分智能体 
+        - title: 问小白对话ai
+          url: https://www.wenxiaobai.com/#xiaobai-pro-home-auth-required
+          logo: https://www.google.com/s2/favicons?sz=64&domain=wenxiaobai.com
+          description: 问小白网页ai
         - title: Lost Type
           url: http://www.losttype.com/
           logo: images/logos/losttype.png
