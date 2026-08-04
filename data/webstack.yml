@@ -1,42 +1,94 @@
-    - term: docker分类
+- taxonomy: 各类部署
+  icon: fa-thumbs-up
+  list: 
+    - term: 影视类
       links:
-        - title: 爱盼搜索
-          logo: https://www.google.com/s2/favicons?sz=64&domain=hub.docker.com
-          url: https://hub.docker.com/r/fooololo/aipan-netdisk-search/tags
-          description: 爱盼
-        - title: Freebie Supply
-          logo: images/logos/freebiesupply.png
-          url: https://freebiesupply.com/
-          description: Free Resources For Designers
-        - title: 云瑞
-          logo: images/logos/yrucd.png
-          url: https://www.yrucd.com/
-          description: 优秀设计资源的分享网站
-        - title: Designmodo
-          logo: images/logos/Designmodo.png
-          url: https://designmodo.com/
-          description: Web Design Blog and Shop
-        - title: 稀土区
-          logo: images/logos/xituqu.png
-          url: https://xituqu.com/
-          description: 优质设计开发资源分享
-        - title: ui8
-          logo: images/logos/ui8.png
-          url: https://ui8.net/
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-        - title: uplabs
-          logo: images/logos/uplabs.png
-          url: https://www.uplabs.com/
-          description: Daily resources for product designers & developers
-        - title: UIkit.me
-          logo: images/logos/uikitme.png
-          url: http://www.uikit.me/
-          description: 最便捷新鲜的uikit资源下载网站
-        - title: Fribbble
-          logo: images/logos/Fribbble.png
-          url: http://www.fribbble.com/
-          description: Free PSD files and other free design resources by Dribbblers.
-        - title: PrincipleRepo
-          logo: images/logos/PrincipleRepo.png
-          url: http://principlerepo.com/
-          description: Free, High Quality Principle Resources
+        - title: 壳儿影视
+          logo: https://www.google.com/s2/favicons?sz=64&domain=unilei.github.io
+          url: https://unilei.github.io/kerkerker-config-manager/data/config.enc.json
+          description: 视频源地址
+        - title: 飞鲸影视
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/FNOSP/FlyNarwhal/releases
+          description: 飞牛的飞鲸
+        - title: 非常
+          logo: images/logos/iconmonstr.png
+          url: https://iconmonstr.com/
+          description: Free simple icons for your next project
+        - title: Icon Archive
+          logo: images/logos/iconarchive.png
+          url: http://www.iconarchive.com/
+          description: Search 590,912 free icons 
+    - term: 应用商店 
+      links: 
+        - title: liunx如意玲珑商店
+          logo: https://www.google.com/s2/favicons?sz=64&domain=store.linyaps.org.cn/
+          url: https://store.linyaps.org.cn/
+          description: 第三方玲珑商店下载中心
+    - term: 镜像仓库
+      links:
+        - title: 图吧工具箱
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kingstontechnology.svg
+          url: https://github.com/luolangaga/tubatools
+          description: 修改版
+        - title: 优化工具
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/testrail.svg
+          url: https://github.com/itsfatduck/optimizerDuck/releases/tag/v2.24.2
+          description: 
+        - title: 小红书导出
+          logo: https://www.google.com/s2/favicons?sz=64&domain=xhs.mundane.ink/
+          url: https://xhs.mundane.ink/
+          description: 小红书收藏快速导出
+        - title: Instant Logo Search
+          logo: images/logos/InstantLogoSearch.png
+          url: http://instantlogosearch.com/
+          description: Search & download thousands of logos instantly
+          
+        - title: wallhalla
+          logo: images/logos/wallhalla.png
+          url: https://wallhalla.com/
+          description: Find awesome high quality wallpapers for desktop and mobile in one place.
+        - title: 365PSD
+          logo: images/logos/365PSD.png
+          url: https://365psd.com/
+          description: Free PSD &amp; Graphics, Illustrations
+        - title: Medialoot
+          logo: images/logos/Medialoot.png
+          url: https://medialoot.com/
+          description: Free &amp; Premium Design Resources &mdash; Medialoot
+        - title: 千图网
+          logo: images/logos/qiantu.png
+          url: http://www.58pic.com/
+          description: 专注免费设计素材下载的网站
+        - title: 千库网
+          logo: images/logos/qianku.png
+          url: http://588ku.com/
+          description: 免费png图片背景素材下载
+        - title: 我图网
+          logo: images/logos/wotu.png
+          url: http://www.ooopic.com/
+          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
+        - title: 90设计
+          logo: images/logos/90sheji.png
+          url: http://90sheji.com/
+          description: 电商设计（淘宝美工）千图免费淘宝素材库
+        - title: 昵图网
+          logo: images/logos/nipic.png
+          url: http://www.nipic.com/
+          description: 原创素材共享平台
+        - title: 懒人图库
+          logo: images/logos/lanrentuku.png
+          url: http://www.lanrentuku.com/
+          description: 懒人图库专注于提供网页素材下载
+        - title: 素材搜索
+          logo: images/logos/sousucai.png
+          url: http://so.ui001.com/
+          description: 设计素材搜索聚合
+        - title: PS饭团网
+          logo: images/logos/psefan.png
+          url: http://psefan.com/
+          description: 不一样的设计素材库！让自己的设计与众不同！
+        - title: 素材中国
+          logo: images/logos/sccnn.png
+          url: http://www.sccnn.com/
+          description: 免费素材共享平台
