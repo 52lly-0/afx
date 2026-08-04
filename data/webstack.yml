@@ -225,7 +225,11 @@
         - title: Cloudflare后台
           logo: https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com
           url: https://dash.cloudflare.com
-          description: DNS、CDN、ZeroTrust
+          description: DNS、CDN、ZeroTrust 
+        - title: 部署机器人 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=platform.agentscope.io/deploy 
+          url: https://platform.agentscope.io/deploy
+          description: 保持活跃的机器人对话 
     - term: BT磁力搜索
       links:
         - title: BT1207
@@ -897,10 +901,10 @@
           url: https://v2raya.org/docs/prologue/installation/docker/
           logo: https://www.google.com/s2/favicons?sz=64&domain=v2raya.org/
           description: 纸飞机456
-        - title: StockSnap
-          url: https://stocksnap.io/
-          logo: images/logos/StockSnap.png
-          description: Beautiful free stock photos
+        - title: 节点各类客户端
+          url: https://telegra.ph/%E5%AE%98%E6%96%B9%E5%8E%9F%E7%89%88%E5%AE%A2%E6%88%B7%E7%AB%AF-10-31
+          logo: https://www.google.com/s2/favicons?sz=64&domain=telegra.ph
+          description: 客户端
         - title: albumarium
           url: http://albumarium.com/
           logo: images/logos/albumarium.png
