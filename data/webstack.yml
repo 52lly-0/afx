@@ -173,7 +173,20 @@
         - title: 测速面板
           logo: https://www.google.com/s2/favicons?sz=64&domain=speedtest.net
           url: http://192.168.1.98
-          description: 内网/外网测速
+          description: 内网/外网测速 
+        - title: 测速面板 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=net.netart.cn/
+          url: https://net.netart.cn/
+          description: 在线测速1 
+        - title: Fsat测速
+          url: www.fast.com
+          logo: https://www.google.com/s2/favicons?sz=64&domain=fast.com
+          description: 测速2
+        - title: SPEEDTEST测速
+          url: https://www.speedtest.net/zh-Hans
+          logo: https://www.google.com/s2/favicons?sz=64&domain=speedtest.net
+          description: 测速3 
+          
 
 - taxonomy: 费用（常规）
   icon: fa-solid fa-wallet
@@ -682,16 +695,8 @@
           url: http://principlerepo.com/
           description: Free, High Quality Principle Resources
       
-    - term: 在线测试网（测速）
+    - term: 使肌肤
       links:
-        - title: Fsat测速
-          url: www.fast.com
-          logo: https://www.google.com/s2/favicons?sz=64&domain=fast.com
-          description: 测速1
-        - title: SPEEDTEST测速
-          url: https://www.speedtest.net/zh-Hans
-          logo: https://www.google.com/s2/favicons?sz=64&domain=speedtest.net
-          description: 测速2
         - title: Sketch App Sources
           url: https://www.sketchappsources.com/
           logo: images/logos/sketchappsources.png
