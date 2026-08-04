@@ -26,6 +26,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
       url: https://www.youtube.com
       description: 一个专注于软件安装，科学上网教学！
+    - title: 网页版电报 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=web.telegram.org
+      url: https://web.telegram.org/k/
+      description: telegram网页版 
     - title: UUID生成
       url: https://99688988.xyz/uuid-generator/
       logo: https://www.google.com/s2/favicons?sz=64&domain=99688988.xyz
@@ -568,14 +572,14 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=snapwc.com
           url: https://snapwc.com/zh
           description: 万能在线解析下载(油管)
-        - title: 1
-          logo: images/logos/WebInspiration.png
-          url: http://web.uedna.com/
-          description: 网页设计欣赏,全球顶级网页设计
-        - title: navnav
-          logo: images/logos/navnav.png
-          url: https://navnav.co/
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
+        - title: 网页下载油管
+          logo: https://www.google.com/s2/favicons?sz=64&domain=youtube.iiilab.com/
+          url: https://youtube.iiilab.com/
+          description: 油管视频网页下载 
+        - title: 油管Stacher7下载
+          logo: https://www.google.com/s2/favicons?sz=64&domain=stacher.io/
+          url: https://stacher.io/
+          description: 大文件下载 
 - taxonomy: 各类部署
   icon: fa-thumbs-up
   list: 
@@ -1209,14 +1213,14 @@
           url: https://wiki.movie-pilot.org/install
           logo: https://www.google.com/s2/favicons?sz=64&domain=wiki.movie-pilot.org
           description: MoviePilot Wiki安装指引
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: images/logos/sizzy.png
-          description: A tool for developing responsive websites crazy-fast
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: images/logos/csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
+        - title: 插件小屋 
+          url: https://www.crxsoso.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.crxsoso.com/
+          description: 谷歌插件小屋 
+        - title: 123云盘解锁 
+          url: https://gitcode.com/gh_mirrors/12/123pan_unlock/blob/main/123pan_unlock.js
+          logo: https://www.google.com/s2/favicons?sz=64&domain=gitcode.com
+          description: 脚本
         - title: insight
           url: http://insight.io/
           logo: images/logos/insight.png
