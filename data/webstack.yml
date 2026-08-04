@@ -145,7 +145,12 @@
         - title: 佬王SSH工具
           logo: https://www.google.com/s2/favicons?sz=64&domain=ssh.eooce.com
           url: https://ssh.eooce.com/
-          description: 网页版本
+          description: 网页版本 
+        - title: 网页SSH-1 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=webssh.hidns.vip/ 
+          url: https://webssh.hidns.vip/
+          description: SSH网页版本 
+           
     - term: M3U8
       links:
         - title: m3u8下载器
@@ -205,8 +210,6 @@
           logo: https://www.google.com/s2/favicons?sz=64&domain=signin.aws.amazon.com/
           url: https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fap-east-1.console.aws.amazon.com%2Fec2%2Fhome%3Fca-oauth-flow-id%3D46f2%26hashArgs%3D%2523Instances%253A%26isauthcode%3Dtrue%26oauthStart%3D1785768267735%26region%3Dap-east-1%26state%3DhashArgsFromTB_ap-east-1_5a388e8562677208&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&forceMobileApp=0&oauth_region=ap-east-1&code_challenge=LoC8Xvu49TOdwR9-YT6h5_t4uPW2H6QoWRNMztm1K-c&code_challenge_method=SHA-256
           description: Aws后台登录 
-    - term: CDN服务账单
-      links:
         - title: Cloudflare后台
           logo: https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com
           url: https://dash.cloudflare.com
