@@ -798,14 +798,14 @@
           url: https://www.wenxiaobai.com/#xiaobai-pro-home-auth-required
           logo: https://www.google.com/s2/favicons?sz=64&domain=wenxiaobai.com
           description: 问小白网页ai
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: images/logos/losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: images/logos/fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
+        - title: 讯飞星火ai对话
+          url: https://xinghuo.xfyun.cn/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=xinghuo.xfyun.cn/
+          description: ai讯飞
+        - title: MiniMax对话ai
+          url: https://agent.minimaxi.com/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=agent.minimaxi.com/
+          description: MiniMax，让工作更简单
         - title: Fontex
           url: http://www.fontex.org/
           logo: images/logos/fontex.png
