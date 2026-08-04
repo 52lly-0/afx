@@ -1,104 +1,88 @@
-    - term: 安卓
+- taxonomy: 油猴脚本库
+  icon: fa-regular fa-newspaper
+  links:
+    - title: 脚本库
+      logo: https://www.google.com/s2/favicons?sz=64&domain=soujiaoben.org
+      url: https://soujiaoben.org/#/pages/list/list
+      description: 发现新鲜有趣的产品
+    - title: 油猴脚本官网 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
+      url: https://greasyfork.org/zh-CN 
+    - title: 油猴多脚本下载器 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=youxiaohou.com
+      url: https://www.youxiaohou.com/zh-cn/bitcomet.html
+      description: 各下载器脚本设置 
+      description: 原地址
+    - title: 绕过微软联网账号的限制（最新）
+      logo: https://www.google.com/s2/favicons?sz=64&domain=freedidi.com
+      url: https://www.freedidi.com/21151.html
+      description: win11最新绕过
+    - title: 极客豹（软件）
+      logo: https://www.google.com/s2/favicons?sz=64&domain=zyz.jikefuye.cn
+      url: https://zyz.jikefuye.cn/
+      description: 电脑软件下载.exe应用
+    - title: 电脑清理软件
+      logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+      url: https://github.com/Chunyu33/light-c
+      description: C盘清理
+- taxonomy: 电脑工具箱
+  icon: fa-regular fa-lightbulb
+  list: 
+    - term: 软件
       links:
-        - title: 应用下载
-          logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc
-          url: https://link3.cc/huan666
-          description: app幻 
-        - title: app幻在线安装 
-          url: http://apphuan.top/
-          logo: https://www.google.com/s2/favicons?sz=64&domain=apphuan.top/
-          description: app幻应用下载中心
-        - title: 口袋猩球 
-          logo: https://www.google.com/s2/favicons?sz=64&domain=link3.cc/koudaixq
-          url: https://link3.cc/koudaixq
-          description: 
-        - title: 小米刷机包
-          logo: https://www.google.com/s2/favicons?sz=64&domain=miuiver.com
-          url: https://miuiver.com/tag/dali-stable-rom/
-          description: 线刷卡刷包 
-        - title: 小米K80刷机包 
-          logo: https://www.google.com/s2/favicons?sz=64&domain=roms.lian86.top
-          url: https://roms.lian86.top/brand/redmi/model/dali 
-          description: 第三方刷机包（至尊）
-        - title: 移动式应用便携
-          logo: https://www.google.com/s2/favicons?sz=64&domain=portableapps.com
-          url: https://portableapps.com/
-          description: 移动式U盘app应用 
-        - title: 第三方应用商店 
-          logo: https://www.google.com/s2/favicons?sz=64&domain=cn.aptoide.com/
-          url: https://cn.aptoide.com/
-          descripption: Aptoide应用商店 
-    - term: 系统激活
-      links:
-        - title: 激活器
-          logo: https://www.google.com/s2/favicons?sz=64&domain=ventoy.com
-          url: https://github.com/massgravel/Microsoft-Activation-Scripts
-          description: KMS激活器1 
-    - term: 壁纸
+        - title: 刺客边风
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ckbf88.com
+          url: https://www.ckbf88.com/
+          description: 精品app应用推荐 
+        - title: JJ推
+          logo: https://www.google.com/s2/favicons?sz=64&domain=jjtui.com
+          url: https://www.jjtui.com/
+          description: 电脑app应用 
+        - title: 优资源站 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=www.you82.com/
+          url: https://www.you82.com/
+          description: 资源站 
+        - title: 独特吧
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dute8.cn
+          url: https://www.dute8.cn/?sort=1
+          description: 免费绿色软件 
+        - title: 代码编辑运行器 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=code.visualstudio.com/
+          url: https://code.visualstudio.com/
+          description: 代码运行与编辑 
+    - term: 驱动 
       links: 
-        - title: 电脑
-          logo: https://www.google.com/s2/favicons?sz=64&domain=bizhihui.com
-          url: https://www.bizhihui.com/tags/4Kbizhi/
-          description: 超高清壁纸 
-        - title: 跑车壁纸
-          logo: https://www.google.com/s2/favicons?sz=64&domain=zhuutix.com
-          url: https://zhutix.com/animated/race-car-corrode/
-          description: 跑车壁纸 
-        - title: 第三方壁纸
-          logo: https://www.google.com/s2/favicons?sz=64&domain=wallpaperset.com
-          url: https://wallpaperset.com/
-          description: 第三方壁纸
-    - term: 网盘&下载&工具
+        - title: 驱动总裁
+          logo: https://www.google.com/s2/favicons?sz=64&domain=bbs.wuyou.net
+          url: https://bbs.wuyou.net/forum.php?mod=viewthread&tid=441373
+          description: 
+    - term: PE
+      links: 
+        - title: PE
+          logo: https://www.google.com/s2/favicons?sz=64&domain=silver.yukaidi.com/
+          url: https://silver.yukaidi.com/home?path=cloudreve%3A%2F%2FZmh9%40share
+          description: firPE
+    - term: 操作系统
       links:
-        - title: fluxdown下载器
-          logo: https://www.google.com/s2/favicons?sz=64&domain=fluxdown.zerx.dev
-          url: https://fluxdown.zerx.dev/
-          description: 突破防御100M/s
-        - title: 下蛋 / XiaDown
-          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/threema.svg
-          url: https://github.com/arnoldhao/xiadown
-          description: yt-dlp方式下载
-        - title: imfile全能下载工具
-          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
-          url: https://github.com/imfile-io/imfile-desktop/blob/master/README-CN.md
-          description: 全能下载器
-        - title: Ecommercefolio
-          logo: images/logos/Ecommercefolio.png
-          url: http://www.ecommercefolio.com/
-          description: Only the Best Ecommerce Design Inspiration
-        - title: 萌娘助手
-          logo: https://www.google.com/s2/favicons?sz=64&domain=mn.mdown.asia
-          url: https://mn.mdown.asia/moepal/
-          description: 付费软件
-        - title: 百度解析
-          logo: https://www.google.com/s2/favicons?sz=64&domain=pdpb.cn
-          url: https://pdpb.cn/
-          description: 各网盘解析
-        - title: 视频下载（油管）
-          logo: https://www.google.com/s2/favicons?sz=64&domain=yt5s.biz
-          url: https://yt5s.biz/zh-cnwr200/
-          description: 在线解析后下载
-        - title: 花生下载
-          logo: https://www.google.com/s2/favicons?sz=64&domain=peanutdl.com
-          url: https://peanutdl.com/zh
-          description: 花生下载
-        - title: 在线油管解析
-          logo: https://www.google.com/s2/favicons?sz=64&domain=greenvideo.cc
-          url: https://greenvideo.cc/
-          description: 油管下
-        - title: yt-dlp下载（油管）
-          logo: https://www.google.com/s2/favicons?sz=64&domain=revanced.to
-          url: https://revanced.to/
-          description: ReVanced 是一个完全开源的项目，允许用户自定义他们的安卓应用
-        - title: snapwc下载器
-          logo: https://www.google.com/s2/favicons?sz=64&domain=snapwc.com
-          url: https://snapwc.com/zh
-          description: 万能在线解析下载(油管)
-        - title: 网页下载油管
-          logo: https://www.google.com/s2/favicons?sz=64&domain=youtube.iiilab.com/
-          url: https://youtube.iiilab.com/
-          description: 油管视频网页下载 
-        - title: 油管Stacher7下载
-          logo: https://www.google.com/s2/favicons?sz=64&domain=stacher.io/
-          url: https://stacher.io/
-          description: 大文件下载 
+        - title: Windows10
+          logo: https://www.google.com/s2/favicons?sz=64&domain=microsoft.com
+          url: https://www.microsoft.com/zh-cn/software-download/windows10
+          description: win10镜像1（官网）
+        - title: win10-2
+          logo: https://www.google.com/s2/favicons?sz=64&domain=imsdn.cn
+          url: https://www.imsdn.cn/windows-10/win10-1709/
+          description: win0镜像2 
+    - term: Linux
+      links: 
+        - title: 镜像包1
+          logo: https://www.google.com/s2/favicons?sz=64&domain=m.uc23.net
+          url: https://m.uc23.net/xitong/tinycorelinux/
+          description: 1号
+        - title: 镜像包2 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=dev.jiniq.com
+          url: https://dev.jiniq.com/usrfile/share/route?find=DE9B8LaI93QOJWkfW%2Fz7AyusMGTHuS%2BaJ7Es%2FLAlT%2B4%3D
+          description: 2号 
+        - title: linux下屏幕亮度调节
+          logo: https://www.google.com/s2/favicons?sz=64&domain=zhuanlan.zhihu.com
+          url: https://zhuanlan.zhihu.com/p/269714827
+          description: liunx的亮度调节
