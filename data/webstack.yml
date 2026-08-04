@@ -48,6 +48,10 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=pan.yins.win
       url: https://panel.yins.win/stock
       description: 便宜高速VPS（虚拟机） 
+    - title: D（姐）Vps购买 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=panel.yins.win/
+      url: https://panel.yins.win/stock
+      description: D姐姐vps
     - title: visa虚拟卡
       qrcode: images/qrcodes/usdt.png
       logo: https://www.google.com/s2/favicons?sz=64&domain=app.pokepay
@@ -191,6 +195,10 @@
           url: https://www.speedtest.net/zh-Hans
           logo: https://www.google.com/s2/favicons?sz=64&domain=speedtest.net
           description: 测速3 
+        - title: Ip风险信息查询 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=ipsuper.com/
+          url: https://ipsuper.com/
+          description: IP风险
           
 
 - taxonomy: 费用（常规）
@@ -423,7 +431,11 @@
         - title: 独特吧
           logo: https://www.google.com/s2/favicons?sz=64&domain=dute8.cn
           url: https://www.dute8.cn/?sort=1
-          description: 免费绿色软件
+          description: 免费绿色软件 
+        - title: 代码编辑运行器 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=code.visualstudio.com/
+          url: https://code.visualstudio.com/
+          description: 代码运行与编辑 
     - term: 驱动 
       links: 
         - title: 驱动总裁
