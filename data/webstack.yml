@@ -1382,104 +1382,8 @@
         - title: UX Ren
           url: http://uxren.cn/
           logo: images/logos/uxren.png
-          description: 用户体验人的专业社区
-
-
-- taxonomy: 签到
-  icon: fa-user-group
-  links: 
-    - title: 节点领取（每日）
-      url: https://w1.maxo.top/user
-      logo: https://www.google.com/s2/favicons?sz=64&domain=w1.maxo.top
-      description: 高速？（少量可临时使用）
-    - title: Facebook Design
-      url: http://facebook.design/
-      logo: images/logos/FacebookDesign.png
-      description: Facebook Design
-    - title: Google Design
-      url: https://design.google/
-      logo: images/logos/GoogleDesign.png
-      description: Google Design
-    - title: eico design
-      url: http://eicodesign.com/
-      logo: images/logos/eico.png
-      description: 数字化咨询与产品专家
-    - title: nice design
-      url: http://www.niceui.cn/
-      logo: images/logos/niceui.png
-      description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
-    - title: 腾讯CDC
-      url: http://cdc.tencent.com/
-      logo: images/logos/cdc.png
-      description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
-    - title: TGideas
-      url: http://tgideas.qq.com/
-      logo: images/logos/tgideas.png
-      description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
-    - title: ISUX
-      url: https://isux.tencent.com/
-      logo: images/logos/isux.png
-      description: 腾讯社交用户体验设计部
-    - title: MXD
-      url: http://mxd.tencent.com/
-      logo: images/logos/mxd.png
-      description: 腾讯MIG无线互联网事业群设计团队
-    - title: Aliued
-      url: http://www.aliued.com/
-      logo: images/logos/aliued.png
-      description: 阿里巴巴国际UED团队
-    - title: U一点
-      url: http://www.aliued.cn/
-      logo: images/logos/aliuedcn.png
-      description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-    - title: 网易uedc
-      url: http://uedc.163.com/
-      logo: images/logos/uedc.png
-      description: 网易用户体验设计中心（User Experience Design Center）
-    - title: 百度用户体验中心
-      url: http://ued.baidu.com/
-      logo: images/logos/uedbaidu.png
-      description: 百度用户体验中心
-    - title: 京东设计中心
-      url: http://jdc.jd.com/
-      logo: images/logos/JDC.png
-      description: 京东设计中心
-    - title: 百度企业产品用户体验中心
-      url: http://eux.baidu.com/
-      logo: images/logos/euxbaidu.png
-      description: 百度企业产品用户体验中心
-    - title: 携程设计委员会
-      url: http://ued.ctrip.com/
-      logo: images/logos/ctrip.png
-      description: 携程设计委员会-Ctrip Design Committee
-     
-
-
-
-     
-- taxonomy: 友情链接
-  icon: fa-link
-  friend:
-    - title: 子页面一
-      url: sub1
-      description: 本站子页面1
-    - title: 科技共享
-      url: https://kjgx668.blogspot.com/
-      description: 科技共享
-    - title: webstack.cc
-      url: https://webstack.cc 
-      description: webstack - 设计师网址导航
-    - title: 米贝分享 
-      url: https://www.mibei77.com/
-      description: 分享资源站
-    - title: 404导航
-      url: https://www.404dh.icu/
-      description: 只导航优质资源
-    - title: 飞猪ai导航
-      url: https://feizhuke.com/
-      description: AI工具集箱
-    - title: 所长导航
-      url: https://liutongxu.github.io/ 
+          description: 用户体验人的专业社区 
+          
 - taxonomy: Txt新增链接
   icon: fa-solid fa-plus-circle
   links:
@@ -2790,8 +2694,32 @@
       url: https://www.dygang.net/
     - title: "狗子云"
       logo: https://www.google.com/s2/favicons?sz=64&domain=cn.gz-cloud.top
-      url: https://cn.gz-cloud.top/#/plan
+      url: https://cn.gz-cloud.top/#/plan 
 
----
+
+      
+- taxonomy: 友情链接
+  icon: fa-link
+  friend:
+    - title: 子页面一
+      url: sub1
+      description: 本站子页面1
+    - title: 科技共享
+      url: https://kjgx668.blogspot.com/
+      description: 科技共享
+    - title: webstack.cc
+      url: https://webstack.cc 
+      description: webstack - 设计师网址导航
+    - title: 米贝分享 
+      url: https://www.mibei77.com/
+      description: 分享资源站
+    - title: 404导航
+      url: https://www.404dh.icu/
+      description: 只导航优质资源
+    - title: 飞猪ai导航
+      url: https://feizhuke.com/
+      description: AI工具集箱
+    - title: 所长导航
+      url: https://liutongxu.github.io/ 
     
 ---
