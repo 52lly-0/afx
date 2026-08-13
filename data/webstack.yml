@@ -93,14 +93,6 @@
   list: 
     - term: 别瞎JB点（私人使用）
       links: 
-        - title: 机器人网页1号
-          logo: https://www.google.com/s2/favicons?sz=64&domain=yaosi.weiai0.eu.cc
-          url: https://yaosi.weiai0.eu.cc/
-          description: 带新闻
-        - title: 机器人2号网页ssh
-          logo: https://www.google.com/s2/favicons?sz=64&domain=zhen0727.weiailly.kdns.fr 
-          url: https://zhen0727.weiailly.kdns.fr/
-          description: 玉儿
         - title: 局域网共享平台
           logo: https://www.google.com/s2/favicons?sz=64&domain=baidu.com
           url: http://192.168.1.92:8080/
@@ -112,14 +104,28 @@
         - title: 青柠起始页
           logo: https://www.google.com/s2/favicons?sz=64&domain=limestart.cn
           url: https://www.limestart.cn/
-          description: 导航起始页
+          description: 导航起始页 
+        - title: Spaceship域名
+          logo: https://www.google.com/s2/favicons?sz=64&domain=spaceship.com
+          url: https://www.spaceship.com
+          description: 域名续费管理
+        - title: AWS控制台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
+          url: https://aws.amazon.com/cn/
+          description: 云资源账单监控 
+        - title: Aws后台 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=signin.aws.amazon.com/
+          url: https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fap-east-1.console.aws.amazon.com%2Fec2%2Fhome%3Fca-oauth-flow-id%3D46f2%26hashArgs%3D%2523Instances%253A%26isauthcode%3Dtrue%26oauthStart%3D1785768267735%26region%3Dap-east-1%26state%3DhashArgsFromTB_ap-east-1_5a388e8562677208&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&forceMobileApp=0&oauth_region=ap-east-1&code_challenge=LoC8Xvu49TOdwR9-YT6h5_t4uPW2H6QoWRNMztm1K-c&code_challenge_method=SHA-256
+          description: Aws后台登录 
+        - title: Cloudflare后台
+          logo: https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com
+          url: https://dash.cloudflare.com
+          description: DNS、CDN、ZeroTrust 
+        - title: 部署机器人 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=platform.agentscope.io/deploy 
+          url: https://platform.agentscope.io/deploy
+          description: 保持活跃的机器人对话 
           
-    - term: 日常影视（待处理）
-      links:
-        - title: 油管
-          logo: https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-          url: https://www.youtube.com/watch?v=YQU2tWxBa40
-          description: 待处理影音
     - term: Docker容器面板
       links:
         - title: 飞牛面板
@@ -206,34 +212,7 @@
         - title: Ip风险信息查询 
           logo: https://www.google.com/s2/favicons?sz=64&domain=ipsuper.com/
           url: https://ipsuper.com/
-          description: IP风险
-          
-
-- taxonomy: 费用（常规）
-  icon: fa-solid fa-wallet
-  list:
-    - term: 云服务 & 域名账单
-      links:
-        - title: Spaceship域名
-          logo: https://www.google.com/s2/favicons?sz=64&domain=spaceship.com
-          url: https://www.spaceship.com
-          description: 域名续费管理
-        - title: AWS控制台
-          logo: https://www.google.com/s2/favicons?sz=64&domain=aws.amazon.com
-          url: https://aws.amazon.com/cn/
-          description: 云资源账单监控 
-        - title: Aws后台 
-          logo: https://www.google.com/s2/favicons?sz=64&domain=signin.aws.amazon.com/
-          url: https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fap-east-1.console.aws.amazon.com%2Fec2%2Fhome%3Fca-oauth-flow-id%3D46f2%26hashArgs%3D%2523Instances%253A%26isauthcode%3Dtrue%26oauthStart%3D1785768267735%26region%3Dap-east-1%26state%3DhashArgsFromTB_ap-east-1_5a388e8562677208&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fec2-tb&forceMobileApp=0&oauth_region=ap-east-1&code_challenge=LoC8Xvu49TOdwR9-YT6h5_t4uPW2H6QoWRNMztm1K-c&code_challenge_method=SHA-256
-          description: Aws后台登录 
-        - title: Cloudflare后台
-          logo: https://www.google.com/s2/favicons?sz=64&domain=cloudflare.com
-          url: https://dash.cloudflare.com
-          description: DNS、CDN、ZeroTrust 
-        - title: 部署机器人 
-          logo: https://www.google.com/s2/favicons?sz=64&domain=platform.agentscope.io/deploy 
-          url: https://platform.agentscope.io/deploy
-          description: 保持活跃的机器人对话 
+          description: IP风险 
     - term: BT磁力搜索
       links:
         - title: BT1207
