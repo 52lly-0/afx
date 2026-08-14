@@ -80,10 +80,6 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
       url: https://github.com/lyqht/mini-qr
       description: 二维码制作 
-    - tile: istoreos易有云
-      logo: https://www.google.com/s2/favicons?sz=64&domain=site.istoreos.com
-      url: https://site.istoreos.com/
-      description: 固件刷机包 
     - title: 影视ID查询 
       logo: https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org
       url: https://www.themoviedb.org/tv/75682
@@ -497,7 +493,11 @@
         - title: linux下屏幕亮度调节
           logo: https://www.google.com/s2/favicons?sz=64&domain=zhuanlan.zhihu.com
           url: https://zhuanlan.zhihu.com/p/269714827
-          description: liunx的亮度调节
+          description: liunx的亮度调节 
+        - tile: istoreos易有云
+          logo: https://www.google.com/s2/favicons?sz=64&domain=site.istoreos.com
+          url: https://site.istoreos.com/
+          description: 固件刷机包 
     - term: 安卓
       links:
         - title: 应用下载
