@@ -15,12 +15,12 @@
       url: https://www.52pojie.cn/
       descripthon: 52pojie 
     - title: 佬王工具 
-      logo: https://www.google.com/s2/favicons?sz=64&domain=nav.eooce.com/ 
+      logo: https://www.google.com/s2/favicons?sz=64&domain=https://nav.eooce.com/ 
       url: https://nav.eooce.com/ 
       description: 佬王好用工具网站
     - title: 唯爱李丽玉（个人）
       logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zoiper.svg
-      url: https://52lly.kdns.fr/
+      url: https://hub.974532.xyz/
       description: 想你的每一天！！！
     - title: YouTube
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
@@ -250,17 +250,7 @@
         - title: 科技lion工具箱 
           logo: www.kejilion.sh 
           url: www.kejilion.sh 
-          description: 科技lion工具箱
-    - term: 抖音工具箱
-      links:
-        - title: 下载器
-          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scpfoundation.svg
-          url: https://github.com/anYuJia/better-douyin
-          description: d因下载 
-        - title: D因下载器 
-          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
-          url: https://github.com/Noah0509/DouyinVideoDownload
-          description: 
+          description: 科技lion工具箱 
     - term: 13个接码站 
       links:
         - title: 接码
@@ -549,7 +539,15 @@
           url: https://wallpaperset.com/
           description: 第三方壁纸
     - term: 网盘&下载&工具
-      links:
+      links: 
+        - title: 下载器
+          logo: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scpfoundation.svg
+          url: https://github.com/anYuJia/better-douyin
+          description: d因下载 
+        - title: D因下载器 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
+          url: https://github.com/Noah0509/DouyinVideoDownload
+          description: 
         - title: fluxdown下载器
           logo: https://www.google.com/s2/favicons?sz=64&domain=fluxdown.zerx.dev
           url: https://fluxdown.zerx.dev/
