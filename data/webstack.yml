@@ -929,10 +929,10 @@
           url: https://telegra.ph/%E5%AE%98%E6%96%B9%E5%8E%9F%E7%89%88%E5%AE%A2%E6%88%B7%E7%AB%AF-10-31
           logo: https://www.google.com/s2/favicons?sz=64&domain=telegra.ph
           description: 客户端
-        - title: albumarium
-          url: http://albumarium.com/
-          logo: images/logos/albumarium.png
-          description: The best place to find & share beautiful images
+        - title: 毛子客户端
+          url: https://incy.cc/
+          logo: https://www.google.com/s2/favicons?sz=64&domain=incy.cc
+          description: 毛子节点客户端 
         - title: myphotopack
           url: https://myphotopack.com/
           logo: images/logos/myphotopack.png
