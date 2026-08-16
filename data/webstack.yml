@@ -170,7 +170,11 @@
         - title: m3u8下载器
           logo: https://www.google.com/s2/favicons?sz=64&domain=github.com
           url: https://github.com/zhiyiYo/Fluent-M3U8/blob/main/docs/README_zh.md
-          description: m3u8下载器
+          description: m3u8下载器 
+        - title: ffmpeg下载器 
+          logo: https://www.google.com/s2/favicons?sz=64&domain=https://www.gyan.dev
+          url: https://www.gyan.dev/ffmpeg/builds/
+          description: 播放器必备 
     - term: 屏幕
       links:
         - title: 在线屏幕检测
